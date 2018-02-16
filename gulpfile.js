@@ -86,7 +86,7 @@ gulp.task('imagemin', function(){
                 quality: 90
             })
         ]))
-        .pipe(gulp.dest('images'));
+        .pipe(gulp.dest('assets/images'));
 });
 
 /**
