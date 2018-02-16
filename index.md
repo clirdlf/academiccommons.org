@@ -3,11 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: pages
+title: About The Commons
 ---
-
-## About The Commons
-
 This is the (for now) archived site for Academic Commons, a journal that was published from 2005-2013. During this period, we published 12 issues, which you can find under the ‘issues’ tab of this site.
 
 **Mission**

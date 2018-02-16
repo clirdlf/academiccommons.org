@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Academic Commons | for the liberal education community
+title: The Academic Commons 
+byline: for the liberal education community
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The Academic Commons is hosted by the National Institute for Technology in Liberal Education (NITLE).  All content on the Academic Commons is published under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Authors who submit content for distribution via the Academic Commons, attest that their submissions are original, that they are the author, and that they grant permission to NITLE to distribute it under a Creative Commons Attribution-ShareAlike 3.0 Unported License.

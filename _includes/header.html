@@ -1,0 +1,34 @@
+<header id="masthead" class="site-header clearfix">
+    <div id="header-text-nav-container" class="clearfix">
+        <div class="inner-wrap">
+            <div id="header-text-nav-wrap" class="clearfix">
+                <div id="header-left-section">
+                    <div id="header-text" class="">
+                        <h1 id="site-title">
+                            <a href="{{ site.url }}" title="{{ site.title }}" rel="home">{{ site.title }}</a>
+                        </h1>
+                        <p id="site-description">{{ site.byline }}</p>
+                    </div>
+                    <!-- #header-text -->
+                </div>
+                <!-- #header-left-section -->
+                <div id="header-right-section">
+                    <div id="header-right-sidebar" class="clearfix">
+                        <aside id="search-5" class="widget widget_search">
+                            <form action="{{ site.url }}" id="search-form" class="searchform clearfix" method="get">
+                                <input type="text" placeholder="Search" class="s field" name="s">
+                                <input type="submit" value="Search" id="search-submit" name="submit" class="submit">
+                            </form>
+                            <!-- .searchform -->
+                        </aside>
+                    </div>
+                </div>
+                <!-- #header-right-section -->
+            </div>
+            <!-- #header-text-nav-wrap -->
+        </div>
+        <!-- .inner-wrap -->
+        {% include menu.html %}
+    </div>
+    <!-- #header-text-nav-container -->
+</header>
