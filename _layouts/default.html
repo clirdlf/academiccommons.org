@@ -1,0 +1,44 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{{ site.title }} {{ page.title }}</title>
+        <meta name="description" content="{{ site.description }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="{{ site.url }}/atom.xml" />
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="icon.png">
+
+        <link rel="canonical" href="{{ site.url }}" />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="{{ site.title }}" />
+        <meta property="og:description" content="{{ site.description }}" />
+        <meta property="og:url" content="{{ site.url }}" />
+        <meta property="og:site_name" content="{{ site.name }}" />
+        <meta property="og:image" content="" />
+        <meta name="twitter:site" content="@clirnews" />
+        <meta name="twitter:card" content="summary" />
+
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        {{ content }}
+
+        {% include footer.html %}
+
+        <script src="http://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js" integrity="sha256-SOuLUArmo4YXtXONKz+uxIGSKneCJG4x0nVcA0pFzV0=" crossorigin="anonymous"></script>
+
+        <script>
+            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+            ga('create','{{ site.google-tracking-id }}','auto');ga('send','pageview')
+        </script>
+        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    </body>
+</html>
