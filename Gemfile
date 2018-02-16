@@ -24,8 +24,13 @@ group :jekyll_plugins do
   gem "jekyll-relative-links"
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
+
   # gem 'github-pages'
 end
+
+gem 'jekyll-import'
+gem "hpricot" # for WordPress Import
+gem "open_uri_redirections"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
