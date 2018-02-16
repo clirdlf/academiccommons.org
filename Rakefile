@@ -15,7 +15,6 @@ end
 #  TODO: make this smarter to get the latest dump
 desc 'Import WordPress dump'
 task :import do
-  # ruby -rubygems -e 'require "jekyll-import";
   JekyllImport::Importers::WordpressDotCom.run(
     {
       "source" => "assets/wordpress/theacademiccommons.wordpress.2018-02-15.xml",
@@ -23,11 +22,10 @@ task :import do
       "assets_folder" => "assets/images"
     }
   )
+end
 
-# `ruby -rubygems -e 'require "jekyll-import";
-#       JekyllImport::Importers::WordpressDotCom.run({
-#         "source" => "assets/wordpress/theacademiccommons.wordpress.2018-02-15.xml",
-#         "no_fetch_images" => false,
-#         "assets_folder" => "assets/images"
-#       })'`
+desc 'Fix category bug'
+task :fix_colons do
+  `find ./_posts -type f -exec sed -i '' -e 's/'Games in Education:/'Games in Education-/g' {} \;`
+  # grep -rl "Games in Education:" _posts | xargs sed -i 's/Games in Education:/Games in Education/g'
 end
