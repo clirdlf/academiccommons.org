@@ -50,7 +50,7 @@ gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
  * Minify image assets
  */
 gulp.task('imagemin', function(){
-  return gulp.src(['images/**/*.{gif,png,jpg,JPG}'])
+  return gulp.src(['images/**/*.{gif,png,jpg,JPG}', 'assets/images/**/*.{gif,png,jpg,JPG}'])
         .pipe(imagemin([
             //png
             imageminPngquant({
