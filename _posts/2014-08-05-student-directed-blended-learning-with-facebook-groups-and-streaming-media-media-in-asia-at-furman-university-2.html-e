@@ -1,0 +1,586 @@
+---
+layout: post
+title: 'Student-Directed Blended Learning with Facebook Groups and Streaming Media:
+  Media in Asia at Furman University'
+date: 2014-08-05 11:55:26.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Transformations
+tags:
+- Asian Studies
+- blended learning in liberal arts
+- Facebook
+- Furman University
+- multi-modal instruction
+- Special Issue
+- streaming media pedagogy
+- Tami Blumenfield
+meta:
+  _edit_last: '22601'
+  accelerate_page_layout: default_layout
+author:
+  login: 8164ba8413978d82461815a292be2e0c
+  email: dklemonski@middlebury.edu
+  display_name: Daniel Klemonski
+  first_name: Daniel
+  last_name: Klemonski
+---
+<p><em>by Tami Blumenfield, James B. Duke Assistant Professor of Asian Studies, Furman University</em></p>
+<p><img class="alignleft size-full wp-image-24" src="{{ site.baseurl }}/assets/images/Blumenfield.jpg" alt="photograph of Tami Blumenfield, author of &quot;Student-Directed Blended Learning with Facebook Groups and Streaming Media: Media in Asia at Furman University&quot;" width="87" height="103" /></p>
+<h2>Executive Summary</h2>
+<p>Furman University prizes itself on being an engaged learning, liberal arts institution with extensive faculty-student interaction. 96% of students live on campus, leading some to question whether reducing face-to-face instructional time makes any sense pedagogically. Coming from a different institution that encouraged faculty to create hybrid courses, and seeing the creativity and freedom that offered, I wanted to experiment with the format in this new institutional environment. Would it still be effective? What adaptations would be necessary, and how would students react to this different course format?</p>
+<p>In Fall 2013, I taught a carefully designed blended learning course that met once weekly for two hours and offered students extensive choices for meeting the course and unit learning objectives, using Facebook groups to report on and discuss their progress and communicate with their peers.</p>
+<p>This case study examines the course experience and outcomes. It discusses practical and logistical elements of teaching a flipped-classroom, hybrid version of a general-education, Asian Studies course. The case study delves into student responses to the freedom provided by the course requirements and the implications of using Facebook as a learning management system. Finally, the case study analyzes the role of courses like Media in Asia at a residential campus like Furman University and the broader role of hybrid pedagogy in the liberal arts context. It concludes with recommendations for institutional support of hybrid course initiatives.</p>
+<p><!--more--></p>
+<h2>Introduction</h2>
+<p>Furman University prizes itself on being an engaged learning, liberal arts institution with extensive faculty-student interaction. 96% of students live on campus, leading some to question whether reducing face-to-face instructional time makes any sense pedagogically. Coming from a different institution that encouraged faculty to create hybrid courses, and seeing the creativity and freedom that offered both students and faculty, I wanted to experiment with the format in this new institutional environment. Would it still be effective? What adaptations would be necessary, and how would students react to this different course format?</p>
+<p>This article explores these questions by examining Media in Asia, a blended learning course I taught first in the International Studies program at Portland State University in 2011 and significantly adapted in 2013 for the Asian Studies program at Furman University. The class size decreased from 35 to 25, the number of weeks increased from 10 to 16, the learning platform changed from Desire2Learn (D2L) to Facebook, and the assessment activities were transformed, incorporating rubrics, self-assessments, and peer assessments. The overall course structure remained the same, with one class meeting each week and students assigned to choose their own media selections to meet learning objectives.</p>
+<p>The following section delves into some pedagogical assumptions behind the blended learning movement and presents some claims about its effectiveness.</p>
+<h2><strong>Blended Learning, Course Design, and Pedagogical Assumptions</strong></h2>
+<blockquote><p>“The focus of instruction in most hybrid development programs is on course design or course redesign. For hybrid, focusing on design is very important since a significant portion of learning takes place outside the classroom.” (Caulfield 2011: 61)</p></blockquote>
+<p>Many advocates of hybrid pedagogy emphasize that a course must be extremely well designed to survive the transition from face-to-face to online, even partially online, instruction. This was a central organizing principle for the hybrid-teaching workshop I participated in at Portland State University in 2011. Facilitated by Janelle Voegele and Michael Chamberlain, with Aifang Gordon, Vincent Schreck, and Mark Terui at Portland State University, the quarter-long workshop was a required part of an Academic Innovation Mini-Grant and was an extremely important catalyst to develop a first iteration of the Media in Asia course discussed in this article.[1]</p>
+<p>The workshop emphasized that instructors must ensure that learning objectives are clear. They must carefully think through what preparation students must undergo before a class session, planning assignments and class sessions well in advance. Though important, logistical elements like developing online calendars and creating redundancy in online learning platform layouts so that students can clearly (and quickly) know where to find information on upcoming deadlines and course activities were given secondary priority in the workshop.[2] These technical elements could fall into place relatively easily, but creating a robust, coherent, effective course could not happen without a thorough reexamination of pedagogical strategies. With this in mind, blended learning becomes not only a new way to organize a class, but also represents an opportunity to radically reorganize instruction (and hopefully improve it).</p>
+<p>In a blog post, Mike Winiski from the Furman Center for Teaching and Learning also emphasizes that blended learning discussions are fundamentally discussions about something broader:</p>
+<p>There’s been a great deal of chatter recently about the “flipped classroom” and “blended learning.” If we’re to have deeper dialog, I think it’s important to note that the real conversation is about design. Effective teachers strive to design environments (whether physical or digital) that set the stage for in-class interactions that are rigorous, robust, analytical, dynamic and lead to deeper learning.<br />
+(Winiski 2012)</p>
+<p>Winiski goes on to note that the Learning Cycle of “exploration, reflection, conceptualization, and application” (see Kolb 1984) offers a good framework for designing courses that promote these interactions (2012).[3]</p>
+<p><img class="alignnone wp-image-28 size-full" src="{{ site.baseurl }}/assets/images/Blumenfield_Figure1.jpg" alt="Figure 1, &quot;Student-Directed Blended Learning with Facebook Groups and Streaming Media: Media in Asia at Furman University,&quot; by Tami Blumenfield" width="199" height="152" /></p>
+<p><strong>Figure 1</strong>. The Kolb Learning Cycle. Image developed by Clara Davies and Tony Lowe,<br />
+<a href="http://www.ldu.leeds.ac.uk/ldu/sddu_multimedia/kolb/static_version.php" target="_blank" rel="noopener">http://www.ldu.leeds.ac.uk/ldu/sddu_multimedia/kolb/static_version.php</a><em>.</em></p>
+<h2>The Consensus on Course Design and Learner-Centered Pedagogy</h2>
+<p>What are effective course design strategies? According to the teaching and learning consultants who have guided my early teaching career, they include learner-centered pedagogy and draw heavily on L. Dee Fink’s course design principles (Fink 2003).[4] These principles involve designing a course around long-term learning goals, with shorter-term learning objectives crafted to make achieving the longer-term goals possible. They involve careful consideration of student-centered instructional strategies tailored to individual disciplines. And they require meaningful course activities.</p>
+<p>One suspects that many college teachers remain in the transmission mode of ‘covering’ material, although this approach does not lead to long-lasting knowledge retention. Persellin and Daniels address this as they explain the rationale for learner-centered instruction:</p>
+<p style="padding-left: 60px"><em>Learning is not necessarily determined by what a teacher ‘covers’ in class, but also by students actively building an understanding of core concepts in their own minds. People learn most effectively when they are engaged in a meaningful and challenging activity. Students need to work, to solve problems so that they can teach themselves and construct a new understanding of the material. By being challenged and actively grappling with ideas, students learn more deeply. </em>(Persellin and Daniels n.d.: 3)</p>
+<p><em>Hacking Your Education</em> (Stephens 2013) provides another perspective. A young man whose parents adopted an unschooling approach to his education and who subsequently found university education deeply disappointing, the author criticizes university undergraduate courses because they do not ask students what they wish to learn. Stephens argues that learning is more meaningful when students can shape their learning trajectories.[5] While I suspect the uncollege approach he advocates would be better suited to some learners than others, his basic argument makes sense. Blended learning holds the promise of facilitating the student-directed learning he encourages.</p>
+<p>I built significant flexibility into the course design for Media in Asia, offering even more choices for students after reading Stephens’ book. I planned to take advantage of students’ familiarity with sharing and commenting on information by incorporating Facebook into the course. Before I elaborate further on the design for this course, some notes on institutional support will provide the context for Media in Asia at Furman.</p>
+<h2><em>Institutional Support and Context</em></h2>
+<p>Furman University has been a strong proponent of engaged learning for over a decade. Often, this takes the format of student-faculty research projects or internship opportunities, but faculty are also encouraged to form close teacher-student relationships. Capping class sizes at 25 makes this instructional engagement more feasible than at an institution with large lecture courses, but getting to know 25 students well is often precluded by the limited time spent together during busy class sessions. As an assistant professor in an Asian Studies Department where courses must fulfill general education requirements and maximizing enrollment is a priority, I wanted to explore alternative ways to engage with students.</p>
+<p>Since March 2013, I have participated in a Faculty Learning Community with other Furman faculty that has explored promising practices for blended learning in liberal arts contexts, funded by an Associated Colleges of the South (ACS) grant.[6] Unlike the Portland State hybrid course workshop, with its carefully designed objectives and team of expert facilitators and instructional designers determined to shift a significant number of courses to the hybrid model, the Furman learning community has been more discussion-based and exploratory. In different ways, all participants are rethinking what happens during the class session to maximize interaction during class.[7] I am the only member of the group shifting instructional time, partly out of recognition of the ‘course-and-a-half’ syndrome discussed in the Portland State workshop sessions: as faculty develop new ways to incorporate technology into courses but do not reduce readings or other class preparation requirements, the overall workload for both students and faculty can increase to unmanageable levels.</p>
+<p>A major barrier to the development of hybrid courses is the time investment required, and support for curricular innovation from the Humanities Development Fund at Furman helped overcome that barrier by enabling me to dedicate time to planning the course. Additional resources that enabled me to develop the Media in Asia course included a weeklong course design workshop facilitated by Diane Boyd, which helped me make significant changes to the course flow and assessment techniques, and support from university administrators.[8] Not all faculty at all institutions enjoy this level of philosophical, curricular, administrative, and practical support, and I consider myself fortunate to have developed the course under these conditions.[9]</p>
+<h2><strong>Course experience: The practical and logistical elements of teaching a hybrid, general-education, Asian Studies course</strong></h2>
+<p><strong><em>Course goals and innovations</em></strong></p>
+<p>Media in Asia met once weekly for two hours in Fall 2013 and offered students extensive choices for meeting the course and unit learning objectives, using Facebook groups to report on and discuss their progress and communicate with their peers. Two main course goals were to educate students to think critically about media and representation, including developing a better understanding of genres; and to familiarize them with some contemporary Asian societies through immersion in distinct Asian media forms. Also, I wanted students to enjoy learning about Asia, so that they emerged from the course still wanting to explore more and learn more. With these broad goals, untethering the students from the standard requirements to all watch the same films helped expand the amount of media that we collectively consumed. This broadened the viewpoints that we could collectively bring to the discussion in what Diane Boyd has called the “proliferation and accumulation” model of learning.[10]</p>
+<p>Many weeks, students made their own choices about what Korean drama series, Chinese martial arts film, Japanese anime, or Bollywood film they would watch. After completing their viewing, they posted screenshots of the original media and analysis of what they watched in their designated Facebook group. Weekly class meetings involved discussions of the smaller group conversations and themes that emerged across groups, short introductions to new topics, opportunities to practice analyzing media components, self-assessments and peer assessments of assignments and projects, and time to collaborate with classmates on projects.</p>
+<p><strong>Learning Objectives</strong></p>
+<p>By the end of this course, students should be able to:</p>
+<ol>
+<li>Articulate connections between popular culture genres in various countries with distinct forms, national contexts, and histories</li>
+<li>Learn about a range of contemporary Asian societies through watching media from those places, developing context and background for future interactions in Asia or with people from Asia</li>
+<li>Critically analyze arguments and associated claims in media and in discussions about media works</li>
+<li>Develop media analysis skills</li>
+<li>Critically analyze current events as reported in popular media</li>
+</ol>
+<p><em>(See Appendix 1, </em><em>Course Learning Goals, Learning Activities, and Assessment Procedures, for more detail.)</em></p>
+<h2>Course logistics</h2>
+<p>Media in Asia included independent and shared components that spanned the range of the Kolb Learning Cycle (Kolb 1984), presented in Table 1 and Figure 2.</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td width="80"><strong> </strong></td>
+<td width="86"><strong>Independently</strong></td>
+<td width="99"><strong>During class meetings</strong></td>
+<td width="122"><strong>Independently</strong></td>
+<td width="104"><strong>During class meetings</strong></td>
+</tr>
+<tr>
+<td width="70"><strong>Example 1    </strong></td>
+<td width="86">Students explored media, often choosing what they would watch or read.</td>
+<td width="99">As a class, we discussed the smaller group discussions and themes that emerged across groups.</td>
+<td width="122">After completing their viewing, they posted screenshots and analysis in their designated Facebook group, along with links to additional information.Students commented on peers’ posts and drew comparisons with their own viewing.</td>
+<td width="104">I provided short introductions to new topics, asking those familiar with the topics to share their perspectives and viewing recommendations.</td>
+</tr>
+<tr>
+<td width="70"><strong><em>Learning Cycle Stage</em></strong></td>
+<td width="86">Exploration</td>
+<td width="99">Conceptualization</td>
+<td width="122">Reflection and conceptualization.</td>
+<td width="104">Conceptualization</td>
+</tr>
+<tr>
+<td width="70"><strong>Example 2.</strong></td>
+<td width="86">Students had opportunities to practice analyzing media components.</td>
+<td width="99">I showed short clips, demonstrated how to analyze them, and gave students opportunities to practice.</td>
+<td width="122">Students continued analyzing media components.</td>
+<td width="104">We viewed and discussed clips that students brought to share with the rest of the class.</td>
+</tr>
+<tr>
+<td width="70"><strong><em>Learning Cycle Stage</em></strong></td>
+<td width="86">Application</td>
+<td width="99">Application</td>
+<td width="122">Application</td>
+<td width="104">Reflection and Conceptualization</td>
+</tr>
+<tr>
+<td width="70"><strong>Example 3. </strong></td>
+<td width="86"></td>
+<td width="99">Students had time to collaborate with classmates as they developed projects.</td>
+<td width="122">Students prepared assignments, including comparison manga, concept maps, and PechaKuchas.</td>
+<td width="104">Students did self-assessments and peer assessments of assignments and projects, sometimes through gallery walks that showcased student work.[11]</td>
+</tr>
+<tr>
+<td width="70"><strong><em>Learning Cycle Stage</em></strong></td>
+<td width="86"></td>
+<td width="99">Application</td>
+<td width="122">Conceptualization and Application.</td>
+<td width="104">Conceptualization and Reflection</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 1. Course activities conducted independently and during the class session.</strong></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><a href="http://www.academiccommons.org/wp-content/uploads/2014/08/Blumenfield_Figure2.png"><img class="aligncenter wp-image-306 size-full" src="{{ site.baseurl }}/assets/images/Blumenfield_Figure2.png" alt="Blumenfield_Figure2" width="975" height="780" /></a></p>
+<hr />
+<p><strong>Figure 2. </strong>Applying the Kolb Learning Cycle</p>
+<p>My goal was to facilitate student learning in the constructivist style while keeping student contributions central (cf. Finkel 2000). But how did students perceive the course experience? Could a hybrid course with Facebook groups, flexible assignments, and an emphasis on peer-peer interaction instead of instructor-centered teaching achieve its objectives?</p>
+<h2><strong>Course Outcomes: Using Facebook as a Course Management System</strong></h2>
+<p><em>By using technologies that students are comfortable with like Facebook, faculty can create a powerful learning environment through the merging of the creative, collaborative, social, and interactive capabilities of this powerful platform.</em><br />
+--Fontana 2010</p>
+<p>In her discussion of hybrid learning logistics, Caulfield explores ambivalence among faculty about using social network tools like Facebook and Twitter as instructional tools (2011: 158-160). Opinions among both faculty and students range widely on this topic. I carefully considered the decision to use what is to many a distracting, purely social platform as a learning tool (Madge et al. 2009: 148-149), then decided that for a media course where many of us watched different selections each week, the ability to see previews or thumbnails of images and videos would be extremely useful. Furthermore, the ‘like’ button and overall link functionality could be effective components of our discussion forum. As Fontana emphasizes above, Facebook is a powerful platform on many levels.Hocoy (2013) also found that using Facebook in a course offered unique engagement and a “different way of knowing.”[12]</p>
+<p><strong> <em>Student opinions about Facebook: Qualitative and quantitative feedback</em></strong></p>
+<p><em>I always give my best effort in this course. I try to analyze a media form as deeply and thoroughly as I can. I talk in class when I have something to say, and I probably could speak more often, but I think I am a lot more comfortable with discussing media through online Facebook groups than in class. Online, I am able to have more time to think before I type my opinion.</em></p>
+<p>Reactions to the Facebook Groups varied. Some, like the student whose midterm feedback is quoted above, found they provided a better way to express oneself than participating in face-to-face class discussions. Another student wrote on her midterm course evaluation, “Please please don’t use Facebook groups. It makes everything confusing.”[13] The vast majority of students, though, declared the groups to be either somewhat helpful or extremely helpful to their learning, as their responses to anonymous mid-semester and end-of-semester feedback survey questions indicate (Table 2).</p>
+<p>Qualitative data taken from introductions to students’ Facebook portfolios, designed to reflect on their semester-long contributions and learning at the end of the semester, illuminate the quantitative survey data.[14] Three examples are given below.[15]</p>
+<p style="padding-left: 60px">This course utilizes Facebook in order to allow students to interact with each other real time away from the class. Because the majority of college students are active social media users, Media in Asia notifications are visible to us in a form we prioritize. Our Facebook groups are made up of five to six individuals and serve as a platform to have casual discussions throughout the week on reading and viewing assignments. <strong>The use of social media definitely integrates class material into our out-of-class lives in a more organic way than I’ve experienced before.</strong> The groups are small enough that dynamics form throughout the class, and each member learns about fellow members’ areas of interest.<br />
+-- (MG, introduction to Facebook post portfolio)</p>
+<p style="padding-left: 60px"> “I have to watch a movie/drama/anime, etc. for homework then I turn in my assignments via Facebook.” This was the most refreshing statement I could repeat all semester. Aside the hearty laughter, though, there was more than just “watching” and “posting.”</p>
+<p style="padding-left: 60px">The watching took me behind the scenes, behind the camera and behind the director. While still viewing the same screen, I took notes of camera angles, how that specific angle made me feels [<em>sic</em>] as a part of a general audience. “Watching” allowed my eyes to become sensitive, color sensitive and prop-sensitive, noticing how the protagonist and antagonist are portrayed. “Posting” let me articulate my ideas and opinions of the films as I usually talked about culture and how culture affects the media style. It also allowed for good conversation with my classmates, again usually about culture, the economic culture, multi-culture, etc. <strong>I was amazed by the different opinions people had the experiences they were willing to share and even just how they viewed the exact same media piece. I realized that just one viewpoint on anything, but especially media, must be cumulative instead of a narrow, one-sided viewpoint.<br />
+</strong>-- (JL, introduction to Facebook post portfolio)</p>
+<p style="padding-left: 60px">I have written in total 19 posts! And each is half a page long! Dr. Blumenfield commented on every one of my posts and I have comments from my group members on Korean drama, martial arts films, and animation. <strong>I feel so surprised as looking back, I have kept all my feelings and reactions in these Facebook posts along the way.</strong> I think this is a wonderful experience to me.<br />
+-- (LS, introduction to Facebook post portfolio)</p>
+<p><strong> </strong>Many students thus found the Facebook platform to be an effective way to engage with their classmates and articulate their own ideas, and one they could take pride in at the end of the term. See Appendix 2 for further student comments, grouped thematically.</p>
+<p><em>Quantitative Feedback</em></p>
+<p><em>To what extent have the use of Facebook groups and the emphasis on independent work affected your learning in this class?</em><em><strong>[16]</strong></em></p>
+<table>
+<tbody>
+<tr>
+<td width="107"></td>
+<td width="57">Midterm Feedback (n=19)</td>
+<td width="63">Midterm Feedback Percentage</td>
+<td width="80">End-of-term Feedback (n=21)</td>
+<td width="86">End-of-term Feedback Percentage</td>
+<td width="86">Average Percentage</td>
+</tr>
+<tr>
+<td width="107">Very positive effect on my learning</td>
+<td width="57">9</td>
+<td width="63">47.4%</td>
+<td width="80">7</td>
+<td width="86">33%</td>
+<td width="86">40.2%</td>
+</tr>
+<tr>
+<td width="107">Somewhat positive effect on my learning</td>
+<td width="57">7</td>
+<td width="63">36.8%</td>
+<td width="80">8</td>
+<td width="86">38%</td>
+<td width="86">37.4%</td>
+</tr>
+<tr>
+<td width="107">Neutral</td>
+<td width="57">2</td>
+<td width="63">10.5%</td>
+<td width="80">4</td>
+<td width="86">19%</td>
+<td width="86">14.8%</td>
+</tr>
+<tr>
+<td width="107">Somewhat negative effect on my learning</td>
+<td width="57">1</td>
+<td width="63">5.3%</td>
+<td width="80">0</td>
+<td width="86">0</td>
+<td width="86">2.7%</td>
+</tr>
+<tr>
+<td width="107">Very negative effect on my learning</td>
+<td width="57">0</td>
+<td width="63">0</td>
+<td width="80">2</td>
+<td width="86">9.5%</td>
+<td width="86">4.8%</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: percentages have been rounded to the nearest tenth.</em></p>
+<p><strong>Table 2. </strong>Student opinions of Facebook and independent work.</p>
+<p>Sixteen students reported that Facebook and the independent emphasis of the course had a very positive or somewhat positive effect on their learning at the course mid-point, and 15 students reported this at the end of the course. Given the small sample size and the increase in number of respondents for the final feedback, the percentage declined from 84.2% at the course mid-point to 71% at the end of the course. Two additional students joined the ‘neutral’ category and two moved to the ‘very negative effect’ category. Since 25 students were enrolled in the class, it is unclear whether the same 19 students responded the second time and were joined by two new students or whether a different subset of students responded. With these caveats in mind, however, the trends are clear: the majority of students appreciated the use of Facebook, and a smaller but significant minority found it did not help them learn.<strong> </strong></p>
+<h2><strong>Course Outcomes: Student Reactions to Flexible Course Requirements </strong></h2>
+<p>The combination of Facebook use and schedule flexibility contributed to deeper student engagement, meaningful peer-to-peer learning, and an accumulation of ideas that the class could develop and critique together. Students developed more sophisticated understandings of media, genres, and Asia. In an unexpected yet welcome outcome, the use of Facebook gave international students more opportunities to speak up and gave U.S. students more opportunities to listen.</p>
+<p><strong> <em>Deeper student engagement and peer-peer learning</em></strong></p>
+<p>The diversity and range of experiences that my students brought to Media in Asia surprised me. Although the entire campus had only 103 international students—less than 4% of the Furman student population—this class had 6 international students. Put another way, international students, all from Asia, comprised 24% of the class.[17] Indonesian, Korean, Russian, and Vietnamese transnationally raised students joined several Chinese students in the class. Several other U.S. students brought expertise as Japanese Studies, Chinese Studies, or Asian Studies majors; of these, a few had traveled to Asia. Other students contributed little relevant geographic knowledge, but shared disciplinary expertise in Communications Studies or other related fields.</p>
+<p>Admitting that I did not know everything about all the course topics destabilized my authority and left me more vulnerable to student perceptions than if I had assumed an all-knowing air, but I felt it important that I explain this in part to encourage students to look to other students as sources of insight and knowledge.[18]</p>
+<p>Some researchers of blended learning (Hocoy 2013) have noted that it can bolster peer relationships among students on large campuses where many students commute and have fewer opportunities to befriend classmates. While a residential liberal arts college offers numerous opportunities for students to get to know their classmates, the course still made a contribution. It encouraged collegial relationships, if not deep friendships, among members of groups that may remain distant across certain identity categories (Greek life participant or not, U.S. citizen or international student, etc.).</p>
+<p>The other students’ presence, and willingness to share how they felt, was felt most acutely when we studied documentaries created by Asian-American filmmakers. Students who shared that background offered their experiences and perspectives. For example, a Chinese student related how certain friends and classmates would walk up to him in the cafeteria, then make pretend kung-fu movements. Illustrations of this type of racist stereotyping really surprised the other students, and these powerful moments stayed with us following that day’s class discussion: students referred back to them in subsequent Facebook discussion posts and informal discussions.</p>
+<p>Some international students at Furman have voiced frustration that because of their emerging English language skills, they have felt treated like burdens inconveniencing their professors. Furthermore, they complained that U.S. students never took much interest in them, assuming they had little to contribute.[19] In this class, they had a lot to contribute and their contributions were highly valued. One of the international students commented:</p>
+<p style="padding-left: 60px">Throughout the semester, I have learned of various Asian media types and got to share some of my experiences with them. Being born and having grown up in Jakarta, Indonesia for half of my life, and being able to travel there every summer to visit my family, I was very fortunate to be able to share my experiences with my fellow classmates in this class. Not only did I grow up with some of these media types and thus grew accustomed to them, but I also got the rare chance of being able to seem them change over time. Being in the class not only pushed me to enhance my experiences and learn about these media types even more than my own personal knowledge, but also allowed me to share these experiences that I otherwise would not have realized I had.</p>
+<p>Unfortunately, the instructor-centric design of many other courses, with synchronous discussions the primary opportunity for sharing ideas, precluded international students from developing the same levels of comfort in other courses. Many students faced either language barriers, timidity, or deeply socialized expectations that students should remain quiet in class while instructors lectured.</p>
+<p>In Media in Asia, the asynchronous Facebook discussions gave students time to digest classmates’ posts and develop responses with less anxiety. This contributed to the deep reflection advocated by the Kolb learning cycle. Being able to learn from international students also benefited students from the United States. One U.S.-born student commented: “I really like group discussion and when we discuss as a whole class. I really learn a lot from others who know more about the cultures of the various places we are learning about.”[20] The peer learning permitted by de-centering the instructor’s role and providing class time for students to share their thoughts thus contributed to fulfilling the objective about developing context and background for interactions with people from Asia.[21]</p>
+<p><strong><em>Content flexibility, schedule flexibility, and student engagement </em></strong></p>
+<p><em>Students whose style preferences are routinely ignored in the classroom are more likely to disengage from new learning. By failing to reach out to different learning styles, teachers increase the ranks of unmotivated, uncomfortable students in their classrooms. Conversely, students become more committed to learning when their styles are validated in the classroom.  </em>(Silver et al. 2013)</p>
+<p>Most students appreciated the freedom of being able to choose what to watch. (A list with suggested viewing options was provided, and students with knowledge of the media form were urged to share recommendations with their peers.) One student commented that she learned to value her classmates’ suggestions over her own haphazard choices.</p>
+<p>At the beginning of the term, students took learning style assessments and posted about the results by way of introduction, along with some thoughtful reflection about how they would adapt their learning style to the course, for the group.[22] Eleven students presented as visual learners, five as tactile/visual, three as visual/kinesthetic, and only one as an auditory learner. That means twenty of the twenty-one students demonstrated visual learning preferences, albeit sometimes mixed with other modalities. With this information in mind, I sought to provide visual options for student work wherever possible.[23]</p>
+<p>Even at a residential liberal arts college, the majority of students appreciated having class only once a week. Although they all lived on campus, they were busy with other classes, campus organizations, and part-time jobs or volunteer work; the format gave them added flexibility. Requiring evening media viewing sessions, as most film classes do, invariably results in some students being unable to attend and subsequent challenges in circulating media to those students. In Media in Asia, students could usually choose what to watch and when to watch it.[24] Some chose to complete viewing together, while others viewed it on their own. (Many discussed roommates wondering what they were doing, often jealous that they could watch dramas, anime, or Disney movies for their homework.) On two occasions when streaming media were relatively unavailable and DVDs required, I held screening sessions on Thursday afternoons; these were poorly attended but did have 3 or 4 students (out of 25).[25]</p>
+<p>During the class sessions, we viewed some excerpts together. I used these opportunities to demonstrate the attentiveness and detailed analysis I expected from students during their independent viewing. Thus despite the flexible schedule, students knew they were accountable for completing assigned viewing and reading. The Facebook posts and screenshots, following detailed prompts I gave each time, demonstrated their engagement with the assigned material.</p>
+<p>Other faculty, upon learning of the flexible schedule I implemented, have expressed concerns that loosening control of synchronous instruction diminishes collective and concentrated learning. To these concerns, I respond that each instructor designs learning activities that best meet the objectives of the course. Since core objectives of Media in Asia are developing a greater understanding not of particular films and television episodes, but about genres themselves, and learning about contemporary Asian societies through examining their media, it was more important that the class accumulate broad knowledge of many films and episodes than that we intensely examined several media works together. Once students had completed their viewing, they shared what they learned through their Facebook posts, compared their material with others in small groups, then discussed it during class sessions with the larger group in the “proliferation and accumulation” model discussed above: students could better conceptualize genres after sifting through the knowledge accumulated by the entire class.[26] Furthermore, that knowledge became more meaningful precisely <em>because</em> it was generated by the students themselves.</p>
+<p>End-of-term portfolio introductions and student comments demonstrated that this model of proliferation and accumulation, conducted in a way that gave students choices about what they viewed, helped students master the objectives described above. Students wrote:</p>
+<p style="padding-left: 60px">“Over the course of the semester I have both expanded my knowledge of Asian media, as well as delved into the themes within them. As the class progressed I was able to notice frequent patterns within the different types of media and interpret them in different ways.”</p>
+<p style="padding-left: 60px">“I like the fact that this class gave us the flexibility to engage in areas we are most interested in.”</p>
+<p> Certainly, this course design, in terms of both the schedule and the assignment format, would not suit every class, but it worked well for this particular course.</p>
+<h2><strong><br />
+Special considerations for using Facebook: Privacy, liability, and logistical recommendations</strong></h2>
+<p>Using Facebook as a learning management system, a purpose for which it was not designed, takes some creativity and some tweaking. Maintaining student privacy requires special attention. Unlike Parker (2012), I am not comfortable using open groups on Facebook for required assignments, because requiring students to post publicly may violate the Family Educational Rights and Privacy Act (FERPA).[27] I started by creating “secret groups,” then temporarily made them public until every student had found the group and joined. At that point, I changed the settings so that others could not see group members or the content of posts.[28]</p>
+<p>I do not share the same fear of liability espoused by Mendez et al. (2014), who fretted about students appealing course grades because of perceived slights related to Facebook use.[29] After describing these situations, the authors caution:</p>
+<p style="padding-left: 60px">“While Facebook can conceivably connect college students in group discussions, interact remotely, communicate with these classmates, and receive notification of upcoming assignments, most students do not find these very beneficial (Parry &amp; Young, 2010) due to the nature of the SNS. Although a large number of college students are using Facebook, it remains a social, not academic, median [<em>sic</em>], enabling them to communicate with friends, relatives and other students. SNSs like Facebook show no indication of lower popularity. Given the dynamics, faculty may be tempted to meet students on their turf to facilitate engagement, but at what costs and liability?” (Mendez et al. 2014: 7)</p>
+<p>Although these authors seem to steer faculty away from Facebook use, I believe the costs are minimal and the liability can be mitigated. First of all, having all the instructor-student reactions recorded on Facebook would serve as a protection for the instructor in contested situations. Second, with Facebook increasingly becoming a tool for professional communication, it represents a form of digital literacy that is essential for young professionals.[30] Thus any problems that occur with Facebook use in the class could become teachable moments, where we discussed appropriate online etiquette and problem-solved together. Finally, because Facebook was an integral part of the course, I made it clear to students that they were welcome to withdraw from the class immediately without any consequence if they did not wish to participate in that system.[31]</p>
+<p>I have been careful to maintain privacy by registering both my personal Facebook account and my official Furman University Facebook account. I use the latter for Media in Asia and rarely post personal status updates; those I do post often relate to department or university events. I keep boundaries very clear: I established a separate Facebook account for university-related use, and I do not seek to ‘friend’ students. This became somewhat awkward when students sent requests to my personal account, but I am comfortable accepting friend requests on my professional account.[32] Outside of the Media in Asia Facebook Group, I rarely posted my own, personal status updates; those that I did post related to official university-related topics (e.g., upcoming campus events or departmental news) or, more rarely, academic information.</p>
+<p>After an initial period with the entire class posting in one Facebook group, a process that became overwhelming nearly immediately, I divided students into four separate groups of 6 or 7 people. (I also retained the full-class group, using it to make announcements and to share key posts with the entire class.) One student later commented, “I am glad we decided to make smaller groups because I don’t feel like I would have gotten the full benefit because I would have been overwhelmed by all of the posts and would miss something important.”</p>
+<p>In the future, I will continue to use a full-class discussion in a limited way and have students post comments in smaller discussion groups of 5-7 people. I will also continue a practice begun about halfway through the course: a rotating member of each group was tasked with summarizing the group’s posts and sharing them with the entire class, thus letting everyone gain some insight on the other groups’ discussions.[33] I will begin this earlier in the term next time.</p>
+<p>Finally, I will ask students to generate a class contract regarding Facebook use and etiquette after they complete a ‘Facebook Groups Literacy’ tutorial into the beginning of the class. (Not all students were familiar with the Facebook Group features.) This will address timely responses to posts and general protocol for using Facebook, something that may be particularly useful for students from countries like China that block access to Facebook. In addition to the class contract and the tutorial, in the future I will have points tied directly to timeliness of posts, because some students complained that classmates often posted late. This made it difficult for their classmates to respond as required.[34]</p>
+<h2><strong> Conclusion</strong></h2>
+<p><em>The assumed goal of higher education [is] learner-centered, empowering education that prepares students to be engaged, informed, lifelong learners and citizens. (Voegele 2013: 102)</em></p>
+<p>Designing and teaching Media in Asia has transformed my approach to education. Certainly, as with any first iteration of a course, certain elements worked more smoothly than others.[35] The next time I teach the course, I will know how to modify assignments and rubrics based on the first experience using them. I will soft-pedal my criticism of Disney films like <em>Mulan</em>, which many of my U.S. students viewed as a personal attack on something they held dear. And I will better set expectations for my role on Facebook, explaining my timeframe for responding to student queries and posts and working with a student from the previous class to respond to student comments as well.[36] (Millenials expect “excellent customer service from the institution as well as its teachers” [Caulfield 2011: 128], something that can conflict with the busy lives of early career faculty.)</p>
+<p>Can a hybrid of a face-to-face and asynchronous course be effective in a liberal arts setting? Absolutely. By giving a voice to students who frequently feel unheard, including international and introverted students, and by asking students to demonstrate and apply the knowledge of material they selected themselves by sharing it with their peers in a Facebook group, Media in Asia approached the lofty goals of higher education described by Voegele, above. As one student commented:</p>
+<p style="padding-left: 60px">Participation in all of these media forms let me know that I need to understand the background of a country before I even begin to judge its culture. What I wanted to understand the most is why Asian media is different from ours and how it is similar. The answer I have gathered is that each country has its own unique needs. It is my responsibility to appreciate these needs and compare them with those of my country. In the process, I will hopefully avoid misrepresenting a foreign culture myself.</p>
+<p>Students thus left the class better prepared to be engaged, informed, lifelong learners and citizens. As an added benefit, now they know how to find Korean drama series and Bollywood films to watch in their spare time, too. I suspect Dale Stephens, the author of <em>Hacking Your Education</em> and advocate for “uncollege,” would be pleased.</p>
+<p>I would hesitate to move all instruction in a liberal arts format to an online format, because then students really miss out on the advantages of residing near their peers and being able to get to know the instructor in person. But as Garnham and Kaleta (2002) have emphasized in their study of faculty experiences with hybrid instruction, the overall experience of student learning in that format is much stronger:</p>
+<p style="padding-left: 60px">Our faculty participants almost universally believe their students learned more in the hybrid format than they did in the traditional class sections. Instructors reported that students wrote better papers, performed better on exams, produced higher quality projects, and were capable of more meaningful discussions on course material. These qualitative assessments of better student learning are supported by quantitative data from the University of Central Florida, which show that students in hybrid courses achieve better grades than students in traditional face-to-face courses or totally online courses. (Garnham and Kaleta 2002)[37]</p>
+<p>With this successful track record in mind, liberal arts institutions can rest assured that adopting well-designed hybrid course formats can be a step for improved student learning overall. The institutions can take certain steps to support instructors willing to dramatically redesign their courses and teach in this new format:</p>
+<ul>
+<li>Support course redesign, whether in the form of pedagogy consultants and instructional designers, or via intensive workshops;</li>
+<li>Recognize the significant time investment required to create effective hybrid courses, whether through summer stipends or teaching releases;</li>
+<li>Recognize the additional time necessary to effectively teach a hybrid course, through a reduced teaching load or by funding student teaching assistants to help with the course;</li>
+<li>Encourage creative experimentation, recognizing that blended learning courses take time to perfect and often result in lower than usual student evaluations for the first several iterations.</li>
+<li>Provide technical assistance, ideally by a dedicated person paired with the instructor, along with trainings and support for software and learning platforms that universities may not typically support;</li>
+<li>Strengthen infrastructure, including campus Wi-Fi networks, software packages and licenses, computer hardware, and streaming media subscriptions.</li>
+</ul>
+<p>The innovative teaching that results will no doubt enrich the institution, fostering engaged learning and helping it remain attractive to students accustomed to integrating social media into their lives.</p>
+<p><em>Institutional Support for Hybrid Teaching.</em></p>
+<p>How can liberal arts colleges encourage creative blended course projects?</p>
+<ul>
+<li>Hold course redesign workshops</li>
+<li>Develop a Faculty Technology Institute (see Lewis &amp; Clark for an outstanding example, <a href="http://www.lclark.edu/information_technology/client_services/faculty_technology_institute/">http://www.lclark.edu/information_technology/client_services/faculty_technology_institute/</a>)</li>
+<li>Offer teaching releases for course development</li>
+<li>Offer teaching releases for first semester teaching a hybrid courses</li>
+<li>Offer preferential scheduling for hybrid courses</li>
+<li>Create a cohort of instructors redesigning courses together who can help brainstorm and troubleshoot; fund refreshments for cohort group meetings</li>
+<li>Pair instructors with instructional designers or technology specialists who can assist with technical course elements</li>
+<li>Offer professional development funding (e.g., make additional conference travel funding available to instructors who develop hybrid courses)</li>
+<li>Fund technology purchases by hybrid course instructors, since current technology is a crucial component of effective hybrid teaching</li>
+<li>Develop Hybrid Teaching mini-grants like the Faculty Fellows for Innovative Course Design Program at Portland State University (http://www.pdx.edu/oai/faculty-fellows-programs)</li>
+<li>Partner with consortia like the Associated Colleges of the South who offer their own Blended Learning Grants (http://www.colleges.org/blended_learning/index.html)</li>
+<li>Seek donor support for innovative technology projects, like the Furman iPad Initiative, that could expand student access to necessary resources[38]</li>
+<li>Publicize hybrid teaching efforts</li>
+</ul>
+<p>In short, institutions can offer some form of recognition for the additional effort in the form of publicity, acclaim, professional development, training, travel funding, stipends, reduced teaching loads, refreshments, or even token gifts like coffee mugs and notepads. Funding amounts need not be high for these initiatives to incentivize faculty. <strong><br />
+</strong></p>
+<p><strong>Acknowledgments</strong></p>
+<p>Most of the people who deserve my thanks are acknowledged in this article. I would like to extend an additional note of gratitude to Janelle Voegele and Aifang Gordon for their central role in helping me design the 2011 Media in Asia course, to Diane Boyd for her central role in helping me redesign the 2013 course, and to Mike Winiski and Dennis Haney for bringing together the Faculty Learning Community on Blended Learning at Furman University and inviting me to participate in the Associated Colleges of the South grant.</p>
+<p>I thank Shusuke Yagi for his wholehearted support of my unusual course. He, along with Sachi Schmidt-Hori, helped extend my knowledge about anime and manga. Furman senior Amy Boyter, who almost became a teaching fellow for the course, contributed to the course development during the summer as I was preparing the media choices and later participated in the Facebook Group discussions related to anime. Karni Bhati, Becky Duckett, Amy Boyter, and Elliot Strock made much-appreciated appearances as guest speakers during the class sessions.</p>
+<p>Diane Gillespie deserves special thanks for mentoring me and believing in me as I began my teaching career.</p>
+<p>I would like to thank Amanda Hagood, Diane Boyd, Mike Winiski, and Grace Pang for their extensive feedback on earlier versions of this article. I am also grateful to John Ottenhoff, and Bob Johnson from the Transformations Editorial Board for their helpful feedback on my abstract.</p>
+<p>For funding support to develop this course, I thank the Furman University Humanities Development Fund, chaired by Margaret Oakes, and the Center for Academic Excellence at Portland State University. I thank the Associated Colleges of the South for supporting the Faculty Learning Community on Blended Learning at Furman University. Finally, I gratefully recognize the support for my career as a Furman faculty member provided by the Duke Endowment and by Dean John Beckford.<strong><br />
+</strong></p>
+<p>Distributed under a <a href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license"><img src="{{ site.baseurl }}/assets/images/88x31.png" alt="Creative Commons License" /></a></p>
+<p><strong>References</strong></p>
+<p>Burgstahler, Sheryl E. and Rebecca C. Cory, eds. 2008. Universal Design in Higher Education. Cambridge, MA: Harvard University Press.</p>
+<p>Caulfield, Jay. 2011. How to Design and Teach a Hybrid Course: Achieving Student-Centered Learning Through Blended Classroom, Online, and Experiential Activities. Sterling, VA: Stylus Publishing.</p>
+<p>Chasteen, Stephanie and Michael Fuchs. 2011. Visual, verbal, or auditory? The truth behind the myth behind the truth of learning styles. <a href="http://learningaboutteachingphysics.podomatic.com/entry/2011-11-22T22_03_21-08_00">http://learningaboutteachingphysics.podomatic.com/entry/2011-11-22T22_03_21-08_00</a></p>
+<p>de Villiers, M.R. (Ruth). 2010. Academic Use of a Group on Facebook: Initial Findings and Perceptions. Proceedings of Informing Science &amp; IT Education Conference (InSITE) 2010. http://proceedings.informingscience.org/InSITE2010/InSITE10p173-190Villiers742.pdf</p>
+<p>Fedynich, La Vonne. 2014. Teaching beyond the classroom walls: The pros and cons of cyber learning. Journal of Instructional Pedagogies 13 (February). <a href="http://www.aabri.com/manuscripts/131701.pdf">http://www.aabri.com/manuscripts/131701.pdf</a></p>
+<p>Fink, L. Dee. 2003. Creating Significant Learning Experiences. San Francisco: Jossey-Bass.</p>
+<p>Finkel, Daniel F. 2000. Teaching with your mouth shut. Portsmouth, NH: Heinemann.</p>
+<p>Fontana, Anthony. 2010 (2 August). Using a Facebook Group As a Learning Management System. [Facebook in Education Note.] <a href="https://www.facebook.com/note.php?note_id=10150244221815570">https://www.facebook.com/note.php?note_id=10150244221815570</a></p>
+<p>Garnham C., and Kaleta, R. (2002). Introduction to hybrid courses. Teaching With Technology Today, 8(6), 1-5. Retrieved from <a href="http://www.uwsa.edu/ttt/articles/garnham.htm">http://www.uwsa.edu/ttt/articles/garnham.htm</a></p>
+<p>Glenn, David. 2009 (December 15). Matching Teaching Style to Learning Style May Not Help Students. The Chronicle of Higher Education. http://chronicle.com/article/Matching-Teaching-Style-to/49497/</p>
+<p>Hocoy, Dan. 2013 (December 6). Facebook as Learning Management System: The Good, the Bad, and the Unexpected. <em>EDUCAUSE Review Online. </em><a href="http://www.educause.edu/ero/article/facebook-learning-management-system-good-bad-and-unexpected">http://www.educause.edu/ero/article/facebook-learning-management-system-good-bad-and-unexpected</a></p>
+<p>Huston, Therese. 2009. Teaching What You Don’t Know. Cambridge, MA: Harvard University Press.</p>
+<p>Kolb, D.A. 1984. Experiential learning experience as a source of learning and development. New Jersey: Prentice Hall</p>
+<p>Kupczynski, Lori, Michelle Stallone Brown, and Rebecca Davis. (2008, Winter). The impact of instructor and student interaction in internet-based courses. Journal of Instruction Delivery Systems 22 (1): 6-. <a href="http://connection.ebscohost.com/c/articles/33220244/impact-instructor-student-interaction-internet-based-courses">http://connection.ebscohost.com/c/articles/33220244/impact-instructor-student-interaction-internet-based-courses</a></p>
+<p>Madge, Clare, Julia Meek, Jane Wellens, and Tristram Hooley. 2009. Facebook, social interaction and informal learning at university: ‘It is more for socializing and talking to friends about work than for actually doing work’. Learning, Media and Technology, 34(2), 141-155. doi: 10.1080/17439880902923606</p>
+<p>Means, Barbara, Yukie Toyama, Robert Murphy, Marianne Bakia, and Karla Jones. 2010. Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education, Office of Planning, Evaluation, and Policy Development, Policy and Program Studies Service. <a href="http://eprints.cpkn.ca/7/1/finalreport.pdf">http://eprints.cpkn.ca/7/1/finalreport.pdf</a></p>
+<p>Mendez, Jesse Perez, Ky Le, and Jose De La Cruz. 2014. Integrating Facebook in the Classroom: Pedagogical Dilemmas. Journal of Instructional Pedagogies 13 (February). <a href="http://www.aabri.com/manuscripts/131701.pdf">http://www.aabri.com/manuscripts/131701.pdf</a></p>
+<p>Orlando, John. 2011 (February 7). FERPA and Social Media. Faculty Focus: Higher Ed Teaching Strategies from Magna Publications. <a href="http://www.facultyfocus.com/articles/teaching-with-technology-articles/ferpa-and-social-media/">http://www.facultyfocus.com/articles/teaching-with-technology-articles/ferpa-and-social-media/</a>.</p>
+<p>Parker, P. 2012. Using Facebook as a course management system: One instructor's journey. Distance Learning, 9(4): 47-53.</p>
+<p>Pashler, Harold, Mark McDaniel, Doug Rohrer, and Robert Bjork. 2008. Learning styles: concepts and evidence. Psychological Science in the Public Interest 9(3): 105-119.</p>
+<p>Persellin, Diane and Mary Blythe Daniels. N.d. [2012]. Strengthening Undergraduate Learning: Six Research-Based Principles for Teaching and Their Applications. Atlanta, GA: Associated Colleges of the South.</p>
+<p>Silver, Harvey F., Joyce W. Jackson and Daniel R. Moirao<em>.</em> 2011<em>. </em>Task Rotation: Strategies for Differentiating Activities and Assessments by Learning Style: A Strategic Teacher PLC Guide. Alexandria, VA: ASCD.</p>
+<p>Stephens, Dale J. 2013. Hacking Your Education: Ditch the Lectures, Save Tens of Thousands, and Learn More Than Your Peers Ever Will. New York: Perigree Trade.</p>
+<p>Voegele, Janelle deCarrico. 2013. Student Perspectives on Blended Learning through the Lens of Social, Teaching, and Cognitive Presence. In Picciano, A.G., Dzuiban, C.D., &amp; Graham, C.R., Blended learning: Research perspectives (Vol 2).  New York: Routledge.</p>
+<p>Winiski, Mike. 2012 (July 31). Designing In-Class Activities in the Flipped and Blended Learning Classroom: An Example. <a href="http://mikewiniski.org/blog/?p=231">http://mikewiniski.org/blog/?p=231</a>.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Appendix 1. AST-211: Media in Asia Course Description and Learning Objectives</strong></p>
+<p><strong> </strong></p>
+<p><strong>Course Description</strong></p>
+<p>This course uses the lens of media to examine intersections between globalizing and local flows of information, content, and analysis. Geographically, the focus is on Asia, primarily on Japan, China, South Korea, and India. Topically, we will consider three main questions.</p>
+<p>First, how do news media cover events, and how does this coverage vary depending on the source? To unpack these questions, we will look at coverage of current news events in Asia, examining each from numerous angles. We will consider the role of foreign correspondents and compare them to national news media.</p>
+<p>Second, as media forms like Japanese manga and Hong Kong martial arts films attract fans throughout Asia and beyond, how do entertainment sources become locally relevant and internationally compelling? And what effect do they have on media consumers’ identity?</p>
+<p>Third, as individuals situated in the United States, how do constructs of Asia shape our personal and collective impressions, and biases, of Asia and toward Asian media? What legacy does a long history of racism leave on our ability to interpret media in Asia, and how is this legacy reflected in media content? Each member of this class brings a different perspective to these questions, and I will encourage sincere reflection as well as an openness to share both in the classroom setting and in our online spaces.</p>
+<p><span style="text-decoration: underline">This class is a blended learning course that meets only once each week. This means that you will be completing a significant amount of work independently and in online discussion groups. Please carefully consider how you will manage your time this semester in order to fully benefit from a blended learning course.</span> Contact me early with any questions or concerns so that we may address them together.</p>
+<p>This course does not assume students have prior knowledge of Asian politics and history. At the same time, it does not provide a comprehensive overview of these topics. Students are expected to take initiative to fill in gaps in their knowledge, and are advised to consult any of the extensive resources provided through Moodle and elsewhere online when needing more information to contextualize readings.</p>
+<p><strong> </strong></p>
+<p><strong>Course Learning Goals, Learning Activities, and Assessment Procedures</strong></p>
+<p>By the end of this course, students should be able to:</p>
+<ol>
+<li>Articulate connections between popular culture genres in various countries with distinct forms, national contexts, and histories</li>
+</ol>
+<ol>
+<li>Learn about a range of contemporary Asian societies through watching media from those places, developing context and background for future interactions in Asia or with people from Asia</li>
+<li>Critically analyze arguments and associated claims in media and in discussions about media works</li>
+<li>Develop media analysis skills</li>
+<li>Critically analyze current events as reported in popular media</li>
+</ol>
+<p>The procedures and learning activities used to achieve these learning objectives are detailed in the chart below.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="25%"><strong>Learning Goals </strong></td>
+<td width="49%"><strong>Learning Activities</strong></td>
+<td width="24%"><strong>Procedures for Assessing Learning</strong></td>
+</tr>
+<tr>
+<td width="25%">
+<ol>
+<li>Become a self-directed learner</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Examine learning style and set learning goals.</li>
+<li>Look at course objectives and self-assess: with which of these objectives might you struggle? What are strategies for dealing with that problem?</li>
+<li>Post self-introduction and individual goals based on results of learning style assessment on Facebook.</li>
+</ul>
+</td>
+<td width="24%">Facebook self-introduction and learning style assessment (20 points)</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="2">
+<li>Critically analyze arguments and associated truth claims. Identify how knowledge is produced and content is ‘spun.’</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li><strong>With a partner, analyze a film clip (or a reading)</strong> to identify arguments and evaluate their claims. (This will be demonstrated in class.)</li>
+<li><strong>With a partner, analyze a news article or a film clip</strong> to identify perspectives represented.Questions to consider:<br />
+How would the identity influence the content?<br />
+Who is the author?<br />
+What strategies are they using?<br />
+What person, organization or entity provides their funding?</li>
+</ul>
+<p>&nbsp;</td>
+<td width="24%">Rubric and self-assessment for film clip analysis (25 points) and news article or film clip analysis (25 points)</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="3">
+<li>Gain firsthand experience with the roles of author, producer, and editor by creating content, manipulating media, and making editorial decisions.</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Create a PechaKucha or short film<br />
+(for PechaKucha, see <a href="http://www.pechakucha.org/">http://www.pechakucha.org/</a>) on the topic of your choice.</li>
+</ul>
+<p>&nbsp;</td>
+<td width="24%">1. Creators present their PechaKuchas, offering a self-assessment of what worked and what didn’t.<br />
+2. Lightning round: others will give feedback or help problem-solve3. Instructor-created rubric will be used for self-assessment, peer assessment, and instructor assessment of PechaKucha.(50 points)</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="4">
+<li>Learn about a range of Asian societies through watching media from those places, developing context and background for future interactions in Asia or with people from Asia.</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Watch media (manga/anime, Korean TV show and music, Chinese martial arts film, Bollywood film).</li>
+<li>Post reactions, screenshots, and analyses in Facebook group.</li>
+<li>Comment on the posts about similar media by your classmates.</li>
+<li>Participate in class discussions related to the topic.</li>
+</ul>
+<p>&nbsp;</td>
+<td width="24%">Facebook group posts (20 points per week).In-class discussions.</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="5">
+<li>Develop awareness of media genres.</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Comparison manga:<br />
+Using a manga format, create an illustrated explanation of the differences between media genres (animations vs. live action, TV vs. film, Bollywood vs. martial arts; news reporting vs. documentary; manga vs. US-based comics).</li>
+</ul>
+</td>
+<td width="24%">Student-created rubric, self-assessment, and peer assessment of comparison manga.(50 points)</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="6">
+<li>Articulate positions and develop critical responses (build, justify and support a compelling argument)</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Watch media and develop reactions in Facebook group discussions</li>
+<li>Write a 3-4 page media analysis paper about one film. Incorporate screenshots and outside sources of information (from websites or library resources) about the film in your discussion.</li>
+</ul>
+</td>
+<td width="24%">Facebook group discussionsIn-class discussions.Student-created rubric for media analysis paper (50 points for paper)Peer feedback</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="7">
+<li>Draw connections between popular culture genres in various countries with distinct forms, national contexts, and histories.</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Complete background reading of academic articles and documentaries about media, including histories, national connections, and spreads of media forms.</li>
+</ul>
+<ul>
+<li>Develop reactions to the articles and analyses of them in<br />
+a) Facebook group discussions<br />
+b) a concept map<br />
+c) a culminating (final) essay that incorporates the concept map.</li>
+</ul>
+</td>
+<td width="24%">Facebook posts (see above).<br />
+In-class discussions.<br />
+Concept map within culminating (final) essay (20 points for concept map).</td>
+</tr>
+<tr>
+<td width="25%">
+<ol start="8">
+<li>Synthesize information from the semester and connect it back to our experiences as U.S.-based media consumers.</li>
+</ol>
+</td>
+<td width="49%">
+<ul>
+<li>Create a portfolio of your Facebook posts from the semester, adding a 2-page introduction.</li>
+<li>Write a final essay (4-5 pages) that responds to questions about course concepts, your learning over the semester, and how you expect to carry forward perspectives and knowledge acquired this semester beyond this course.</li>
+</ul>
+</td>
+<td width="24%">The introduction to the Facebook post portfolio will be evaluated by the instructor using a rubric designed by the class (30 points)Rubric for final essay (50 points)</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Appendix 2: Qualitative Data about Facebook</strong></p>
+<p><em>Note: Many non-native English speakers participated in this course. I believe the idiosyncratic grammar is an important part of their expression. Rather than modify their original writing, I have chosen to leave the text as they wrote it. Please excuse any unusual grammar.</em></p>
+<p><strong><em>Facebook was an effective medium</em></strong></p>
+<p>“From the beginning of the semester, everyone was exciting and wavering, about what we going to learn in this semester. And I believe many people is curious about how do we going to use facebook to evaluate, and do our study every week. After a semester, it seems despite this new form create little uncomfortable in the beginning, everyone likes it so much: we are learning the media while using the new media.”<br />
+--JZ</p>
+<p>“I think that the Facebook assignments were helpful to me as a learner because I was able to express my thoughts in a new arena, while using outside sources freely as a reference, and I could even use screen shots from the actual pieces to show off my thoughts. I especially like working with Facebook because it allowed me to see what my classmates were watching, and what they thought about the different genres.”<br />
+--HB</p>
+<p>“I believe convey our knowledge we learn from the class into the Facebook posts is a good way to transform knowledge into real and useful content. And the independent thinking skills we cultivated from the process of posting are also influential to our later learning experiences.”<br />
+--YH</p>
+<p>“I enjoyed the creative aspects of the class as well as incorporation [of] Facebook into the curriculum. It was a create [<em>sic</em>] way of connecting teaching with modern technology. These posts also allowed us to share our ideas with our peers and see where they were coming from as well. Overall I really enjoyed this part of the class and the class as a whole!”<br />
+--PS</p>
+<p>“This course utilizes Facebook in order to allow students to interact with each other real time away from the class. Because the majority of college students are active social media users, Media in Asia notifications are visible to us in a form we prioritize. Our Facebook groups are made up of five to six individuals and serve as a platform to have casual discussions throughout the week on reading and viewing assignments. The use of social media definitely integrates class material into our out-of-class lives in a more organic way than I’ve experienced before. The groups are small enough that dynamics form throughout the class, and each member learns about fellow members’ areas of interest.”<br />
+--MG</p>
+<p>“The Facebook component of this class pushed me to research individually (before, during and after posts) to bolster my own opinions and understand the contributions of others.”<br />
+--MG</p>
+<p><strong><em>Portfolio demonstrated student learning and fostered pride in accomplishments throughout term</em></strong></p>
+<p>“Before doing the portfolio, I had no idea how much I posted on Facebook, and seeing the posts adding up and the page number increasing really impressed me about how much I learnt in this semester. From my introduction to my last post which is about the “Grand Masters”, I fell [<em>sic</em>] the improvements and the increasing knowledge of Asian Media.”<br />
+[YH goes on to say he shifted from looking for strengths, to looking for defects]<br />
+--YH</p>
+<p>“What surprised you as you looked back over your Facebook posts from the semester?</p>
+<p>I was surprised on how much I posted this semester and I was surprised on how much I improved in term [<em>sic</em>] of quantity about the posts.” [<em>Author’s note: perhaps this student meant quality</em>]<br />
+--YH</p>
+<p>“I have written in total 19 posts! And each is half a page long! Dr. Blumenfield commented on every one of my posts and I have comments from my group members on Korean drama, martial arts films, and animation. I feel so surprised as looking back, I have kept all my feelings and reactions in these Facebook posts along the way. I think this is a wonderful experience to me.”<br />
+--LS</p>
+<p>…</p>
+<p>“I was surprised and touched when I saw the thick stack of papers containing all my Facebook posts. I think after couple years when I look back into these comments, I would track all my memories back.”<br />
+--LS</p>
+<p>“[The culminating portfolio project] is very helpful, and it helps me cumulate the knowledge points I learnt during the semester. By putting them together is really much more helpful than having a final exam.”<br />
+--YH</p>
+<p><strong><em>Posts reflected collective improvements and growing sophistication</em></strong></p>
+<p>“As the course evolved, I also began to think more critically about how various media sources affect the identity of consumers, especially in indirect and subtle ways.”<br />
+--MG</p>
+<p><strong><em>Conversations improved as the course went on:</em></strong></p>
+<p>“We basically post our analysis for media we read or watch every week on Friday. At first it is simply short passage, but as long as we get more knowledge on the technical part of all kinds of medias, everyone starts to talk and comments more.”<br />
+--JZ</p>
+<p>Over the course of the semester I have both expanded my knowledge of Asian media, as well as delved into the themes within them. As the class progressed I was able to notice frequent patterns within the different types of media and interpret them in different ways.<br />
+--PS</p>
+<p><strong><em>Concept Map demonstrated class activity relation to out-of-class activity</em></strong></p>
+<p>“My concept map is much more developed &amp; thought through than the one we produced in class, but I’m so grateful for the in-class brainstorm session because it really helped get ideas flowing. This project really helped me digest the various media forms we assessed over the course of the semester.”<br />
+--MG</p>
+<p>“I did not realize we have covered so many different genres and Asian media types until I did the concept map. It was very helpful for me [to] distinguish each of them then connect them together with similarities.”<br />
+--LS</p>
+<p><strong><em>I learned to avoid judging and avoid stereotypes</em></strong></p>
+<p>“Participation in all of these media forms let me know that I need to understand the background of a country before I even begin to judge its culture. What I wanted to understand the most is why Asian media is different from ours and how it is similar. The answer I have gathered is that each country has its own unique needs. It is my responsibility to appreciate these needs and compare them with those of my country. In the process, I will hopefully avoid misrepresenting a foreign culture myself.”<br />
+--KW</p>
+<p><strong><em>Course appealed to different learning styles and helped develop independence</em></strong></p>
+<p>“As a dual visual and tactile learner, the most effective way for me to understand another country’s culture is to experience its art. Throughout this course, I have gained insight into several Asian countries by exploring their various media genres.”</p>
+<p>--KW</p>
+<p>“Watching Asian media is definitely more effective than reading about it (which we often do before we start studying a new media genre), though getting a solid background about the genre is also helpful. Even though these chapter excerpts were not as helpful to my learning as the actual media, I still think they were necessary for my understanding. There isn't anything in this class that hasn't been effective.”<br />
+--(from midterm feedback)</p>
+<p><strong><em>Independence</em></strong></p>
+<p>“The independent thinking skills we cultivated from the process of posting are also influential to our later learning experiences.”<br />
+--YH</p>
+<p>“The course fosters independence”<br />
+--ER</p>
+<p><strong><em>Choices offered flexibility and allowed students to explore their interests</em></strong></p>
+<p>“That’s what I loved about this class. Being assigned to watch any Korean Drama I wanted to watch and having people suggest series that they really loved. I’m so glad that I was able to take this class and experience something that I never reallhy would of [sic] thought of pursuing on my own.”<br />
+--ME</p>
+<p>“I like the fact that this class gave us the flexibility to engage in areas we are most interested in.”<br />
+--MG</p>
+<p><strong>Notes </strong></p>
+<p>[1] The Academic Instruction Mini-Grant from the Center for Academic Excellence (now the Office of Academic Innovation) included a professional development stipend made available in installments: the final installment was allocated only after the hybrid course developed during the workshop was taught, with mid-semester evaluations done by the Center for Academic Excellence staff. Four sessions with an instructional designer were also required. See Voegele 2013 for a discussion of other courses developed through this program.</p>
+<p>[2] See Caulfield 2011: 72 for a discussion of effective communication strategies in hybrid courses, including a calendar, emailed reminders the day before class meets, and redundancies in information dissemination to meet different learners’ needs.</p>
+<p>[3] Winiski refers readers to the graphic and tutorial about the Kolb Learning Cycle cycle developed by Clara Davies and Tony Lowe: <a href="http://www.ldu.leeds.ac.uk/ldu/sddu_multimedia/kolb/static_version.php">http://www.ldu.leeds.ac.uk/ldu/sddu_multimedia/kolb/static_version.php</a>.</p>
+<p>[4] They include consultants from the Center for Instructional Development at Research at the University of Washington (now the Center for Teaching and Learning) who advised me as a doctoral student instructor, consultants at the Center for Academic Excellence (now the Office of Academic Innovation) at Portland State University who advised me in my first full-time teaching position, and their counterparts at CTL—The Center for Teaching and Learning at Furman University. When Diane Boyd, who led the Furman University summer workshop on course design where I adapted Media in Asia for a liberal arts context, gave me a copy of Fink’s book, I could suddenly trace the genesis of many concepts communicated to me as I developed my teaching practices.</p>
+<p>[6] The ACS grant, funded in Spring 2013, is called, “A Faculty Learning Community on Blended Learning: Developing and Implementing Best Practices at Furman University.” See <a href="http://www.colleges.org/blended_learning/funded_proposals.html">http://www.colleges.org/blended_learning/funded_proposals.html</a> for more information about this initiative. Other participants in the grant are Dennis Haney, Randy Hutchison, Alison Roark, Mike Winiski, and Chris Blackwell. The group meets three or four times a month and has become a voice for blended learning at Furman, though we are not the only faculty experimenting with it. A Fall 2013 ACS grant proposed by Sean Connin and Mike Winiski, “Developing Shared Expertise for Blended Learning Instruction Through Institutional Collaboration” is continuing these discussions in partnership with Trinity University, with a summer 2014 workshop.</p>
+<p>[7] Each person is adopting a somewhat distinct approach to blended learning, with Haney and Roark developing screencasts with embedded quizzes as components of Introduction to Biology course modules, Winiski developing video lectures for a GIS course, and Hutchison incorporating flipped classroom activities and quizzes on streaming media into an introductory Health Sciences course.</p>
+<p>[8] Generous funding enabled me to add a stopover in South Korea, home to Korean drama series and the K-pop music phenomenon, to the end of a summer 2013 China research trip. Additional funds helped me acquire relevant books and a few DVDs on Bollywood, anime, manga and Korean popular culture, areas outside my primary expertise. Finally, a taxable stipend helped me pay for a Netflix account (not an expense the university was willing to fund directly) and recognized the time spent developing the class. I am grateful to Margaret Oakes, chair of the Humanities Development Fund, for enthusiastically supporting my proposal and for working with me to split the course development award into travel, course materials, and stipend support.</p>
+<p>[9] Support for a unique time structure from Asian Studies Department Chair Shusuke Yagi, encouragement of innovative teaching from Furman Dean and Vice President for Academic Affairs John Beckford, and willingness to modify the standard schedule by Associate Dean and University Registrar Brad Barron enabled the course to come into existence at Furman. Feedback and ideas from Ilka Rasch, associate professor of German and fellow course redesign workshop participant, were very helpful as well.</p>
+<p>[10] Personal communication, May 7, 2014.</p>
+<p>[11] Gallery walks involve students displaying their work (in a hallway, on tables or desks, or on the classroom walls) while their classmates circulate around the room viewing and commenting on the work, often using color-coded sticky notes to write comments. I used gallery walks for a comparison manga assignment.</p>
+<p>[12]“All [Project X] faculty appreciated the quality and unique type of engagement with students on Facebook, as well as the visual resources that permitted a different type of knowing and learning” (Hocoy 2013, n.p.).</p>
+<p>[13] I sympathized and worked to clarify where to find various elements after receiving this comment. Next time, I will also adopt the advice of Parker (2012) for more effective organization of the Facebook Group, including activating the group email account and distinguishing between the ‘Photos’ and ‘Files’ document storage areas. Unfortunately for that student, not using Facebook was not an option.</p>
+<p>[14] The Facebook post portfolio assignment required students to compile every post they had made throughout the semester into a single document, then write a two-page introduction to the portfolio. See Appendix 1 for additional information about the assignment goals.</p>
+<p>[15] Rather than modify the idiosyncratic grammar of the students, many of whom are non-native English speakers, I have chosen to leave the text as they wrote it. Please excuse any unusual grammar.</p>
+<p>[16] Midterm feedback was collected anonymously via a Google Forms survey and via a paper passed out in class. End-of-term feedback was collected anonymously via a Google Forms survey. Students were given class time to complete the end-of-term survey while the instructor was out of the room.</p>
+<p>[17] Data on student enrollment is drawn from <a href="http://www2.furman.edu/About/About/FactsandFigures/Pages/default.aspx">http://www2.furman.edu/About/About/FactsandFigures/Pages/default.aspx</a> and the Powerpoint presentation, “INTERNATIONAL STUDENTS ON YOUR HALL…Friend or Foe?” In 2013-14, Furman enrolled 103 international students from 33 countries; 71 of the students are from Asia. With 2662 students total, international students comprise less than 4% of Furman’s student population, but the university has experienced a nearly 600% increase in the numbers of international students compared with four years ago and integration has been a bumpy road at times. By contrast, Portland State University’s 2000-plus international students form nearly 7% of the campus population (<a href="http://www.pdx.edu/portland-state-university-facts">http://www.pdx.edu/portland-state-university-facts</a>, <a href="http://www.pdx.edu/international-students/">http://www.pdx.edu/international-students/</a>, accessed March 20, 2014).</p>
+<p>[18] Huston (2009) encourages faculty to be candid about their backgrounds and knowledge limitations when teaching in less familiar areas, but I suspect that students evaluate instructors who are open about this differently according to age, gender and race.</p>
+<p>[19] Many liberal arts colleges are targeting international students for recruitment, viewing them as an opportunity for increasing tuition revenue. However, the campus cultures are often slow to adjust.</p>
+<p>[20] The student wrote this comment on the mid-semester feedback survey.</p>
+<p>[21] Another student reflected:</p>
+<p>“I think that the Facebook assignments were helpful to me as a learner because I was able to express my thoughts in a new arena, while using outside sources freely as a reference, and I could even use screen shots from the actual pieces to show off my thoughts. I especially like working with Facebook because it allowed me to see what my classmates were watching, and what they thought about the different genres.”</p>
+<p>[22] Having students post self-introductions is an important practice in blended learning courses (Caulfield 2011: 204), and I wanted students to start posting meaningful responses to specific prompts and directives from the beginning of the term.</p>
+<p>[23] I am aware of the recent debates about learning styles, presented through a study that criticized earlier studies for flawed experimental design and found that learning outcomes did not improve when teachers catered to student learning styles (Pashler et al. 2009). I do not doubt that students can learn in ways that do not suit their learning preferences. However, my experience as a learner and as a teacher has convinced me that creating options for students instead of forcing them to function in less preferred styles is critical. (See Glenn 2009 and Chasteen and Fuchs 2011 for evaluations of the merits of the Pashler article; note that Pashler participated in the podcast by Chasteen and Fuchs.) I am also a strong proponent of meta-cognition, a concept instilled in me as a high school student by Dr. Julia Stewart Werner: thinking about how we think and learn is an important part of the learning process. Finally, I strive to implement the universal design principles aiming at making education inclusive and accessible to all students, without requiring them to request special accommodations (Burgstahler and Cory 2008). Thus regardless of the new scrutiny and doubt cast on learning styles by Pashler and his co-authors, I continue to teach students to identify their own learning preferences and articulate how they will develop strategies based on these preferences in settings where they cannot choose.</p>
+<p>[24] In most cases, students were able to access media at no charge on Hulu.com, Drama Fever, YouTube.com; with a streaming subscription from Netflix.com (one month free trial or $7.99 per month); or by purchasing ‘rentals’ from Amazon.com for around $2.95. The Films on Demand platform available through the library at both Furman and Portland State Universities offered many educational documentaries that provided overviews of Asian media genres. In general, students were highly reluctant to watch DVDs from the library and preferred to find online versions of media, regardless of the legality of those online versions.</p>
+<p>[25] I had offered to arrange additional screening sessions earlier in the term, but students had not expressed interest until that point.</p>
+<p>[26] Diane Boyd, personal communication, May 7, 2014.</p>
+<p>[27] For a discussion of social media and FERPA laws, see Orlando 2011.</p>
+<p>[28] Parker, an enthusiastic proponent of Facebook Groups, provides an extensive discussion of the different group settings and the logistics for adding students to the groups (2012: 48). See also <a href="https://www.facebook.com/help/www/220336891328465">https://www.facebook.com/help/www/220336891328465</a> for a chart that compares Open, Closed, and Secret groups. Anyone can see the members of a Closed group.</p>
+<p>[29] In one case, the student never signed up for Facebook and complained about missing course-related communications. In another, a student posted drunken comments late at night and felt these poor decisions were reflected in his grade (Mendez et al. 2014).</p>
+<p>[30] Several of my scholarly listservs have been disbanded and are reconstituting themselves as Facebook Groups. I now count Facebook as an important venue for sharing and commenting on scholarship and intellectual ideas. This transformation is occurring in many other professions as well.</p>
+<p>[31] For students concerned about privacy, like the one discussed by Mendez et al. (2014), I encourage them to register a second (or first) account using an alias. Using two different web browsers (e.g., Google Chrome and Internet Explorer) permits users to remain logged in to both accounts simultaneously. Some students are absolutely opposed to Facebook, though: One student, after learning that Facebook group participation was a required course element, asked whether it could be waived since she did not have an account. After learning it could not, the student dropped out of the class before the second class session. I suspect there were other elements of the course design that also spooked her.</p>
+<p>[32] Still, I rarely comment on student-friends’ newsfeed posts.</p>
+<p>[33] Here is an example of the summary shared in the full-class Facebook Group: “I found everyone’s posts really interesting because everyone seemed more invested into what they were saying and posting because they got to choose a topic that was interesting to them. For example, even though M and I watched Heirs, we talked about a lot of different things because different things within the series interested us. Also, I found the screenshots that S posted about Mononoke really interesting and intricate. J’s animation sounded also an area we could look into though because it seemed to be slightly different than the typical animations that we watched in this class.”</p>
+<p>[34] With the course meeting on Tuesday afternoons, students generally found the Friday afternoon deadline manageable. Several commented that they did not like either Sunday night deadlines or Monday night deadlines for the second posting of the week, which usually included requirements to respond to classmates’ posts.</p>
+<p>[35] Technically, it was my second time teaching the course, since I had taught Media in Asia at Portland State University in 2011, but the significant overhaul, expansion from 10 weeks to 16, and incorporation of Facebook Groups as a central element made it essentially a new course.</p>
+<p>[36] The student will be funded as a Furman Advantage Teaching Fellow. Another example of institutional support, this fellowship “is designed to promote effective teaching and learning through innovative course design, development, and delivery and to give Teaching Fellows substantive experiences through their involvement in these activities. Each $450 fellowship assumes four to five hours of activity per week during fall or spring term.” See <a href="http://www2.furman.edu/sites/ur/Pages/default.aspx">http://www2.furman.edu/sites/ur/Pages/default.aspx</a> for details.</p>
+<p>[37] A large-scale meta-study conducted by researchers from the Department of Education made similar findings: in universities, quantitative measures of student learning outcomes improved when students engaged in blended learning, compared with control groups that only met face-to-face or with groups that met online (Means et al. 2010).</p>
+<p>[38] For a description of an iPad-enhanced class, see http://furmannewspaper.com/2013/03/11/ipads-aid-students-learning-in-marketing-principles-class/.</p>
+<p>&nbsp;</p>
+<p><strong>About the author</strong></p>
+<p><img class="alignleft size-full wp-image-24" src="{{ site.baseurl }}/assets/images/Blumenfield.jpg" alt="photograph of Tami Blumenfield, author of &quot;Student-Directed Blended Learning with Facebook Groups and Streaming Media: Media in Asia at Furman University&quot;" width="87" height="103" />Tami Blumenfield is the James B. Duke Assistant Professor of Asian Studies at Furman University. An anthropologist of China and documentary film producer who earned her doctorate at the University of Washington in 2010, she has spent more than four years conducting fieldwork in ethnically diverse regions of southwest China. Much of her research has explored social change and media production in Na villages located in and around tourist zones near Lugu Lake. Blumenfield is the co-editor, with Helaine Silverman, of <em>Cultural Heritage Politics in China </em>(Springer 2013), and is a founding board member of the Cool Mountain Education Fund, an organization that supports students in Liangshan, China.</p>
+<p>Before coming to Furman, Blumenfield held visiting assistant professorships at Lewis &amp; Clark College and Portland State University. She participated in the Project for Interdisciplinary Pedagogy at the University of Washington Bothell as a Fellow from 2008-2009.</p>

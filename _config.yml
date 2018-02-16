@@ -24,7 +24,7 @@ github_username:  clirdlf
 google-tracking-id: xxx
 
 collections:
-  - issues 
+  - issues
 
 # Build settings
 markdown: kramdown
@@ -56,3 +56,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - vendor
+  - assets/wordpress

@@ -1,0 +1,227 @@
+---
+layout: post
+title: 'The Professor and the Instructional Designer: A Course Design Journey'
+date: 2014-07-24 15:24:02.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blended Learning
+- 'Digital Collaboration and Blended/Hybrid Learning: 2014 Special Issue'
+tags:
+- Active learning
+- Adrienne J. Gauthier
+- Backwards Design
+- Course Design
+- Dartmouth College
+- Flipped course
+- Lecture Tools
+- Special Issue
+- Thomas Jack
+meta:
+  _edit_last: '22601'
+  accelerate_page_layout: default_layout
+author:
+  login: 8164ba8413978d82461815a292be2e0c
+  email: dklemonski@middlebury.edu
+  display_name: Daniel Klemonski
+  first_name: Daniel
+  last_name: Klemonski
+---
+<p>Authors: Adrienne J. Gauthier and Thomas Jack</p>
+<ul>
+<li><img class="alignleft size-thumbnail wp-image-201" src="{{ site.baseurl }}/assets/images/Gauthier-150x150.jpg" alt="Gauthier" width="150" height="150" />Adrienne J. Gauthier, M.Ed., Instructional Designer, Dartmouth College<br />
+Adrienne is an instructional designer in the Educational Technologies team at Dartmouth College. She focuses on blended course design, active learning strategies, and pedagogically appropriate use of technology in teaching. Dartmouth gained her expertise in November 2012 after her ten-year run at the University of Arizona in the Department of Astronomy where she worked on teaching, technology, astronomy outreach, and faculty support. Her Master of Education is from the fabulous Instructional Technology program at the University of Virginia and her undergraduate B.S. was earned from the University of Massachusetts.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><img class="alignleft size-thumbnail wp-image-200" src="{{ site.baseurl }}/assets/images/Jack-150x150.jpg" alt="Jack" width="150" height="150" />Thomas Jack, Ph.D., Professor of Biological Sciences, Dartmouth College<br />
+Tom is a Professor of Biological Sciences at Dartmouth College in Hanover, NH.  Since arriving at Dartmouth in 1993, he has taught a wide range of courses in the broad area of genetics, molecular biology, and developmental biology. Since 2012, he has become involved in national efforts to reform undergraduate biology education as a PULSE (Partnership for Undergraduate Life Sciences Education) Leadership Fellow.  Tom’s research laboratory aims to elucidate the gene products and molecular mechanisms controlling flower development in the model plant <em>Arabidopsis thaliana</em>.</li>
+</ul>
+<p>&nbsp;</p>
+<p><!--more--></p>
+<p><strong>Executive Summary</strong></p>
+<p>At Dartmouth, we are excited to see our faculty shift from traditional passive lecture classes to more student-centered and active learning infused strategies like “flipped classrooms” and “blended learning.” Faculty are generally hesitant to give up face-to-face time with students, so we work towards course design strategies that make class time more efficient, interactive, and engaging. Instructional technologies help facilitate this shift. The goal is to enhance students’ out-of-class learning experiences to help enable deeper learning during class.</p>
+<p>In our case study we describe the goals, strategies, and redesign process of an introductory biology course (Biology 11) that emerged from a basic technology tutorial. The initial consultation transformed into a rich dialogue about defining measurable learning outcomes, re-thinking assessments, and organizing activities into a pre-class and in-class framework. We present the process of redesigning a course into a “flipped” framework, the collaboration between the instructional designer and professor, and analysis of our evaluation on the re-imagined course.</p>
+<p><strong>Keywords/Tags</strong></p>
+<ul>
+<li>Active learning</li>
+<li>Flipped course</li>
+<li>Course Design</li>
+<li>Lecture Tools</li>
+<li>Backwards Design</li>
+</ul>
+<p><strong>Case Presentation</strong></p>
+<p>Dartmouth College is described as a “high touch” environment where faculty and students value face-to-face interactions in their classes. Though active learning has been promoted as an institutional goal, there remain many examples of Dartmouth classes that rely on passive learning environments such as lecture-only classes with high stakes exams. Teaching initiatives and individualized faculty support are fostered through the Educational Technologies team, the Dartmouth Center for the Advancement of Learning (DCAL), and the libraries. The collective aim is to encourage, mentor, and assist faculty to be student-centered in their teaching, integrate active learning techniques, and use innovative instructional technologies where pedagogically appropriate. We strive for “a culture of engagement with active and experiential learning in every class.”<a href="#fn1">[1]</a></p>
+<p>Our case study involves an introductory course (Biology 11), Professor of Biological Sciences Thomas Jack, and Instructional Designer Adrienne Gauthier. Bio 11 is a topics-based course that is not designed to be a comprehensive survey of the vast subject of biology, but instead to introduce students to how biologists think about and solve problems.</p>
+<p>For the past six years, the format of Professor Thomas Jack’s offering of Bio 11 was primarily passive lecture with several in-class polling questions per class. Grades were determined by high-stakes bi-weekly quizzes and a final exam. In the fall of 2012, Prof. Jack taught Bio 11 to a class of 147 students and was very disappointed in the course evaluations and final exam performance. Course evaluations revealed that most students were not engaged in class, and the most positive comments focused on how informative the PowerPoint presentations were and how much they liked the class recordings posted after each lecture. If that is the best thing they can say about the course, he reasoned, something is lacking and something needs to change. Students were critical of the lack of interactivity and some felt it pointless to go to class at all since the presentation materials and recordings were available online. Some students were brutally honest about the course and their expectations, which gave Prof. Jack a lot to reflect on.  He acknowledged that students were dissatisfied with the course and noted that the performance on quizzes and final exams was poorer than it should have been. He needed to change the way he was teaching and how he was designing the learning experience for the students.</p>
+<p>Soon after that term, Prof. Jack became involved in multiple professional development opportunities for teaching. He participated in an intensive two-day workshop on team-based learning at the Geisel School of Medicine,<a href="#fn1">[2]</a> applied for and became a Partnership for Undergraduate Life Science Education (PULSE) Leadership Fellow,<a href="#fn1">[3]</a> and began exploring resources such as the American Association for the Advancement of Science (AAAS) <em>Vision and Change in Undergraduate Biology Education</em> report<a href="#fn1">[4]</a> as well as the book <em>Scientific Teaching.</em>[5] He was thinking about how to incorporate active learning strategies into his next offering of the Bio 11 course in Winter 2014 term. Prof. Jack did not know how to efficiently redesign the course or from whom to get feedback. He also questioned whether it would be worth the effort.</p>
+<p>In mid-October 2013, Prof. Jack met with Adrienne Gauthier, instructional designer in the Educational Technologies group, for a tutorial on Lecture Tools,<a href="#fn1">[6]</a> a web-based polling and note-taking tool. His motivation for using Lecture Tools was the ability to pose open-ended questions with free-text answers in addition to the usual multiple-choice “clicker” questions. He also expressed curiosity about “flipping” and delivering some video lectures before class to use class time for team problem solving. Seizing the opportunity, Adrienne dove into a covert conversation about course goals asking, “What do you want students to be able to do by the end of the course?” She was careful to not intimidate or overwhelm Prof. Jack with pedagogical terminology while teasing out the information. The door was already open, however, as he had been exploring the book <em>Scientific Teaching,</em><sup>5</sup> which is a thorough summary of active learning strategies and good course design practice. The initial question, “How do I set up Lecture Tools?” transformed into a different discussion: “Let’s articulate what you want your students to be able to do at the end of each week, how you want them to get there, and how you will know they have arrived.”</p>
+<p><strong>Project Description</strong></p>
+<h4><span style="text-decoration: underline">Project Team<em><br />
+</em></span>The project team consists of Instructional Designer Adrienne Gauthier from the Educational Technologies team in Academic Computing/Information Technology Services and Professor Thomas Jack in the Department of Biological Sciences at Dartmouth College. Adrienne has over twelve years experience with instructional design/technology and science education. She had been at Dartmouth for just over a year when this project began, supporting primarily the sciences, math, and computer science departments. Prof. Jack has been teaching undergraduates at Dartmouth for twenty years and recently became a DCAL (Dartmouth Center for the Advancement of Learning) Faculty Fellow. His research laboratory studies flower development in the plant <em>Arabidopsis thaliana</em>.</h4>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline">Project Goals<em><br />
+</em></span>There are two aspects to this case study: the delivery of the redesigned course during the winter 2014 term and the process by which the course was redesigned during the six weeks prior to the beginning of the term. Prof. Jack wanted to redesign his course to incorporate active learning and student-centered approaches with the end goal of increased student satisfaction and increased student learning as measured by performance on exams. Adrienne’s parallel goal was for him to work through and complete the process of backwards design<a href="#fn1">[7]</a> and to see the benefit of such a framework in thinking about his teaching practice. Progressing through a structured backwards design process can be daunting. Adrienne’s  secondary goal was to make it realizable and achievable in the limited six-week timeframe available. An additional hope was for Prof. Jack to be inspired and motivated to discuss with Dartmouth colleagues the course redesign process and his collaboration with an instructional designer.</p>
+<p><span style="text-decoration: underline">Project Design<em><br />
+</em></span>The course design process was based on strategies from Wiggins and McTighe’s <em>Understanding by Design</em><sup>7</sup> or “backwards design.” The specific strategy used in this project was inspired by Adrienne’s experiences in the Sloan Consortium’s “Blended Learning Mastery”<a href="#fn1">[8]</a> certificate program. This iterative method involves articulating and defining specific and measurable course goals and learning objectives,<a href="#fn1">[9]</a> identifying places where formative assessment could occur, evaluating how summative assessments map to the learning objectives, and eventually outlining pre-class and in-class student-centered activities.</p>
+<p>During the course design, Adrienne was continually searching for opportunities for Prof. Jack to reflect on the process and share his perspective. Intentionally designed into the experience were regularly scheduled meetings and deadlines for tasks. This structure provided opportunities to review and refine the design components in a face-to-face meeting, brainstorm on the next step, and find out how things are going. During the term when the class was running, check-in points were also scheduled.</p>
+<p><span style="text-decoration: underline">Evaluation<br />
+</span>The redesigned course was evaluated through mid-term surveys, end-of-term surveys, and formal course evaluations. Our goal was to gather feedback on student attitudes towards the course activities, perceptions of learning gains, and overall course structure. Quantitative evaluation occurred through a comparison of final exam scores with prior terms and Likert scale questions on student perceptions of learning gains. Adrienne continually evaluated and analyzed the course design process through informal reflections and conversations with Prof. Jack at the regular meetings. A final reflection on the course design process took place after the course concluded through interview-style sessions while preparing to write this case study.</p>
+<p><span style="text-decoration: underline">Implementation – Course Redesign</span><br />
+The first step in the course redesign was for Prof. Jack to describe overall course goals. His task was to capture the essence of his course and clearly express the key concepts and themes that he wanted students to master by the end of the course. Taking that step back and seeing the big picture of the course helped to guide the rest of the process and assisted with “should it stay or should it go” decisions in the content-heavy course. After a rich brainstorm on the takeaways, a series of follow-up appointments were scheduled at one-week intervals.</p>
+<p>During the first follow-up meeting we reviewed the course goals and discussed how to write a good learning objective with actionable, specific, and measurable language.<sup>9</sup> The second homework assignment was for Prof. Jack to articulate a hierarchy of learning objectives under each course goal and unit/week of instruction. He had a broad understanding of learning objectives and had already written a few; however, initial drafts used non-measurable language such as “students will understand.” Adrienne provided him with a list<a href="#fn1">[10]</a> of Bloom’s Taxonomy verbs as a brainstorming resource.</p>
+<p>In a subsequent meeting we discussed various types of assessments that could measure student success of the learning objectives. How was the best way to assess if a student can “define” a biology term, “describe” a key process, or “categorize” living organisms? How do these assessments differ from finding out if students are able to “criticize” the primary literature or “design” experiments? Prof. Jack’s next homework assignment was to brainstorm and describe the types of assessments he might use for each learning objective. Additionally, he was asked to think about how those assessments aligned with the learning objectives and if they worked better as formative or summative evaluations of student learning. Due to time constraints, we also discussed the fourth step: organizing pre-class versus in-class assessments and activities. For most, backwards design is an iterative process in which instructors will oscillate between the assessment and activity pieces as clarity emerges. Learning objectives may also get revised as a natural part of this process. Adrienne provided a table (Figure 1) for Prof. Jack to fill out as he organized and managed the brainstorm.</p>
+<p><em> <a href="http://www.academiccommons.org/wp-content/uploads/2014/07/Gauthier_Jack_Figure1.png"><img class="alignleft size-full wp-image-195" src="{{ site.baseurl }}/assets/images/Gauthier_Jack_Figure1.png" alt="Gauthier_Jack_Figure1" width="990" height="165" /></a></em></p>
+<p><strong>Figure 1.</strong> Organizational aid for outlining flow and alignment.</p>
+<p>Before the next meeting, Prof. Jack emailed Adrienne the completed table. Self-motivated, he organized it by category of Bloom’s Taxonomy,<sup>10</sup> communicating a scaffold to the learning over the course of the term. He noted pre-class activities for delivering and assessing base level knowledge and in-class activities for critical thinking and collaborative activities.</p>
+<p>In the last meeting prior to the beginning of the term, Prof. Jack and Adrienne discussed and analyzed the proposed learning objectives, formative and summative assessments, and activities. The course had a simple model for each week that was repeated throughout the term:</p>
+<table>
+<tbody>
+<tr>
+<td width="68"><strong>When<br />
+&amp; Who</strong></td>
+<td width="256"><strong>Activity</strong></td>
+<td width="162"><strong>Assessment</strong></td>
+</tr>
+<tr>
+<td width="68">Pre-class<br />
+Students</td>
+<td width="256">First exposure to content by watching short (5-15 minute) Pre-Lecture Videos with additional reading assignments as needed.</td>
+<td width="162">(Formative 1-2% of grade)<br />
+In Lecture Tools, answer multiple choice questions and open-ended Muddiest Point<sup>12</sup> exercise: “What was most unclear to you?”</td>
+</tr>
+<tr>
+<td width="68">Pre-class<br />
+Instructor</td>
+<td width="256">Review performance on Lecture Tools.</td>
+<td width="162">(Formative)</td>
+</tr>
+<tr>
+<td width="68">Pre-class<br />
+Instructor</td>
+<td width="256">Review Muddiest Point answers and construct plan for next class.</td>
+<td width="162">(Formative)</td>
+</tr>
+<tr>
+<td width="68">In-class</td>
+<td width="256">Review and discussion of student questions and “muddiest” points from Lecture Tools</td>
+<td width="162">None</td>
+</tr>
+<tr>
+<td width="68">In-class</td>
+<td width="256">Lecture sessions<br />
+No more than 30-45 min of 65 min class period</td>
+<td width="162">(Formative)<br />
+Lecture Tools and Think-Pair-Share/Peer Instruction where appropriate</td>
+</tr>
+<tr>
+<td width="68">In-class</td>
+<td width="256">Team problem-solving sessions</td>
+<td width="162">(Formative 1-2% of grade)<br />
+All class report and review</td>
+</tr>
+<tr>
+<td width="68">In-class</td>
+<td width="256">Quiz review sessions – 65 minute session dedicated to clicker questions and practice problems</td>
+<td width="162">(Formative)<br />
+Lecture Tools</td>
+</tr>
+<tr>
+<td width="68">In-class</td>
+<td width="256">Bi-weekly quizzes</td>
+<td width="162">(Summative 68% of grade)<br />
+5 quizzes over term</td>
+</tr>
+<tr>
+<td width="68">In-class</td>
+<td width="256">Final exam</td>
+<td width="162">(Summative 30% of grade)<br />
+1 final exam</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline">Implementation – Course Delivery</span></p>
+<p>Bio 11 ran from early January to mid-March 2014 with 21 students enrolled and was facilitated by two co-instructors: Professors Thomas Jack and David Peart (with Prof. Jack leading the pedagogy and design). This was a much lower enrollment from prior terms as the department reconfigured the introductory course sequences. The manageable enrollment gave the instructors confidence they could successfully facilitate the course around active and group learning.  To help ensure this outcome, Prof. Jack rearranged the movable furniture in the classroom into five clusters. On the first day, the class was divided into permanent groups that worked together throughout the term. In forming the groups, he made an effort to balance the overall diversity and expertise in each group, basing this approach on past experience in teaching biology at Dartmouth.</p>
+<p>Activities went as planned, with short lecture videos, multiple-choice questions, and an open-ended Muddiest Point<a href="#fn1">[11]</a> style assessment completed prior to class. The course site was hosted in the learning management system Blackboard. Here, students would receive assignments, announcements, PowerPoint files, Camtasia Relay video lectures, and class recordings.</p>
+<p>Lecture videos and class recordings were created with Techsmith’s Camtasia Relay.<a href="#fn1">[12]</a> Camtasia Relay is a lightweight screen-recording application hosted on Dartmouth servers. Instructors can screen-record lectures on their own computers or record full class sessions with a few clicks. The raw video is uploaded to a server where it is processed and links to the streamed video or video files are sent by email to the video author.</p>
+<p>Formative assessments were facilitated through Lecture Tools before and during class meetings. Lecture Tools is a subscription-based website that allows instructors to upload static presentations into a class site organized by date, construct a variety of polling questions (multiple choice, ranking order, hot-spot image, open-ended question, etc.), embed media (Youtube, TedX, etc.), and gather performance analytics. Students have note-taking and mark-up tools in addition to a polling interface. With our institutional license, students have access for free: all they need is a laptop, tablet, or mobile device. Most notably, Prof. Jack was very pleased with how Lecture Tools enabled students to communicate their lingering questions before coming to class. He was able to take the temperature of their understanding before seeing them, then give feedback and answer questions at the beginning of the next class session.</p>
+<p>Halfway through the term, he conducted an informal evaluation of the course structure and activities. The anonymous survey included open-response questions about group work, pre-class videos, access to PowerPoint slides and class recordings, quizzes, strong and weak points of the course, and a request for any suggestions for course improvement.</p>
+<h2>Evaluation</h2>
+<p>The primary goal of this project was to increase student satisfaction and increase student learning as measured by performance on exams. Expectations were exceeded! Evaluation on the course design process is captured in the Analysis section of this case study.</p>
+<p>A high point of the evaluation of the course was at the end of the term. Student performance on the final exam was remarkable compared to prior terms.  Final exams are different each year, but the format is the same, and by Prof. Jack’s best estimation, the difficulty of the questions is the same. (This of course is very subjective). We show the comparison between prior terms of the course in Figure 2.</p>
+<p><a href="http://www.academiccommons.org/wp-content/uploads/2014/07/Gauthier_Jack_Figure2.png"><img class="alignleft size-full wp-image-197" src="{{ site.baseurl }}/assets/images/Gauthier_Jack_Figure2.png" alt="Gauthier_Jack_Figure2" width="628" height="419" /></a></p>
+<p><strong>Figure 2.</strong> Final Exam Performance Comparison</p>
+<p>The formal course evaluation results, mid-term surveys, and end-of-term surveys are summarized here as similar results were echoed throughout. Ninety percent of students completed the course evaluations and mid-term survey, while only seven responses came in for Adrienne’s end-of-term survey due to poor timing right before spring break. The mid-term student survey yielded positive feedback and reinforced that Prof. Jack’s changes were effective, appreciated by the students, and that he was on the right track for the term. Overall, students spoke positively about the course in reference to Pre-Lecture Videos, Lecture Tools, screencasts, smaller class size, group work/problem solving, and engaging class sessions. They noted that pre-class activities helped them go through the material at their own pace and then test their knowledge to be better prepared for class. They valued the professor giving them the opportunity to ask questions prior to class, knowing they would go over answers in person. The more difficult problem-solving exercises were said to help them to stretch their understandings and gain multiple perspectives from classmates. The class was described many times as “engaging.” There were some noted issues with the flow of the class going from pre-class to in-class work, and some disjointedness between the co-instructors. A few students commented on the disconnect between one of the books and the quizzes. One student reflected on not liking or seeing the value in the Pre-Lecture Video, instead wanting the immediacy of the professor “teaching” like in traditional lecture. Constructive comments from students suggested incorporating an activity where they are asked to reflect on the “bigger picture” of the course in their own words and having more of the difficult group problems.</p>
+<p>Adrienne’s open-response anonymous survey asked for candid reflections on the overall course structure, benefits and difficulties in the course due to the course structure/activities, how the class changed attitudes on the subject, what students will take away from the course, and how they would describe the course to friends. Figure 3 is the set of questions that asked them to rate “gains,” inspired by the Student Assessment of Learning Gains<a href="#fn1">[13]</a> resource. The results were overwhelmingly positive! It is wonderful that all saw good or great gains in enthusiasm and interest in discussing the course with non-classmates. That is a fabulous outcome for any STEM course. It is also good to see confidence in the subject material as high ranking. We will note that the students who completed the end-of-term survey were self-selecting.</p>
+<p><a href="http://www.academiccommons.org/wp-content/uploads/2014/07/Gauthier_Jack_Figure3.png"><img class="alignleft size-full wp-image-196" src="{{ site.baseurl }}/assets/images/Gauthier_Jack_Figure3.png" alt="Gauthier_Jack_Figure3" width="990" height="660" /></a></p>
+<p><strong>Figure 3.</strong> Student Perception of Gains from end-of-term survey. Note: Scale on survey itself was No Gain - A Little Gain - Moderate Gain - Good Gain - Great Gain. "A little gain" is not on this visualization as no responses came in for that rating.</p>
+<p>We would like to share some of the students’ feedback, in their own words, to help others see the power and success in the course redesign, flipped framework, and active learning strategies.</p>
+<p>Pre-Lecture Videos and Lecture Tools:</p>
+<ul>
+<li>“The pre-class lecture videos and Lecture Tools questions were very useful in my opinion. It was nice to be able to learn some of the concepts before class and then be able to either solidify them in class or move on to new material”</li>
+<li>“I also found that the pre-class lectures kept me thinking about the material on a daily basis and in a way I appreciate that I got the chance to ‘immerse’ myself in the material”</li>
+<li>“I appreciated that as part of the questions after the Pre-Lecture clips there was always a question prompting us to list anything that confused us. Going over the answers to those questions in class was a fantastic way to clear up points of confusion as well.”</li>
+</ul>
+<p>Group problem-solving:</p>
+<ul>
+<li>“Group problems were helpful because I found that my groupmates were often more knowledgeable than I and could help the other groupmates think through the problem more thoroughly which was something that definitely attributed [sic] to my learning”</li>
+<li>“The group questions were great for fostering discussion and problem solving. I especially liked the few questions that required the groups to stretch their thinking and come up with solutions that we hadn’t really been taught to deal with specifically.</li>
+</ul>
+<p>General Attitude on Biology:</p>
+<ul>
+<li>“This class changed my thoughts about biology as a whole because I had thought previously that it would be complete memorization. It was some memorization but it also came down to critical thinking about the things that we memorized and how we could apply that to problems.”</li>
+<li>“I admit I didn’t know how to go about studying for classes in the sciences prior to this class. This class has imparted me with a new set of study skills.”</li>
+</ul>
+<h2>Analysis</h2>
+<p>Adrienne and Prof. Jack whole-heartedly think the course redesign was very successful. The main outcomes of better performance on exams and increased student satisfaction have clearly been met. Students appeared to be more engaged during class sessions than in previous terms. The problem solving, Lecture Tools polling/quiz review activities, and class discussions aided in this result. Prof. Jack notes there was more give and take in the classroom than previous terms. A big win is the thoughtfulness and type of Muddiest Point responses submitted in Lecture Tools. From past experience, Prof. Jack does not think that higher-level questions would have emerged if posed in a face-to-face class. The Muddiest Point questions also provided him a good sense of what students understood and what they were struggling with. In a straight lecture course, he has little idea if anyone is really understanding anything that is being said. He also felt engaged with the majority of students in the class. This is in contrast to his predominately lecture-based courses where only a subset of students attend office hours or ask questions in class.</p>
+<p>It was very exciting and refreshing to see the students being so metacognitive and aware of their learning environment as reflected in the mid-term and end-of-term survey results. It is possibly evoked by a sharp contrast to other lecture-based courses they have taken. We take notice that Dartmouth students are beginning to voice expectations of their classes beyond “straight lecture” and this will hopefully have an upward effect.</p>
+<p>Adrienne observed that Prof. Jack was very satisfied with the course design process. During the course redesign he noted a few times that he was seeing the benefit of the exercise and it was helping him to find clarity in his teaching. In future courses he plans to employ a backwards design process, intentionally integrate formative assessment, and continue on with the flipped class approach where appropriate. This shows Adrienne he values the process and the collaboration between them.</p>
+<p>Prof. Jack notes that traveling down the course redesign road was not a simple endeavor. The course had been taught many times before and the overall structure was established. Rethinking a course is different than designing a brand new course. There is a lot of baggage and history that is difficult to let go of. He noted that it felt a bit like retrofitting the course to the ‘backwards design’ framework. How are you supposed to throw it all away and start over? It can be a bit like fitting a square peg into a round hole. Adrienne will note that shaving down that square is where the magic happens. Course redesign is a series of decisions and each of those decisions affects assessments and activities, and iterations of all the components happen along the way. What helped Prof. Jack the most was having the support and guidance of an instructional designer: someone to help him see the path of action, keep him to a schedule, brainstorm with, and get feedback from. For Adrienne, this course redesign went smoothly, on-schedule, and was very rewarding. Prof. Jack being up for the challenge was part of this success, and she was very intentional and transparent in the expectations of the process. For Dartmouth faculty, the limiting factor most often is having enough time and energy to think about and act upon changing tack within a course that has been taught multiple times before. It takes time to redesign a course and grace to let go of old habits and teaching styles.</p>
+<h2>Looking Forward</h2>
+<p>To address some of the student comments and other observations, Adrienne might suggest the following strategies for future courses:</p>
+<ul>
+<li>Share with students how the activities and assessments line up with the learning objectives, it will give relevance and flow to the course. Students will clearly see where they need to end up and have information on how they will get there. It will acknowledge directly that the instructor has taken great care to design a rich learning experience and there is purpose to all activities.</li>
+<li>Consider student buy-in to active learning and flipped learning environments. Be deliberate about the design and be transparent about why the course is designed in this way. It can help students over the hurdle of moving from “sit in lecture” to “be active in lecture and be prepared for being active.”</li>
+<li>Think about using more think-pair-share and Lecture Tools questions during in-person lecture. Though Prof. Jack is skeptical about student buy in and the effectiveness of polling tools in smaller enrollment courses, it has been clearly demonstrated that these approaches help promote peer instruction and foster a more level learning environment by closing the gender gap,<a href="#fn1">[14]</a> among other benefits. Think-pair-share enables all students to have a voice and triggers different ways to confront prior knowledge, integrate new knowledge into their understandings, and learn advanced concepts even in small enrollment courses.</li>
+</ul>
+<p>Prof. Jack is already considering things to do next time (whether this course or another):</p>
+<ul>
+<li>Review learning objectives/assessments/activities for each week and tweak as needed, use the framework/design actively as a compass for the course.</li>
+<li>Design group problems that are more challenging, the more difficult in-class problems were considered more engaging by many students. The easier group problems were reportedly sometimes boring and students didn’t need “the team” to get the answer.</li>
+<li>Consider different strategies for creating the teams, as some were too uneven in skillset, either within the groups or comparing group to group.</li>
+<li>Do more Pre-Lecture Videos and formative assessments via Lecture Tools to enable even more active learning during class time. Consider optional Pre-Lecture Videos for those students who need a little more help and background.</li>
+<li>Think about adding a “creative project” as a culminating activity or summative assessment to help students engage with course topics in alternate, richer, and more personally meaningful ways.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>All said and done, this course redesign project was a success for the professor, the instructional designer, and the students. In addition to institutionally supported opportunities like workshops and teaching seminars, we would like to encourage faculty to seek out their teaching and learning support centers and staff. Every conversation with an instructional designer does not need to be a full course design like we have presented here. Sometimes it is just about a technology tool and how to use it with purpose, and other times it is about one singular activity or finding a solution for one instructional concern. Instructional designers are encouraged to network and make connections at their colleges to let faculty know individualized and specialized support exists.</p>
+<p>How do we motivate departmental and institutional change? One way is to talk with colleagues about experiences with teaching and learning experts and encourage them to experiment with active learning approaches. It is also important for teaching and learning experts to demonstrate “research-informed” design practice and to showcase educational research results where they exist. Offering multiple and varied ways for faculty to think about their teaching and learning practice, to examine their teaching philosophies, and to interact with instructional designers will be a key to success.</p>
+<h2>Acknowledgements:</h2>
+<p>Adrienne would like to thank her colleagues in Educational Technologies and the Dartmouth Center for the Advancement of Learning at Dartmouth for being a great team and providing ideas and motivation, the Sloan-C’s Blended Learning Mastery program for perspectives, and Wayne Brent, Gretchen Gribbs, and Sue South at University of Arizona’s Office of Instruction and Assessment for being great mentors and sharing the secrets of the covert instructional designer. A special thanks to Amanda Hagood, Grace Pang, and Paul Sotherland (Associate Provost: Teaching, Learning, and Assessment at Kalamazoo College) for helpful comments on the manuscript.</p>
+<p>Tom would like to acknowledge the inspiration he has received from the PULSE initiative (www.pulsecommunity.org), Geisel School of Medicine, and the Dartmouth Center for the Advancement of Learning.</p>
+<p>Distributed under a <a href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license"><img src="{{ site.baseurl }}/assets/images/88x31.png" alt="Creative Commons License" /></a></p>
+<hr align="left" width="33%" />
+<h2 id="fn1">Notes</h2>
+<p>[1] Cattier, A., Kim, J. “The Learner’s Moment.” Presentation for the Trustee’s of Dartmouth College, Hanover, NH., March 2014.</p>
+<p>[2] Michaelson, L. K., Knight, A. B., and Fink, L. D. (2004).  <em>Team-based learning: a transformative use of small groups in higher education</em>.  Sterling, VA: Stylus</p>
+<p>[3] http://www.pulsecommunity.org</p>
+<p>[4] http://visionandchange.org/files/2011/03/Revised-Vision-and-Change-Final-Report.pdf</p>
+<p>[5] Handelsman J., Miller S., Pfund C. (2007). <em>Scientific Teaching</em>. New York: W.H. Freeman</p>
+<p>[6] http://lecturetools.com</p>
+<p>[7] Wiggins, G., McTighe, J. (2006). <em>Understanding by Design</em>. Pearson: Merrill Prentice Hall. ISBN 0-13-195084-3</p>
+<p>[8] http://sloanconsortium.org/institute/mastery-series/blended-learning</p>
+<p>[9]  http://ccoe.rbhs.rutgers.edu/forms/EffectiveUseofLearningObjectives.pdf</p>
+<p>[10] (1) Taxonomy Action Verbs: http://www.clemson.edu/assessment/assessmentpractices/referencematerials/documents/Blooms%20Taxonomy%20Action%20Verbs.pdf</p>
+<p>(2) Andrews Churches’ Bloom’s Digital Taxonomy: http://sites.dartmouth.edu/itd/files/2013/06/andrewchurches.pdf</p>
+<p>(3) Heer, R.  A Model of Learning Objectives–based on<em> A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives</em>. http://www.celt.iastate.edu/teaching/RevisedBlooms1.html</p>
+<p>[11] Angelo, T.A. and Cross, K.P. (1993). <em>Classroom Assessment Technologies</em> (Second Edition). San Francisco: Jossey-Bass Publishers.</p>
+<p>[12] Camtasia Relay, now called Techsmith Relay http://www.techsmith.com/techsmith-relay-self-hosted.html</p>
+<p>[13] http://www.salgsite.org/</p>
+<p>[14] Lorenzo, M., Crouch, C., Mazur, E. (2006). Reducing the gender gap in the physics classroom. American Journal of Physics. American Association of Physics Teachers. Vol 74. Feb 2006.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

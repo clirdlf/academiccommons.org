@@ -1,0 +1,687 @@
+---
+layout: post
+title: Digital Scholarship and the Tenure and Promotion Process
+date: 2014-07-24 11:41:20.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Digital Scholarship
+tags:
+- Digital scholarship
+meta:
+  _edit_last: '22601'
+author:
+  login: 8164ba8413978d82461815a292be2e0c
+  email: dklemonski@middlebury.edu
+  display_name: Daniel Klemonski
+  first_name: Daniel
+  last_name: Klemonski
+---
+<p><em>by Kristine M. Bartanen</em></p>
+<p><img class="alignleft size-medium wp-image-186" src="{{ site.baseurl }}/assets/images/Bartanen_Bio-200x300.png" alt="Bartanen_Bio" width="200" height="300" />Kristine Bartanen is academic vice president and dean of the <a href="http://www.pugetsound.edu/"><strong>University of Puget Sound</strong></a> in Tacoma, Washington, a position she has held since 2004. She has served Puget Sound as director of forensics, professor and chair of the Communication and Theatre Arts department, associate academic dean, and vice president for student affairs and dean of students. Dr. Bartanen’s work has included particular attention to development of academic-residential programs on the campus, including residential first-year seminars; growth of the interdisciplinary curriculum, most recently in <a href="http://www.pugetsound.edu/academics/departments-and-programs/undergraduate/neuroscience/"><strong>neuroscience</strong></a>; and support of <a href="http://www.pugetsound.edu/academics/academic-resources/civic-scholarship-initiative/"><strong>civic scholarship</strong></a>, such as the <a href="http://www.pugetsound.edu/academics/academic-resources/sound-policy-institute/"><strong>Sound Policy Institute</strong></a> and the <a href="http://www.pugetsound.edu/academics/academic-resources/race--pedagogy-initiative/"><strong>Race and Pedagogy Initiative</strong></a>.</p>
+<p>Many liberal arts college faculty members are interested in and increasing their use of digital resources in teaching and scholarly work. Some have been developing digital teaching resources for nearly two decades, some have begun to publish scholarship in on-line journals and other digital venues, and some are doing ground-breaking work in open source, collaborative scholarly projects. Others, particularly pre-tenure or pre-promotion faculty, are reticent to venture into digital work out of concern for how that work will be acknowledged, valued, and rewarded in existing faculty tenure, promotion, and merit award systems. That reticence lives in tension with recognition that advances in technology-enabled teaching and scholarship are progressing in other institutions – academic and non-academic alike – and that professional currency in the academy demands new or amended frameworks in the liberal arts college for evaluation of digital work.</p>
+<p><!--more--></p>
+<p>For some, digital scholarship is considered difficult to evaluate because it more often crosses customary boundaries of teaching, scholarship, and service than does traditional scholarship. This territory is a “mixed-use landscape” that liberal arts college faculty members often cross in their careers on teaching-intensive, residential campuses where multiple forms of scholarship[1] are evident in evaluation portfolios, where mentoring of undergraduate research produces co-authored scholarship with students, and where community-based teaching and civic scholarship[2] transcend or elide those same traditional boundaries. My own experience – as a faculty member who always had off-site teaching and administrative components to her portfolio[3]; who chaired a department with multiple programs in which laboratories for learning extended beyond the traditional classroom[4]; and as a dean who has supported academic-residential initiatives, civic scholarship, field school projects, and interdisciplinary work and who has evaluated faculty members for more than a decade – suggests that faculty members on liberal arts campuses can succeed (indeed, in some cases may even be able to lead the way for others) in demonstrating effective use of evaluation guidelines for digital scholarship.</p>
+<p>There are challenges, however, of at least two kinds. Evaluation of digital scholarship demands new conceptions of traditional measures of peer review and scholarly authority. Faculty and administrators are challenged to articulate, for example, what standards of peer review are appropriate for digital scholarship; what process revisions are needed to make visible and to communicate the rigor of digitally published or born digital work; how “open” components of digital work such as collaborative authoring, ongoing iteration, absence of page limits or page costs, or markedly different time-to-publication than print monographs intersect with assessments of quality; and what are credible markers of “impact” for digital scholarship. As Michael Jensen has observed:</p>
+<p>For universities, the challenge will be ensuring that scholars who are making more and more of their material available online will be fairly judged in hiring and promotion decisions. It will mean being open to the widening context in which scholarship is published, and it will mean that faculty members will have to take the time to learn about — and give credit for — the new authority metrics, instead of relying on scholarly publishers to establish the importance of material for them.[5]</p>
+<p>Further, evaluation of digital scholarship demands new conceptions of what constitutes scholarly work. Digital scholars are not only moving work to new venues; nor, as William Thomas III[6] argues, are they merely migrating analog data to digital form. Digital scholars, he summarizes, are engaged in “a humanistic scholarly endeavor, a process of encoding, editing, interpreting, and curating.” They are blurring traditional boundaries of teaching, scholarship, and service, and they are engaged in interdisciplinary, multidisciplinary, and transdisciplinary work. In order to support and reward appropriately such scholarship, evaluators need guidance on how to assess such boundary-crossing work and on what standards account for the scholarly work involved in learning or building new technological tools and archival resources, in analyzing and curating “big data,” as well as in using new tools and resources to extend scholarly arguments and create new knowledge.</p>
+<p>The goal of this NITLE project is to provide access to resources that can assist liberal arts college faculties in crafting evaluation criteria and guidelines on their campuses that will appropriately support and encourage digital scholarship. While any given faculty, department, or faculty member might address this task on its own, the existence of framework guidelines – particularly those endorsed by professional groups – will add credibility to new or revised evaluation practices, serve as potential benchmarks for best processes, and reduce redundant efforts.</p>
+<h2>Definitions</h2>
+<p>While the roots of digital scholarship extend back several decades, definitions and descriptions of the work continue to evolve. Collaborative definitions from Wikipedia provide:<strong> </strong></p>
+<p>Digital scholarship is the use of digital evidence, methods of inquiry, research, publication and preservation to achieve scholarly and research goals. Digital scholarship can encompass both <a href="http://en.wikipedia.org/wiki/Scholarly_communication">scholarly communication</a> and publication using digital media and research on <a href="http://en.wikipedia.org/wiki/Digital_media">digital media</a>. . . . Digital scholarship may also include <a href="http://en.wikipedia.org/wiki/Born-digital">born-digital</a> means of scholarly communication that are more traditional, like online journals and databases, e-mail correspondence and the digital or digitized collections of research and <a href="http://en.wikipedia.org/wiki/Academic_libraries">academic libraries</a>.[7]</p>
+<p>The Digital Humanities are an area of research, teaching, and creation concerned with the intersection of computing and the disciplines of the <a href="http://en.wikipedia.org/wiki/Humanities">humanities</a>. Developing from the fields of humanities computing, humanistic computing, and digital humanities praxis . . . digital humanities embrace a variety of topics, from curating online collections to data mining large cultural data sets. Digital humanities (often abbreviated DH) currently incorporate both digitized and born-digital materials and combine the methodologies from traditional humanities disciplines (such as <a href="http://en.wikipedia.org/wiki/History">history</a>, <a href="http://en.wikipedia.org/wiki/Philosophy">philosophy</a>, <a href="http://en.wikipedia.org/wiki/Linguistics">linguistics</a>, <a href="http://en.wikipedia.org/wiki/Literature">literature</a>, <a href="http://en.wikipedia.org/wiki/Art">art</a>, <a href="http://en.wikipedia.org/wiki/Archaeology">archaeology</a>, <a href="http://en.wikipedia.org/wiki/Music">music</a>, and <a href="http://en.wikipedia.org/wiki/Cultural_studies">cultural studies</a>) and social sciences with tools provided by <a href="http://en.wikipedia.org/wiki/Computing">computing</a> (such as <a href="http://en.wikipedia.org/wiki/Data_visualisation">data visualisation</a>, <a href="http://en.wikipedia.org/wiki/Information_retrieval">information retrieval</a>, <a href="http://en.wikipedia.org/wiki/Data_mining">data mining</a>, <a href="http://en.wikipedia.org/wiki/Statistics">statistics</a>, <a href="http://en.wikipedia.org/wiki/Text_mining">text mining</a>) and <a href="http://en.wikipedia.org/wiki/Electronic_publication">digital publishing</a>.[8]</p>
+<p>Given that “DH” now encompasses areas of study beyond the humanities (and there is evidence that the sciences are wrestling with evolution of impact metrics in the digital age[9]), this paper uses “digital scholarship” as the more inclusive designation, even while recognizing the term is subject to debate.[10]</p>
+<h2>Need for Tenure and Promotion Guidelines</h2>
+<p>Literature that calls for, outlines, or discusses guidelines for evaluation of digital scholarship is robust, even as incorporation of such guidelines into campus tenure and promotion processes appears to remain inchoate. In advance of the 2014 MLA national meeting, Mark Sample reported that “digitally-inflected” sessions comprised nearly ten percent of approximately 800 convention slots,[11] which is roughly double the number in 2012. To gain some indication of the degree to which, particularly at liberal arts colleges, faculty members are engaged in digital scholarship, this project included review of two selected membership groups: NITLE members and Annapolis Group institutions. A web survey used institutional home page search boxes to identify “digital scholarship”(DS) or “digital humanities” (DH) endeavors, with activity “counted” if the institution (1) had a dedicated DS/DH website, (2) participated in a consortia-level DS/DH program, (3) listed at least one faculty member with DH as a research interest or area of expertise, (4) offered at least one course with “digital humanities” in the title, (5) hosted a THATCamp[12], or (6) had been awarded a grant to fund DS/DH activities.</p>
+<p>Results are contained in Table 1 and Table 2 and suggest that faculty involvement in digital scholarship is and will be growing in the years ahead. Yet a web search of the 27 institutions listed in Table 1 did not result in finding any evaluation, promotion, or tenure policies specific to digital humanities or digital scholarship.[13] This finding aligns with the conclusion articulated by Sheila Cavanaugh, in the Fall 2012 special issue of the <em>Journal of Digital Humanities</em> devoted to faculty evaluation: “Written guidelines for digital assessment rarely exist and many tenured faculty members remain unable, unwilling, or blind to the need to adapt current promotion criteria to digital scholarship.”[14] Eric Schnell concurs: “Review committees have a difficult time understanding the significance of digital scholarship, let alone knowing how to assess its impact. . . . As a result, emerging forms of digital scholarship are often not defined in criteria documents and therefore not fully valued [in] the faculty rewards system.”[15] Fortunately, resources are available to provide guidance both for scholars engaged in exciting and vibrant digital scholarship and the colleagues called upon to evaluate them fairly and adequately.</p>
+<h2>Model Guidelines</h2>
+<p>The Modern Language Association has crafted evaluation guidelines for digital scholarship which have served as models for other associations and for colleges and departments.</p>
+<ul>
+<li><em style="color: #000000">Guidelines for Evaluating Work in Digital Humanities and Digital Media </em><a href="http://www.mla.org/guidelines_evaluation_digital">http://www.mla.org/guidelines_evaluation_digital</a></li>
+</ul>
+<p>The MLA Committee on Information Technology hosts a very comprehensive evaluation wiki  (<a href="http://wiki.mla.org/index.php/Evaluation_Wiki">http://wiki.mla.org/index.php/Evaluation_Wiki</a>) that includes materials from periodic MLA evaluation workshops, a “Short Guide to Evaluation of Digital Work,” suggestions for candidates preparing an evaluation file, example guidelines from selected universities, and a list of resource links and bibliography related to digital scholarship in the humanities. Other association guidelines linked there include:</p>
+<ul>
+<li>College Art Association: College Art Association: <a href="http://www.collegeart.org/guidelines/newmedia07.html">http://www.collegeart.org/guidelines/newmedia07.html</a></li>
+<li>Conference on College Composition and Communication:<br />
+<a href="http://www.ncte.org/cccc/resources/positions/promotionandtenure">http://www.ncte.org/cccc/resources/positions/promotionandtenure</a></li>
+</ul>
+<p>Institutional evaluation guidelines[16] linked on the MLA evaluation wiki include:</p>
+<ul>
+<li>University of Maine, New Media Department:[17] <a href="http://newmedia.umaine.edu/interarchive/promotion_tenure_redefinitions.html">http://newmedia.umaine.edu/interarchive/promotion_tenure_redefinitions.html</a></li>
+<li>University of Nebraska-Lincoln, Center for Digital Research in the Humanities: “Promotion &amp; Tenure Criteria for Assessing Digital Research in the Humanities” <a href="http://cdrh.unl.edu/articles/promotion_and_tenure.php">http://cdrh.unl.edu/articles/promotion_and_tenure.php</a></li>
+<li>University of Victoria, Faculty of the Humanities: <a href="http://humanities.uvic.ca/faculty/evaluation_recognition.php">http://humanities.uvic.ca/faculty/evaluation_recognition.php</a></li>
+</ul>
+<p>The American Historical Association adapted the MLA guidelines and, upon recommendation of its American Association for History and Computing, endorsed the following guidelines in January 2002:</p>
+<ul>
+<li><em>Suggested Guidelines for Evaluating Digital Media Activities in Tenure, Review, and Promotion:  An AAHC Document</em><br />
+<a href="http://www.historians.org/perspectives/issues/2001/0110/0110pro1.cfm">http://www.historians.org/perspectives/issues/2001/0110/0110pro1.cfm</a></li>
+</ul>
+<p>NINES <em>(<strong>N</strong></em><em>etworked </em><strong>I</strong><em>nfrastructure for </em><strong>N</strong><em>ineteenth-Century </em><strong>E</strong><em>lectronic </em><strong>S</strong><em>cholarship</em>), through summer workshops supported by the National Endowment for the Humanities and involving faculty members (2011) and chairs of literature departments (2012), has drafted guidelines to support literature scholars:</p>
+<ul>
+<li>"Guidelines for Promotion and Tenure Committees in Judging Digital Work" <a href="http://institutes.nines.org/docs/2011-documents/guidelines-for-promotion-and-tenure-committees-in-judging-digital-work/">http://institutes.nines.org/docs/2011-documents/guidelines-for-promotion-and-tenure-committees-in-judging-digital-work/</a></li>
+</ul>
+<p>One of NINES’ primary functions is to provide scholarly peer review. These two documents provide additional guidance toward that end:</p>
+<ul>
+<li>Peer Review guidelines <a href="http://www.nines.org/about/scholarship/peer-review/">http://www.nines.org/about/scholarship/peer-review/</a></li>
+<li>General Guidelines and Peer Review Criteria for NINES Content <a href="http://www.nines.org/about/wp-content/uploads/2011/12/9s-guidelines.doc">http://www.nines.org/about/wp-content/uploads/2011/12/9s-guidelines.doc</a></li>
+</ul>
+<h2>Resources</h2>
+<p>In addition to sample guidelines, a summary of components of which is charted in Table 3, leaders in digital scholarship have provided useful presentations and articles that provide guidance in support of appropriate evaluation of this work. The Fall 2012 issue of <em>Journal of Digital Humanities</em>[18] was published as a composite, single location for “proposals, guidelines, and experiences . . . and a living bibliography that will grow as additional examples are published across the web.” Included there is a particularly clear and thorough statement by Todd Presner et al. of the UCLA Digital Humanities Program, “How to Evaluate Digital Scholarship,” that is reproduced with permission in Appendix 1 of this paper.  Additional resources are contained in Appendices 3-11.</p>
+<h2>Suggestions</h2>
+<p>Successful evaluation is both formative and summative. Evaluation candidates look forward to helpful and detailed feedback; they also expect full and fair consideration for change-of-status recommendations for tenure and promotion. Successful reviews can be supported through three important steps:</p>
+<ol>
+<li>As appropriate for the particular campus, draft departmental or college-wide evaluation guidelines for digital scholarship. On my campus, a faculty code governs faculty evaluation across the campus; in addition, each department and program articulates its own evaluation guidelines, which are subject to review and approval by the faculty’s professional standards committee. We have used addenda to departmental guidelines in cases where unique or distinctive appointments or roles (of which digital scholarship could be an example) require specifically- or specially-defined guidelines. Creation of the new guidelines or an addendum (such as the example in Appendix 2) also brings departmental and/or campus colleagues into conversation, well in advance of the review, which helps to build mutual understanding of expectations.</li>
+</ol>
+<ol start="2">
+<li>Senior colleagues take responsibility for completing and forwarding the guidelines for approval to the faculty’s professional standards committee, faculty senate, or full faculty. Collaboration with educational technology and digital collections librarians in the process of completion can help to insure that system requirements are in place and also reinforces the collaborative nature of digital work. Again, discussion of guidelines or addenda in these broader forums raises awareness and understanding of digital work as a legitimate and valuable form of scholarship.</li>
+</ol>
+<ol start="3">
+<li>Mentor evaluation candidates in the development and preparation of their portfolios. One form of mentorship is to encourage and make space for pre-evaluation digital scholars to share their work in campus seminars or workshops so that familiarity about their work is cultivated prior to the evaluation period. Another source of mentorship is sample evaluation statements made available by digital scholars such as Cheryl Ball,[19] editor of <em>Kairos: A Journal of Rhetoric, Technology and Pedagogy</em> and Katherine D. Harris,[20] who published her research statement in the Fall 2012 issue of <em>Journal of Digital Humanities</em>. A senior campus colleague or another digital scholar on campus, perhaps in another department, could review the clarity of a candidate’s draft evaluation statement and the intersection of the candidate’s presentation of evidence with campus guidelines; offer feedback on the wisdom of including in the file a reading, such as the Presner et al. document appended here; and provide pre-evaluation feedback well in advance of the due dates for submission of evaluation materials. Mentors can also help to temper candidate or colleague expectations that – as captured in a recent <em>Chronicle Vitae</em> article – digital scholars must work twice as hard as “traditional” scholars do to meet evaluation standards.[21]</li>
+</ol>
+<h2>Conclusion</h2>
+<p>In the rapidly changing digital environment, this project is necessarily a work-in-progress designed to open conversation. Additional papers and articles, example documents, and approved evaluation guidelines will emerge to join the resource lists. The resources, I hope, will reduce faculty members’ reticence to engage digital scholarship and increase faculty members’ understanding of the nature of digital work. Those two changes will make space for the “larger possibilities” envisioned by Edward Ayers in his recent <em>Educause Review</em> essay:</p>
+<p style="padding-left: 60px">Digital scholarship can reframe issues of enduring interest with broad arrays of information, it can integrate vast scholarly literature into more useful forms, and it can significantly broaden our temporal or spatial comprehension. In short, digital scholarship needs to do things that simply cannot be done on paper. . . . How can we advance digital scholarship? By thinking of larger possibilities. . . . As we try to foster digital scholarship in the years ahead, we need to begin by understanding the cultural, economic, personal, and institutional world in which the new scholarship will live. That scholarly world defines a problem within a meaningful conversation, it arrays evidence to address the problem, it makes the clearest case for a solution to the problem, and it conveys that case to every relevant audience. Digital scholarship must assume all of those responsibilities if it is to take its place as academic scholarship and if it is to align the core purpose of higher education with the possibilities of our time.[22]</p>
+<p>Appropriate and fair evaluation of digital scholarship in the promotion and tenure process is one small, but important step toward such a vision.</p>
+<p><em>Kristine M. Bartanen (</em><a href="mailto:acadvp@pugetsound.edu"><em>acadvp@pugetsound.edu</em></a><em>) is academic vice president and dean, University of Puget Sound, Tacoma, WA, and a 2013-2014 NITLE Fellow. Credit for the literature review and website survey components of this paper belongs to Elizabeth Knight, MLIS, Seattle archivist and librarian, who contributed thorough and efficient research support as well as perceptive insights essential to the project.</em></p>
+<p>&nbsp;</p>
+<p>Table 1: Digital Scholarship Activity among Annapolis Group and NITLE member Institutions</p>
+<table>
+<tbody>
+<tr>
+<td><strong>Institution</strong></td>
+<td><strong>Activity</strong></td>
+</tr>
+<tr>
+<td>Bowdoin College</td>
+<td>Digital and Computational Studies Initiative<a href="http://www.bowdoin.edu/digital-computational-studies/index.shtml">http://www.bowdoin.edu/digital-computational-studies/index.shtml</a></td>
+</tr>
+<tr>
+<td>Bryn Mawr College</td>
+<td>Member of Tri-College DH project, plus visible local activity</td>
+</tr>
+<tr>
+<td>City University of New York</td>
+<td>Digital Humanities Initiative: <a href="http://cunydhi.commons.gc.cuny.edu/">http://cunydhi.commons.gc.cuny.edu/</a>New faculty: <a href="http://www1.cuny.edu/mu/forum/2012/11/02/renowned-digital-humanities-expert-lev-manovich-joining-graduate-center-faculty">http://www1.cuny.edu/mu/forum/2012/11/02/renowned-digital-humanities-expert-lev-manovich-joining-graduate-center-faculty</a></td>
+</tr>
+<tr>
+<td>Bucknell University</td>
+<td>Digital Scholarship Initiative <a href="https://www.bucknell.edu/newsevents/current-news/2013/july/rethinking-bucknell-in-the-21st-century.html">https://www.bucknell.edu/newsevents/current-news/2013/july/rethinking-bucknell-in-the-21st-century.html</a></td>
+</tr>
+<tr>
+<td>Davidson College</td>
+<td>Digital Studies Initiative <a href="http://dsi.davidson.edu">http://dsi.davidson.edu</a></td>
+</tr>
+<tr>
+<td>Dickinson College</td>
+<td>Digital Humanities Advisory Committee <a href="http://blogs.dickinson.edu/digitalhumanities/">http://blogs.dickinson.edu/digitalhumanities/</a></td>
+</tr>
+<tr>
+<td>Emory University</td>
+<td>Center for Digital Scholarship <a href="http://digitalscholarship.emory.edu/">http://digitalscholarship.emory.edu/</a></td>
+</tr>
+<tr>
+<td>Hamilton College</td>
+<td>Digital Humanities Initiative (DHi) <a href="http://www.dhinitiative.org/">http://www.dhinitiative.org/</a></td>
+</tr>
+<tr>
+<td>Harvey Mudd College</td>
+<td>Member of CCDH, hired UCLA Center for DH CIO, Joseph Vaughan</td>
+</tr>
+<tr>
+<td>Haverford College</td>
+<td>Member of Tri-College DHDigital Scholarship Program <a href="http://library.haverford.edu/services/digital-scholarship">http://library.haverford.edu/services/digital-scholarship</a></td>
+</tr>
+<tr>
+<td>Hope College</td>
+<td>Mellon Scholars Program, Praxis Network member, William Pannapacker home institution</td>
+</tr>
+<tr>
+<td>Lafayette College</td>
+<td>Mellon DH grant recipient</td>
+</tr>
+<tr>
+<td>Macalaster College</td>
+<td>With Carleton and St. Olaf received Mellon DH grant</td>
+</tr>
+<tr>
+<td>Middlebury College</td>
+<td>DISH: Digital Scholarship Hub <a href="http://sites.middlebury.edu/futures/dish-digital-scholarship-hub/">http://sites.middlebury.edu/futures/dish-digital-scholarship-hub/</a></td>
+</tr>
+<tr>
+<td>Mt. Holyoke College</td>
+<td>TEI Initiative and TAPAS involvement <a href="https://www.mtholyoke.edu/courses/smoss/TEI_Initiative_MHC.pdf">https://www.mtholyoke.edu/courses/smoss/TEI_Initiative_MHC.pdf</a></td>
+</tr>
+<tr>
+<td>Occidental College</td>
+<td>Center for Digital Learning + Research <a href="http://www.oxy.edu/center-digital-learning-research">http://www.oxy.edu/center-digital-learning-research</a></td>
+</tr>
+<tr>
+<td>Reed College</td>
+<td>$800,000 Mellon/$150,000 Keck grants to advance student digital research</td>
+</tr>
+<tr>
+<td>Richard Stockton College</td>
+<td>Center for Digital Humanities <a href="https://dh.stockton.edu/">https://dh.stockton.edu/</a></td>
+</tr>
+<tr>
+<td>St. Olaf College</td>
+<td>Digital Humanities on the Hill project receives $700k Mellon grant<a href="http://wp.stolaf.edu/blog/st-olaf-receives-mellon-grant-for-digital-humanities-project/">http://wp.stolaf.edu/blog/st-olaf-receives-mellon-grant-for-digital-humanities-project/</a></td>
+</tr>
+<tr>
+<td>Swarthmore College</td>
+<td>Abundant DH activity</td>
+</tr>
+<tr>
+<td>University of Chicago</td>
+<td>Active DH English Department, Annual Chicago Colloquium on DH and Computer Science, ARTFL project</td>
+</tr>
+<tr>
+<td>University of Richmond</td>
+<td>Digital Scholarship Lab <a href="http://dsl.richmond.edu/">http://dsl.richmond.edu/</a></td>
+</tr>
+<tr>
+<td>Virginia Tech University</td>
+<td>Center for Digital Research and Scholarship <a href="http://www.cdrs.lib.vt.edu/">http://www.cdrs.lib.vt.edu/</a></td>
+</tr>
+<tr>
+<td>Washington and Lee University</td>
+<td>DH Working Group <a href="http://digitalhumanities.wlu.edu/">http://digitalhumanities.wlu.edu/</a></td>
+</tr>
+<tr>
+<td>Wellesley College</td>
+<td>Digital Scholarship Initiatives Program <a href="http://www.wellesley.edu/lts/about/dsi/">http://www.wellesley.edu/lts/about/dsi/</a></td>
+</tr>
+<tr>
+<td>Wheaton College (MA)</td>
+<td>Digital History Project: <a href="http://wheatoncollege.edu/digital-history-project/">http://wheatoncollege.edu/digital-history-project/</a><br />
+Digital Humanities: <a href="http://wheatoncollege.edu/technology/academic/technologies/digital-humanities-2/">http://wheatoncollege.edu/technology/academic/technologies/digital-humanities-2/</a></td>
+</tr>
+<tr>
+<td>Whittier College</td>
+<td>DigLibArts Center: <a href="http://www.whittier.edu/academics/diglibarts">http://www.whittier.edu/academics/diglibarts</a>;Center received $750k Mellon grant</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Table 2: Digital Scholarship Activity among selected consortia</p>
+<table>
+<tbody>
+<tr>
+<td><strong>Consortium<br />
+(total members)</strong></td>
+<td><strong>Project</strong></td>
+</tr>
+<tr>
+<td>Associated Colleges of the Midwest (14)</td>
+<td>Enhancing Midwest Knowledge Eco-system initiative (EMKE), including collaboration in the digital humanities <a href="http://www.acm.edu/features/news/477">http://www.acm.edu/features/news/477</a>, awarded Mellon Grant for liberal arts – research university collaboration</td>
+</tr>
+<tr>
+<td>Claremont University Consortium (7)</td>
+<td>Center for Digital Initiatives http://libraries.claremont.edu/CDI/default.asp</td>
+</tr>
+<tr>
+<td>Five College Consortium (5)</td>
+<td>Five College Digital Humanities Program <a href="https://www.fivecolleges.edu/dh">https://www.fivecolleges.edu/dh</a></td>
+</tr>
+<tr>
+<td>Five Colleges of Ohio Consortium (5)</td>
+<td>Awarded $775,000 Mellon Grant for digital collections and programs: <a href="http://www.wooster.edu/news/releases/2013/may/mellon-grant">http://www.wooster.edu/news/releases/2013/may/mellon-grant</a></td>
+</tr>
+<tr>
+<td>Great Lakes Colleges Association (12)</td>
+<td>Digital Liberal Arts Initiative <a href="http://www.hope.edu/2013/10/01/william-pannapacker-direct-glca-digital-liberal-arts-initiative">http://www.hope.edu/2013/10/01/william-pannapacker-direct-glca-digital-liberal-arts-initiative</a></td>
+</tr>
+<tr>
+<td>New York Six Colleges Consortium (6)</td>
+<td>New York Six Digital Humanities Consortium <a href="http://www.dhinitiative.org/">http://www.dhinitiative.org/</a></td>
+</tr>
+<tr>
+<td>Tri College Digital Humanities (3)</td>
+<td>Tri College Digital Humanities http://tdh.brynmawr.edu/</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Table 3: Chart of key components to support guideline development</p>
+<table>
+<tbody>
+<tr>
+<td><strong>Organization or Institutional Guidelines:</strong><strong>[23]</strong></td>
+<td><strong>MLA</strong></td>
+<td><strong>AHA </strong></td>
+<td><strong>Maine</strong></td>
+<td><strong>Nebraska</strong></td>
+<td><strong>NINES/NEH</strong></td>
+<td><strong>Presner et al.</strong></td>
+</tr>
+<tr>
+<td>Department: Delineate and communicate responsibilities at hire</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Department: Engage qualified peer reviewers</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Faculty member: ask about evaluation and support</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Faculty member: Negotiate and document your role</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Faculty member: Document and explain your work</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Review work in the medium in which it was developed</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Recognize interdisciplinary dimensions of digital work</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Evaluators: Recognize intrinsically collaborative nature of digital projects</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Recognize iterative nature of projects and assess such work in the context of appropriate stage of development</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Recognize multiple metrics/measures of impact and multiple dimensions of intellectual rigor</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Recognize work crosses boundaries of teaching, research, and service</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Recognize experimentation and risk-taking, including negative results</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Evaluators: Avoid approximating equivalencies with print artifacts</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>All: Stay informed about accessibility issues</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>All: See also a checklist of questions included in these example guidelines</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Distributed under a <a href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license"><img src="{{ site.baseurl }}/assets/images/88x31.png" alt="Creative Commons License" /></a></p>
+<p>Appendix 1: “How to Evaluate Digital Scholarship”</p>
+<p>From “A Short Guide to Digital Humanities.” In the cooperative and open access book by Peter Lunenfeld, Anne Burdick, Johanna Drucker, Todd Presner, and Jeffrey Schnapp, <em>Digital_Humanities</em>. Cambridge, Mass.: MIT Press, 2012; pp. 128-129.  Open access edition (PDF e-book) at: <a href="https://mitpress.mit.edu/books/digitalhumanities-0">https://mitpress.mit.edu/books/digitalhumanities-0</a>https://mitpress.mit.edu/books/digitalhumanities-0.</p>
+<p>The document is also available in the Fall 2012 <em>Journal of Digital Humanities</em> (<a href="http://www.journalofdigitalhumanities.org">http://www.journalofdigitalhumanities.org</a>). Lead author Todd Presner affirmed in personal correspondence (3/13/14) that while the document has not been formally adopted by any institutional body at UCLA, it has informed discussion at all levels, particularly at the departmental level where it has been used in tenure and promotion cases. Presner and collaborators are affiliated with the UCLA Digital Humanities program (<a href="http://www.digitalhumanities.ucla.edu">http://www.digitalhumanities.ucla.edu</a>).</p>
+<p>This text provides a set of guidelines for the evaluation of digital scholarship in the humanities, social sciences, arts, and related disciplines. The guidelines are aimed, foremost, at academic review committees, chairs, deans, and provosts who want to know how to assess and evaluate digital scholarship in the hiring, tenure, and promotion process.</p>
+<p>The list is also intended to inform the development of institution-wide policies for supporting and evaluating scholarship and creative work that reflects traditional values while incorporating specific understandings of new platforms and formats.</p>
+<p><strong>Fundamentals for initial review</strong></p>
+<p>The work must be evaluated in the medium in which it was produced and published. If it is a website, that means viewing it in a browser with the appropriate plug-ins necessary for the site to work. If it is a virtual simulation model, that may mean going to a laboratory outfitted with the necessary software and projection systems to view the model. Work that is time-based—such as videos—will often be represented by stills, but reviewers also need to devote attention to clips in order to fully evaluate the work. The same can be said for interface development, since still images cannot fully demonstrate the interactive nature of interface research. Authors of digital works should provide a list of system requirements (both hardware and software, including compatible browsers, versions, and plug-ins) for viewing the work. It is incumbent upon academic personnel offices to verify that the appropriate technologies are available and installed on the systems that will be used by the reviewers before they evaluate the digital work.</p>
+<p><strong>Crediting</strong></p>
+<p>Digital projects are often collaborative in nature, involving teams of scholars who work together in different venues over various periods of time. Authors of digital works should provide a clear articulation of the role or roles that they have played in the genesis, development, and execution of the digital project. It is impractical—if not impossible—to separate out every micro-contribution made by team members since digital projects are often synergistic, iterative, experimental, and even dynamically generated through ongoing collaborations. Nevertheless, authors should indicate the roles that they played (and time commitments) at each phase of the project development. Who conceptualized the project and designed the initial specifications (functional and technical)? Who created the mock-ups? Who wrote the grant proposals or secured the funding that supported the project? What role did each contributor play in the development and execution of the project? Who authored the content? Who decided how that content would be accessed, displayed, and stored? What is the “public face” of the project and who represents it and how?</p>
+<p><strong>Intellectual rigor</strong></p>
+<p>Digital projects vary tremendously and may not “look” like traditional academic scholarship; at the same time, scholarly rigor must be assessed by examining how the work contributes to and advances the state of knowledge in a given field or fields. What is the nature of the new knowledge created? What is the methodology used to create this knowledge? It is important for review committees to recognize that new knowledge is not just new content but also new ways of organizing, classifying, and interacting with content. This means that part of the intellectual contribution of a digital project is the design of the interface, the database, and the code, all of which govern the form of the content. Digital scholars are not only in the position of doing original research but also of inventing new scholarly platforms. Five hundred years of print have so fully naturalized the “look” of knowledge that it may be difficult for reviewers to fully understand these new forms of documentation and the intellectual effort that goes into developing them. This is the dual burden—and the dual opportunity—for creativity in the digital domain.</p>
+<p><strong>Crossing research, teaching, and service </strong></p>
+<p>Digital projects almost always have multiple applications and uses that enhance research, teaching, and service. Digital research projects can make transformative contributions in the classroom and sometimes even have an impact on the public-at-large. This ripple effect should not be diminished. Review committees need to be attentive to colleagues who dismiss the research contributions of digital work by cavalierly characterizing it as a mere “tool” for teaching or service. Tools shape knowledge, and knowledge shapes tools. But it is also important that review committees focus on the research contributions of the digital work by asking questions such as the following: How is the work engaged with a problem specific to a scholarly discipline or group of disciplines? How does the work reframe that problem or contribute to a new way of understanding the problem? How does the work advance an argument through both the content and the way the content is presented? How is the design of the platform an argument? To answer this last question, review committees might ask for documentation describing the development process and design of the platform or software, such as database schemata, interface designs, modules of code (and explanations of what they do), as well as sample data types. If the project is, in fact, primarily for teaching, how has it transformed the learning environment? What contributions has it made to learning and how have these contributions been assessed?</p>
+<p><strong> </strong><strong>Peer review</strong></p>
+<p>Digital projects should be peer-reviewed by scholars in fields who are able to assess the project’s contribution to knowledge and situate it within the relevant intellectual landscape. Peer review can happen formally through letters of solicitation but can also be assessed through online forums, citations, and discussions in scholarly venues, by grants received from foundations and other sources of funding, and through public presentations of the project at conferences and symposia. Has the project given rise to publications in peer-reviewed journals or won prizes by professional associations? How does it measure up to comparable projects in the field that use or develop similar technologies or similar kinds of data? Finally, grants received are often significant indicators of peer review. It is important that reviewers familiarize themselves with grant organizations across schools and disciplines, including the humanities, the social sciences, the arts, information studies and library sciences, and the natural sciences, since these are indicators of prestige and impact.</p>
+<p><strong>Impact</strong></p>
+<p>Digital projects can have an impact on numerous fields in the academy as well as across institutions and even the general public. They often cross the divide that arises among research, teaching, and service in innovative ways. Impact can be measured in many ways, including the following: support by granting agencies or foundations, number of viewers or contributors to a site and what they contribute, citations in both traditional literature and online (blogs, social media, links, and trackbacks), use or adoption of the project by other scholars and institutions, conferences and symposia featuring the project, and resonance in public and community outreach (such as museum exhibitions, public policy impact, adoption in curricula, and so forth).</p>
+<p><strong>Approximating equivalencies</strong></p>
+<p>Is a digital research project “equivalent” to a book published by a university press, an edited volume or a research article? These sorts of questions are often misguided since they are predicated on comparing fundamentally different knowledge artifacts and, perhaps more problematically, consider print publications as the norm and benchmark from which to measure all other work. Reviewers should be able to assess the significance of the digital work based on a number of factors: the quality and quantity of the research that contributed to the project; the length of time spent and the kind of intellectual investment of the creators and contributors; the range, depth, and forms of the content types and the ways in which this content is presented; and the nature of the authorship and publication process. Large-scale projects with major funding, multiple collaborators, and a wide-range of scholarly outputs may justifiably be given more weight in the review and promotion process than smaller-scale or short-term projects.</p>
+<p><strong>Development cycles, sustainability, and ethics</strong></p>
+<p>It is important that review committees recognize the iterative nature of digital projects, which may entail multiple reviews over several review cycles, as projects grow, change, and mature. Given that academic review cycles are generally several years apart (while digital advances occur more rapidly), reviewers should consider individual projects in their specific contexts. At what “stage” is the project in its current form? Is it considered “complete” by the creators, or will it continue in new iterations, perhaps through spin-off projects and further development? Has the project followed the best practices, as they have been established in the field, in terms of data collection and content production, the use of standards, and appropriate documentation? How will the project “live” and be accessible in the future, and what sort of infrastructure will be necessary to support it? Here, project specific needs and institutional obligations come together at the highest levels and should be discussed openly with deans and provosts, library and IT staff, and project leaders. Finally, digital projects may raise critical ethical issues about the nature and value of cultural preservation, public history, participatory culture and accessibility, digital diversity, and collection curation which should be thoughtfully considered by project leaders and review committees.</p>
+<p><strong>Experimentation and risk-taking</strong></p>
+<p>Digital projects in the humanities, social sciences, and arts share with experimental practices in the sciences a willingness to be open about iteration and negative results. As such, experimentation and trial-and-error are inherent parts of digital research and must be recognized. The processes of experimentation can be documented and can prove to be essential in the long-term development process of an idea or project. White papers, sets of best practices, new design environments, and publications can result from such projects, and these should be considered in the review process. Experimentation and risk-taking in scholarship represent the best of what the university, in all its many disciplines, has to offer society. To treat scholarship that takes on risk and the challenge of experimentation as an activity of secondary (or no) value for promotion and advancement can only serve to reduce innovation, reward mediocrity, and retard the development of research.</p>
+<p>Appendix 2: Sample addendum for evaluating a digital scholar[24]</p>
+<p>ADDENDUM TO THE [INSERT NAME] DEPARTMENT EVALUATION  STANDARDS</p>
+<p>FOR FACULTY MEMBERS ENGAGED IN DIGITAL SCHOLARSHIP</p>
+<p>Approved by the [insert name] Department: ______ (date)</p>
+<p>Approved by the Professional Standards Committee: _____ (date)</p>
+<h2>Preface</h2>
+<p>The faculty member engaged in digital scholarship should satisfy each evaluation criterion – teaching effectiveness, scholarship, and service to the department, college/university, and community – at the same level of quality expected of colleagues. Due to distinctive features of digital scholarship, however, evidence of scholarship and markers of quality may distinguish the digital scholar from colleagues. Evaluation of the digital scholar offers unique opportunities and requires unique delineations because, by definition and practice, the digital scholar’s role is one that may often challenge traditional academic categories and metrics for evaluation. The existence of these distinctions, however, does not lessen the excellence of digital scholarship. The faculty member under review must provide evidence that her or his work as a digital scholar meets standards of quality prevalent among the communities of digital scholars in his or her disciplinary or interdisciplinary field.</p>
+<p>This evaluation addendum is informed by digital scholarship evaluation guidelines endorsed by the [insert relevant professional association(s)].</p>
+<h2>Participation</h2>
+<p>Colleagues who participate in the review of a faculty member engaged in digital scholarship, whether at the department or college/university level, should be prepared to review digital work in the medium in which it was created and published. This means both that the faculty member being reviewed will be expected to provide accessible links to digital work and information on system requirements for viewing it. The review committee chair will be expected to work with the Office of the Dean to insure that appropriate technologies are available and in working order for reviewers before they evaluate the digital work.</p>
+<p>If external peer review of scholarship is required for the evaluation or, if not required, such peer review is desired by the faculty member being evaluated, those reviewers should similarly be expected to access digital work in its medium with appropriate systems needs in place. Furthermore, if external review is required, at least [#] of the standard number of such reviewers should be peers engaged in digital scholarship.</p>
+<h2>Definition of work</h2>
+<p>The faculty member engaged in digital scholarship may demonstrate excellence through such traditional vehicles as publication in print journals or monographs; presentations at conventions, conferences, workshops or similar forums; publication of instructional materials; and book of materials reviews. The digital scholar may also demonstrate excellence by publishing in digital media, such as online journals and databases; conducting research or creating digital media, such as digitized collections of materials; curating online collections; or mining large cultural data sets. The faculty member engaged in digital scholarship should be expected to explain and document the work being pursued, to discuss its distinctive components and stage(s) of development, and to both articulate appropriate metrics for and evidence of the impact of the work.</p>
+<h2>Expectations</h2>
+<p>The reviewers of the digital scholar’s portfolio should expect to see:</p>
+<ul>
+<li>work that is collaborative (often with colleagues who may be in staff roles in library or IT organizations);</li>
+<li>work that may be interdisciplinary, multidisciplinary, or trans-disciplinary;</li>
+<li>work that may involve experimentation and risk-taking; and</li>
+<li>the faculty member and peer reviewers discuss these dimensions of the work.</li>
+</ul>
+<p>The reviewers of digital scholarship should avoid:</p>
+<ul>
+<li>Attempting to equate digital products with traditional print products;</li>
+<li>Expecting the digital scholar to do more work than other colleagues, but rather expect that quantity of work may differ even as quality of work is expected to be high;</li>
+<li>Dismissing digital work that includes teaching about new forms of scholarship, or service to the development of new scholarly communication organizations, as not also scholarly in its contribution to the academy.</li>
+</ul>
+<h2>Questions and notice</h2>
+<p>Departmental or college/university-level questions about this addendum should be resolved prior to the initiation of the review process. The addendum itself should be completed and approved as early as possible in a digital scholar’s appointment, preferably by the end of the first-year and no later than two years prior to a scheduled promotion or tenure review.</p>
+<p>Appendix 3: Selected resources for evaluation guideline development</p>
+<p>Braun, Catherine C. <em>Cultivating Ecologies for Digital Media Work: The Case of English Studies. </em>2014. Southern Illinois University Press.</p>
+<p>Note especially, Chapter 3, “Scholarship through a New Lens: Digital Production and New Models of Evaluation,” pp. 91-131which contains questions to guide departmental considerations of evaluation of digital scholarship.</p>
+<p>Byerly, Alison. “Evaluating Digital Scholarship.” NITLE Seminar, October 10, 2012. <a href="http://www.slideshare.net/nitle/byerly-nitle-digital-scholarship">http://www.slideshare.net/nitle/byerly-nitle-digital-scholarship</a></p>
+<p>Slides 4-6 summarize that “Good evaluation depends on shared context: clear expectations, defined roles, recognized measures of success” and outline essential tasks for scholars and evaluators.</p>
+<p>Fitzpatrick, Kathleen. “Beyond Metrics: Community Authorization and Open Peer Review.” In <em>Debates in the Digital Humanities. </em>2012. University of Minnesota Press. <a href="http://dhdebates.gc.cuny.edu/debates#text/7">http://dhdebates.gc.cuny.edu/debates#text/7</a></p>
+<p>Discusses ways both scholars engaged in digital work and evaluation committees can come to understand and articulate the values of open vs. traditional peer review.</p>
+<p>Fitzpatrick, Kathleen. “Peer Review, Judgment, and Reading.” <em>Profession</em>. Modern Language Association of America. 2011. <a href="http://humanities.case.edu/digital/evaluatingDigital_6.pdf">http://humanities.case.edu/digital/evaluatingDigital_6.pdf</a></p>
+<p>Discusses traditional and new forms of review of scholarship in tenure and promotion evaluations, with emphasis on the responsibility of reading and on how to read open peer review of digital scholarship.</p>
+<p>Flanders, Julia. “Time, Labor, and ‘Alternate Careers’ in Digital Humanities Knowledge Work.” In <em>Debates in the Digital Humanities. </em>2012. University of Minnesota Press. <a href="http://dhdebates.gc.cuny.edu/debates/text/26">http://dhdebates.gc.cuny.edu/debates/text/26</a></p>
+<p>Discusses the “para-academic” roles involved in digital humanities work (e.g., graduate assistant, consultant, freelancer, technology services staff, adjunct faculty member), how those roles intersect with and are valued relative to the traditional “faculty” paradigm, and future evolution likely in collaborative digital humanities work.</p>
+<p>The Journal of American History. Website Reviews.  <a href="http://www.journalofamericanhistory.org/submit/websitereviews.html">http://www.journalofamericanhistory.org/submit/websitereviews.html</a></p>
+<p>Outlines types of websites and provides general guidelines for review of them:</p>
+<ul>
+<li>Content: Is the scholarship sound and current? What is the interpretation or point of view?</li>
+<li>Form: Is it clear? Easy to navigate? Does it function effectively? Does it have a clear, effective, and original design? Does it have a coherent structure?</li>
+<li>Audience/Use: Is it directed at a clear audience? Will it serve the needs of that audience?</li>
+<li>New Media: Does it make effective use of new media and new technology? Does it do something that could not be done in other media—print, exhibition, film?</li>
+</ul>
+<p>Lunenfeld, Peter, Anne Burdick, Johanna Drucker, Todd Presner and Jeffrey Schnapp. <em>Digital Humanities</em>. Cambridge, Mass.: MIT Press, 2012. PDF eBook <a href="http://mitpress.mit.edu/books/digitalhumanities-0">http://mitpress.mit.edu/books/digitalhumanities-0</a></p>
+<p>"... [a] report on the state of contemporary knowledge production... explores methodologies and techniques unfamiliar to traditional modes of humanistic inquiry – including geospatial analysis, data mining, corpus linguistics, visualization, and simulation... the authors argue that the digital humanities offers a    revitalization of the liberal arts tradition..."</p>
+<p>Williford, Christa and Charles Henry. 2012. <em>One Culture: Computationally Intensive Research in the Humanities and Social Sciences</em>. <a href="http://www.clir.org/pubs/reports/pub151">http://www.clir.org/pubs/reports/pub151</a></p>
+<p>Based on eight international projects involving computational analysis of large data sets, this resource offers recommendations to enable universities “to adapt to, support, or sustain this emerging research over time.”</p>
+<h2> Appendix 4: Key Digital Humanities Organizations</h2>
+<p>Alliance of Digital Humanities Organizations:  <a href="http://adho.org/">http://adho.org/</a></p>
+<p>American Academy of Arts and Sciences, Humanities Indicators: <a href="http://www.humanitiesindicators.org/">http://www.humanitiesindicators.org/</a></p>
+<p>Association for Computers and the Humanities, hosted by Boston College: <a href="http://ach.org/">http://ach.org/</a></p>
+<p>CenterNet: International Network of Digital Humanities Centers: <a href="http://digitalhumanities.org/centernet/">http://digitalhumanities.org/centernet/</a></p>
+<p>North America: <a href="http://digitalhumanities.org/centernet/centers">http://digitalhumanities.org/centernet/centers</a></p>
+<p>Council on Library and Information Resources, Digging into Data Challenge (NEH): <a href="http://www.diggingintodata.org/">http://www.diggingintodata.org/</a></p>
+<p>June 2012 report: <a href="http://www.clir.org/pubs/reports/pub151">http://www.clir.org/pubs/reports/pub151</a></p>
+<p>DevDH <a href="http://devdh.org/">http://devdh.org/</a></p>
+<p>Recommended readings: <a href="http://devdh.org/recommended-readings/">http://devdh.org/recommended-readings/</a></p>
+<p>Digital Humanities Now:  <a href="http://digitalhumanitiesnow.org/">http://digitalhumanitiesnow.org/</a></p>
+<p>A search for “evaluating digital scholarship” provides a chronological list of resources.</p>
+<p>DH Commons:  <a href="http://dhcommons.org/">http://dhcommons.org/</a></p>
+<p>DHThis:  <a href="http://www.dhthis.org/">http://www.dhthis.org/</a></p>
+<p>Harvard MetaLab <a href="http://metalab.harvard.edu/">http://metalab.harvard.edu/</a></p>
+<p>Institute for Computing in Humanities, Arts, and Social Science (iCHASS):  <a href="http://chass.illinois.edu/">http://chass.illinois.edu/</a></p>
+<p>Institutes for Advanced Topics in the Digital Humanities (NEH):  <a href="http://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities">http://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities</a></p>
+<p>NEH Office of Digital Humanities:  <a href="http://www.neh.gov/divisions/odh">http://www.neh.gov/divisions/odh</a></p>
+<p>NITLE Digital Humanities Council:<br />
+<a href="http://blogs.nitle.org/2011/11/01/announcing-the-nitle-digital-humanities-council/">http://blogs.nitle.org/2011/11/01/announcing-the-nitle-digital-humanities-council/</a></p>
+<p>Open Scholar Foundation: <a href="http://www.force11.org/node/4383">http://www.force11.org/node/4383</a></p>
+<p>Open Scholar platform: <a href="http://openscholar.harvard.edu/">http://openscholar.harvard.edu/</a></p>
+<p>Princeton Digital Humanities Initiative (2013) <a href="http://digitalhumanities.princeton.edu/">http://digitalhumanities.princeton.edu/</a></p>
+<h2>Appendix 5: ITHAKA and ITHAKA S+R resources on digital humanities</h2>
+<p>These sites do not appear to contain content focused specifically or primarily on faculty evaluation. Below are reports pertaining to digital humanities, faculty research support, or sustaining local digital scholarship.</p>
+<ul>
+<li>Sustaining the Digital Humanities. 2013. <a href="http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities">http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities</a></li>
+</ul>
+<p>NOTE: A final report will be issued in Spring 2014, and will be accompanied by a toolkit to support campus administrators in developing a digital strategy for supporting digital humanities projects at their institution.</p>
+<ul>
+<li>ARL Appraising our Digital Investment. 2013. <a href="http://www.sr.ithaka.org/research-publications/appraising-our-digital-investment">http://www.sr.ithaka.org/research-publications/appraising-our-digital-investment</a></li>
+</ul>
+<ul>
+<li>Research Support Services for Scholars. 2013. <a href="http://www.sr.ithaka.org/research-publications/research-support-services-scholars">http://www.sr.ithaka.org/research-publications/research-support-services-scholars</a></li>
+</ul>
+<ul>
+<li>Host Institution Strategies for Sustaining Digital Resources. 2012. <a href="http://www.sr.ithaka.org/research-publications/host-institution-strategies-sustaining-digital-resources">http://www.sr.ithaka.org/research-publications/host-institution-strategies-sustaining-digital-resources</a></li>
+</ul>
+<ul>
+<li>Supporting the Changing Research Practices of Historians. 2012. <a href="http://www.sr.ithaka.org/research-publications/supporting-changing-research-practices-historians">http://www.sr.ithaka.org/research-publications/supporting-changing-research-practices-historians</a></li>
+</ul>
+<ul>
+<li>U.S. Faculty Survey 2012. <a href="http://www.sr.ithaka.org/research-publications/us-faculty-survey-2012">http://www.sr.ithaka.org/research-publications/us-faculty-survey-2012</a></li>
+</ul>
+<ul>
+<li>Local Faculty Survey tool. 2012. <a href="http://sr.ithaka.org/local-faculty-survey">http://sr.ithaka.org/local-faculty-survey</a></li>
+</ul>
+<ul>
+<li>RLUK: UK Survey of Academics 2012. <a href="http://www.sr.ithaka.org/research-publications/ithaka-sr-jisc-rluk-uk-survey-academics-2012">http://www.sr.ithaka.org/research-publications/ithaka-sr-jisc-rluk-uk-surveyacademics-2012</a></li>
+</ul>
+<ul>
+<li>Department of Digital Humanities at King's College London 2011. <a href="http://www.sr.ithaka.org/research-publications/ddh-kings-college-london">http://www.sr.ithaka.org/research-publications/ddh-kings-college-london</a></li>
+</ul>
+<ul>
+<li>Sustaining Digital Resources... 2009. <a href="http://www.sr.ithaka.org/research-publications/sustaining-digital-resources-ground-view-projects-today">http://www.sr.ithaka.org/research-publications/sustaining-digital-resources-ground-view-projects-today</a></li>
+</ul>
+<h2>Appendix 6:  Selected Digital Scholarship Tools</h2>
+<ul>
+<li>Altmetrics <a href="http://altmetrics.org/manifesto/">http://altmetrics.org/manifesto/</a></li>
+</ul>
+<ul>
+<li>Anthologize <a href="http://anthologize.org/">http://anthologize.org/</a></li>
+</ul>
+<ul>
+<li>Bamboo DiRT Digital Research Tools<a href="http://dirt.projectbamboo.org/">http://dirt.projectbamboo.org/</a></li>
+</ul>
+<ul>
+<li>Center for History and New Media Tools <a href="http://chnm.gmu.edu/research-and-tools/">http://chnm.gmu.edu/research-and-tools/</a></li>
+</ul>
+<ul>
+<li>Cohen, Daniel and Roy Rosenzweig. 2005. <em>Digital History</em>: <em>A Guide to Gathering, Preserving and Presenting the Past on the Web. </em>University of Pennsylvania Press.  <a href="http://chnm.gmu.edu/digitalhistory/">http://chnm.gmu.edu/digitalhistory/</a></li>
+</ul>
+<ul>
+<li>DM Digital Annotation Tool <a href="http://dm.drew.edu/dmproject/">http://dm.drew.edu/dmproject/</a></li>
+</ul>
+<ul>
+<li>Tapas Project <a href="http://tapasproject.org/">http://tapasproject.org/</a></li>
+</ul>
+<ul>
+<li>Text Encoding Initiative <a href="http://www.tei-c.org/index.xml">http://www.tei-c.org/index.xml</a></li>
+</ul>
+<h2>Appendix 7: Additional literature on faculty evaluation of digital scholarship</h2>
+<p>Andersen, D. L. (ed.) <em>Digital Scholarship in the Tenure, Promotion and Review Process</em>. 2003. <a href="http://www.mesharpe.com/mall/resultsa.asp?Title=Digital+Scholarship+in+the+Tenure%2C+Promotion%2C+and+Review+Process">http://www.mesharpe.com/mall/resultsa.asp?Title=Digital+Scholarship+in+the+Tenure%2C+Promotion%2C+and+Review+Process</a></p>
+<p>"...examines the evolution of nontraditional scholarship, analyzes the various formats, and suggests                   guidelines for assessment on a scholarly level..." Part III Section 11.:  The Development of Criteria for the           Inclusion of Digital Publications in the Tenure Process: A Case Study of Washington State University    Libraries <em>Ryan Johnson</em>..."</p>
+<p>Clement, Tanya E. “Half Baked: The State of Evaluation in the Digital Humanities.” <em>American Literary History. </em>vol. 24, no. 4, October 2012, pp. 876–890. doi:10.1093/alh/ajs051. Review of:<em> </em></p>
+<p><em>The American Literature Scholar in the Digital Age</em>. 2011. Amy E. Earheart and Andy Jewell, eds. University of Michigan Press and University of Michigan Library.</p>
+<p>and</p>
+<p><em>Switching Codes: Thinking Through Digital Technology in the Humanities and the Arts</em>. 2011.Edited by Thomas Bartscherer and Roderick Coover, eds. University of Chicago Press.</p>
+<p>"... <em>The American Literature Scholar in the Digital Age</em> and <em>Switching Codes</em> are unique and valuable as collections whose historicizing illuminates current fissures in discussions about the ways that the academic community can evaluate digital scholarship in the humanities..."</p>
+<p>Cheverie, Joan F., Jennifer Boettcher and John Buschman. 2009. “Digital Scholarship in the University Tenure and Promotion Process: A Report on the Sixth Scholarly Communication Symposium at Georgetown University Library.” <em>Journal of Scholarly Publishing.</em> April 2009. doi: 10.3138/jsp.40.3.219.</p>
+<p>"... Four notable scholars who have done significant work in digital scholarly projects were invited to speak on the theme of ‘digital scholarship in the university tenure and promotion process’ at Georgetown    University Library to explore the scholarship and the continuing problems with evaluating it – particularly            for promotion and tenure..."</p>
+<p>Liu, Alan. December 2011. “The state of the digital humanities: A report and a critique.” <em>Arts and Humanities in Higher Education. </em>DOI: 10.1177/1474022211427364</p>
+<p>"... the scholarly field of the digital humanities has recently expanded and integrated its fundamental concepts, historical coverage, relationship to social experience, scale of projects, and range of interpretive approaches...[the field] has the potential not just to facilitate the work of the humanities but to represent the state of the humanities at large in its changing relation to higher education in the postindustrial state..."<br />
+MLA <em>Profession<strong>. </strong></em>2011.Evaluating Digital Scholarship (contains six articles, pp. 123-196, focused on the topic). <a href="http://www.mlajournals.org/toc/prof/2011/1">http://www.mlajournals.org/toc/prof/2011/1</a></p>
+<p>"There is a growing consensus that humanities disciplines must find ways not simply of evaluating but also        of valuing digital scholarship as part of hiring, promotion, and tenure decisions. National scholarly                 organizations such as the Modern Language Association and the American Council of Learned Societies              have called for departments and institutions to “recognize the legitimacy of scholarship produced in new  media, whether by individuals or in collaboration, and create procedures for evaluating these forms of scholarship” (Report of the MLA Task Force)."<br />
+Purdy, James P. and Joyce R. Walker. 2010. “Valuing Digital Scholarship: Exploring the Changing Realities of Intellectual Work.” <em>Profession.</em> 19. pp. 177-195. <a href="https://docs.google.com/viewer?url=http%3A%2F%2Fdmp.osu.edu%2Fdmac%2Freadings%2FPurdyWalker.pdf">https://docs.google.com/viewer?url=http%3A%2F%2Fdmp.osu.edu%2Fdmac%2Freadings%2FPurdyWalker.pdf</a></p>
+<p>"...many tenure guidelines . . . label research as either creative or scholarly,” counting only the scholarly.... This narrow binary is perhaps the most significant (and problematic) aspect of current attitudes regarding the value of digital scholarship... One way to evaluate scholarly production that avoids a simple print-digital binary opposition is to think ... more about what it produces, participates in, or does. To develop a more robust, complex evaluation framework, we might ask these questions:...Such an               approach to assessment would not look very much like the tenure-and-promotion activities now in place at most institutions."<br />
+Richardson, James. 2013. “Establishing a New Paradigm: the Call to Reform the Tenure and Promotion Standards for Digital Media Faculty.” <em>Journal of Interactive Technology and Pedagogy</em><strong>.</strong><em> Issue 3.<br />
+</em><a href="http://jitp.commons.gc.cuny.edu/establishing-a-new-paradigm-the-call-to-reform-the-tenure-and-promotion-standards-for-digital-media-faculty/">http://jitp.commons.gc.cuny.edu/establishing-a-new-paradigm-the-call-to-reform-the-tenure-and-promotion-standards-for-digital-media-faculty/</a></p>
+<p>"... in the case of new and evolving fields of study, there are alternative criteria that would be better suited for the digital disciplines, and would serve as a more accurate assessment on the quality of faculty scholarship as they march towards tenure, promotion and reappointment...."</p>
+<p>Schreibman, Susan and Ann M. Hanlon. 2010. “Determining Value for Digital Humanities Tools: A Report on a Survey of Tool Developers.” <em>Digital Humanities Quarterly.</em> Volume 4 Number 2. <a href="http://digitalhumanities.org:8080/dhq/vol/4/2/000083/000083.html">http://digitalhumanities.org:8080/dhq/vol/4/2/000083/000083.html</a></p>
+<p>"... the authors conducted an online survey of developers of digital humanities tools in March 2008. The survey focused on their perceptions of their work, how they felt their tool development fit into a structure of academic rewards, and the value of tool development as a scholarly pursuit. Survey results indicate that tool development is indeed considered a scholarly activity by developers, but recognition of this work and rewards for it lag behind rewards for traditional scholarly pursuits..."</p>
+<p>Zorich, Diane M. 2012. “Transitioning to a Digital World: Art History, Its Research Centers, and Digital Scholarship.” A Report to The Samuel H. Kress Foundation and The Roy Rosenzweig Center for History and New Media, George Mason University. http://<a href="http://www.academia.edu/2973600">www.academia.edu/2973600</a></p>
+<h2>Appendix 8: Selected faculty perspectives on evaluation of digital scholarship</h2>
+<p>Davidson, Cathy. 2009. “Respecting the Meaning of Tenure.”<br />
+<a href="http://www.hastac.org/node/2168">http://www.hastac.org/node/2168</a></p>
+<p>Davidson, Cathy. September 2012. “How Can a Digital Humanist Get Tenure?” <a href="http://www.hastac.org/blogs/cathy-davidson/2012/09/17/how-can-digital-humanist-get-tenure">http://www.hastac.org/blogs/cathy-davidson/2012/09/17/how-can-digital-humanist-get-tenure</a><br />
+Harley, Diane, et al. 2010. <em>Assessing the Future Landscape of Scholarly Communication: An Exploration of Faculty Values and Needs in Seven Disciplines. </em>Center for Studies in Higher Education. <a href="http://escholarship.org/uc/cshe_fsc">http://escholarship.org/uc/cshe_fsc</a></p>
+<p>Includes faculty responses from fields of archeology, astrophysics, biology, economics, history, music, and political science.</p>
+<p>Jaschik, Scott. 2009. “Tenure in the Digital Era.” <a href="http://www.insidehighered.com/news/2009/05/26/digital">http://www.insidehighered.com/news/2009/05/26/digital</a></p>
+<p>Kolowich, Steve. 2012. “The Promotion That Matters<em>.</em>”<br />
+<a href="http://www.insidehighered.com/news/2012/01/04/evaluating-digital-humanities-enthusiasm-may-outpace-best-practices">http://www.insidehighered.com/news/2012/01/04/evaluating-digital-humanities-enthusiasm-may-outpace-best-practices</a></p>
+<p>Koh, A. 2012. “The Challenges of Digital Scholarship: A Report on the MLA Preconference on Evaluating Digital Work for Promotion andTenure<em>.</em>”<a href="http://chronicle.com/blogs/profhacker/the-challenges-of-digital-scholarship/38103">http://chronicle.com/blogs/profhacker/the-challenges-of-digital-scholarship/38103</a></p>
+<p>Lee, Valerie and Cynthia L. Selfe. 2008. “Our Capacious Caper: Exposing Print-Culture Bias in Departmental Tenure Documents. <em>ADE Bulletin</em>, No 145. <a href="http://susandelagrange.com/cccc/Lee&amp;Selfe.pdf">http://susandelagrange.com/cccc/Lee&amp;Selfe.pdf</a></p>
+<p>Rhee, Jennifer. 2012. “More Ammo: Digital Scholarship and Activity in Tenure and Promotion<em>.</em>”<br />
+<a href="http://www.hastac.org/blogs/jrhee/2012/06/12/more-ammo-digital-scholarship-and-activity-tenure-and-promotion">http://www.hastac.org/blogs/jrhee/2012/06/12/more-ammo-digital-scholarship-and-activity-tenure-and-promotion</a></p>
+<p>Richardson, James.<em> “</em>Redefining the Standards of Tenure and Promotion for Multi-Media and Digital Arts Faculty. ”<a href="http://www.academia.edu/1684630/Redefining_the_Standards_of_Tenure_and_Promotion_For_Multimedia_and_Digital_Arts_Faculty">http://www.academia.edu/1684630/Redefining_the_Standards_of_Tenure_and_Promotion_For_Multimedia_and_Digital_Arts_Faculty</a></p>
+<p>Roy, Michael. 2013. “Is Linking Thinking? Addressing and Assessing Scholarship in the Digital Era.”<br />
+<a href="http://www.educause.edu/ero/article/linking-thinking-addressing-and-assessing-scholarship-digital-era">http://www.educause.edu/ero/article/linking-thinking-addressing-and-assessing-scholarship-digital-era</a></p>
+<p>Schnell, Eric. 2013. “Digital Scholarship and the Faculty Reward System.”<a href="http://library.osu.edu/blogs/digitalscholarship/2013/04/29/digital-scholarship-and-the-faculty-rewards-system/#more-405">http://library.osu.edu/blogs/digitalscholarship/2013/04/29/digital-scholarship-and-the-faculty-rewards-system/#more-405</a></p>
+<p>Schreibman, Susan, Laura Mandell, Stephen Olsen. 2011. “Evaluating Digital Scholarship: A Case Study in the Field of Literature.” <em>Digital Humanities</em>. <a href="http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-142.xml;query=;brand=default">http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-142.xml;query=;brand=default</a></p>
+<p>Starkman, Ruth. 2013. “What Counts?” <a href="http://www.insidehighered.com/advice/2013/02/20/essay-issues-related-what-digital-scholarship-counts-tenure-and-promotion">http://www.insidehighered.com/advice/2013/02/20/essay-issues-related-what-digital-scholarship-counts-tenure-and-promotion</a></p>
+<p>Takats, Sean. 2013. “A Digital Humanities Tenure Case, Part 2: Letters and Committees.”<br />
+<a href="http://quintessenceofham.org/2013/02/07/a-digital-humanities-tenure-case-part-2-letters-and-committees/">http://quintessenceofham.org/2013/02/07/a-digital-humanities-tenure-case-part-2-letters-and-committees/</a></p>
+<h2>Appendix 9: Literature on evaluation metrics in science</h2>
+<p>Boardman,  P. Craig and Branco L. Ponomariov. 2007. “Reward Systems and NSF University Research Centers: The Impact of Tenure on University Scientists’ Valuation of Applied and Commercially Relevant Research.” <em>The Journal of Higher Education.</em> 78(1).<br />
+<a href="http://archive.cspo.org/rvm/publications/pubs_docs/78%5b1%5d.1BoardmanPonomariov.pdf">http://archive.cspo.org/rvm/publications/pubs_docs/78[1].1BoardmanPonomariov.pdf</a></p>
+<p>Bollen, Johan, et al. 2009. “A principal component analysis of 39 scientific impact measures<em>.”</em><br />
+Abstract: <a href="http://arxiv.org/abs/0902.2183v1">http://arxiv.org/abs/0902.2183v1</a><br />
+Full text: <a href="http://arxiv.org/pdf/0902.2183v1.pdf">http://arxiv.org/pdf/0902.2183v1.pdf</a></p>
+<p>"...We performed a principal component analysis of the rankings produced by 39 existing and proposed measures of scholarly impact that were calculated on the basis of both citation and usage log data. Our results indicate that the notion of scientific impact is a multi-dimensional construct that cannot be adequately measured by any single indicator, although some measures are more suitable than others. The commonly used citation Impact Factor is not positioned at the core of this construct, but at its periphery, and should thus be used with caution..."</p>
+<p>Cacioppo, John, T. 2013. <em>Metrics of Science.</em> Association for Psychological Science.<br />
+<a href="http://www.psychologicalscience.org/index.php/publications/observer/2008/january-08/metrics-of-science.html">http://www.psychologicalscience.org/index.php/publications/observer/2008/january-08/metrics-of-science.html</a></p>
+<p>Howard, Jennifer. 2013. “Rise of 'Altmetrics' Revives Questions About How to Measure Impact of Research.” <em>Chronicle of Higher Education</em>. <a href="http://chronicle.com/article/Rise-of-Altmetrics-Revives/139557/">http://chronicle.com/article/Rise-of-Altmetrics-Revives/139557/</a></p>
+<p>Lozano, G.A., Lariviè, V., &amp; Gingras, Y. 2012. “The weakening relationship between the Impact Factor and papers’ citations in the digital age.” <em>Journal of the American Society for Information Sciences and Technology</em>. 63(11): 2140-2145. doi: 10.1002/asi.22731</p>
+<p>NSF Workshop on “Scholarly Evaluation Metrics: Opportunities and Challenges.” 2009. <a href="http://informatics.indiana.edu/scholmet09/announcement.html">http://informatics.indiana.edu/scholmet09/announcement.html</a></p>
+<p>"... we have seen a rapid expansion of proposed metrics to evaluate scientific impact. This expansion has been driven by interdisciplinary work in web, network and social network science, e.g. citation PageRank, h-index, and various other social network metrics. Second, new data sets such as usage and query data, which represent aspects of scholarly dynamics other than citation, have been investigated as the basis for novel metrics. The COUNTER and MESUR projects are examples in this realm. And, third, an interest in applying Web reputation concepts in the realm of scholarly evaluation has emerged and is generally referred to a Webometrics...."</p>
+<p>Piwowar, H. 2013. “Altmetrics: Value all research products.” <em>Nature</em>. 493(159). doi:10.1038/493159a.</p>
+<p><strong> </strong>“Science Metrics.” 2010. <em>Nature</em>. <a href="http://www.nature.com/news/specials/metrics/index.html">http://www.nature.com/news/specials/metrics/index.html</a></p>
+<h2>Appendix 10:  Additional articles related to digital scholarship and faculty evaluation</h2>
+<p>Arbaugh, J. Ben. 2009. “Digital Scholarship in the Tenure, Promotion, and Review Process.” Academy of Management Learning and Education. 8:3 460-462.</p>
+<p>Borgman, Christine L. 2008. "Supporting the ‘Scholarship’ in E-Scholarship." <em>Educause Review</em> 43, no. 6: 32-33. <a href="http://www.educause.edu/ero/article/supporting-%E2%80%9Cscholarship%E2%80%9D-e-scholarship">http://www.educause.edu/ero/article/supporting-%E2%80%9Cscholarship%E2%80%9D-e-scholarship</a></p>
+<p>Buller, Jeffrey L. 2007. "Improving Documentation for Promotion and Tenure." <em>Academic Leader</em> 23, no. 11: 7-8.</p>
+<p>Collins, Ellen; Monica E. Bulger and Eric T. Meyer. 2011. “Discipline matters: Technology use in the humanities.” <em>Arts and Humanities in Higher Education </em>2012 11: 76.    DOI: 10.1177/1474022211427421</p>
+<p>Burgess, Helen J. and Jeanne Hamming. 2011. “New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia.” <em>Digital Humanities Quarterly.</em> 5(3).<br />
+<a href="http://digitalhumanities.org:8080/dhq/vol/5/3/000102/000102.html">http://digitalhumanities.org:8080/dhq/vol/5/3/000102/000102.html</a></p>
+<p>Cross, Jeanne G. 2008. "Reviewing Digital Scholarship: The Need for Discipline-Based Peer Review." <em>Journal Of Web Librarianship</em> 2, no. 4: 549-566.  doi: 10.1080/19322900802473936</p>
+<p>Delagrange, Susan H. 2009. "When Revision Is Redesign: Key Questions for Digital Scholarship." <em>Kairos: A Journal Of Rhetoric, Technology, And Pedagogy</em> 14, no. 1</p>
+<p>Diamond, Robert M. and Bronwyn E. Adam. 2004. “Balancing Institutional, Disciplinary and Faculty Priorities with Public and Social Needs: Defining scholarship for the 21st century.” <em>Arts &amp; Humanities in Higher Education</em>. vol 3(1) 29–40 doi: 10.1177/147402204039643</p>
+<p>Filetti, Jean S. 2009. "Assessing service in faculty reviews: mentoring faculty and developing transparency." <em>Mentoring &amp; Tutoring: Partnership In Learning</em> 17, no. 4: 343-352.</p>
+<p>Hardré, Patricia, and Michelle Cox. 2009. "Evaluating faculty work: expectations and standards of faculty performance in research universities." <em>Research Papers in Education </em>24, no. 4: 383-419.</p>
+<p>Howard, Jennifer. 2010. “Hot Type: No Reviews of Digital Scholarship = No Respect.”<br />
+<a href="http://chronicle.com/article/Hot-Type-No-Reviews-of/65644/">http://chronicle.com/article/Hot-Type-No-Reviews-of/65644/</a></p>
+<p>Howard, Jennifer. 2008. "A New Field Study Identifies Eight Major Types of Digital Scholarship." <em>Chronicle Of Higher Education</em> 55, no. 13: A11.</p>
+<p>NEH Grantees Experiment with New Kinds of Peer Review. 2010.  <a href="http://www.neh.gov/divisions/odh/featured-project/neh-grantees-experiment-new-kinds-peer-review">http://www.neh.gov/divisions/odh/featured-project/neh-grantees-experiment-new-kinds-peer-review</a></p>
+<p><em> </em>O'Meara, Kerry Ann. 2005. "Encouraging multiple forms of scholarship in faculty reward systems: Does It Make a Difference?" <em>Research in Higher Education</em> 46, no. 5: 479-510.</p>
+<p>"This article presents findings from a national study of Chief Academic Officers of 4-year institutions on the impact of policy efforts to encourage multiple forms of scholarship in faculty roles and rewards....CAOs at campuses that initiated reforms reported a greater congruence between faculty priorities and institutional mission, and greater improvement in attention to undergraduate learning over the last decade."</p>
+<p><em>Peer Review in Academic Promotion and Publishing: Its Meaning, Locus, and Future.</em> 2011. Center for Studies in Higher Education.<br />
+Abstract: <a href="http://cshe.berkeley.edu/publications/publications.php?id=379">http://cshe.berkeley.edu/publications/publications.php?id=379</a><br />
+Full text: <a href="http://escholarship.org/uc/item/1xv148c8#page-1">http://escholarship.org/uc/item/1xv148c8#page-1</a></p>
+<p>"... This report includes (1) an overview of the state of peer review in the Academy at large, (2) a set of              recommendations for moving forward, (3) a proposed research agenda to examine in depth the effects of      academic status-seeking on the entire academic enterprise... The document explores, in particular, the              tightly intertwined phenomena of peer review in publication and academic promotion, the values and    associated costs to the Academy of the current system, experimental forms of peer review in various                  disciplinary areas, the effects of scholarly practices on the publishing system..."</p>
+<p>Raben, Joseph. 2007. “Tenure, Promotion and Digital Publication.” <em>Digital Humanities Quarterly</em>. Volume 1, Number 1.  <a href="http://www.digitalhumanities.org/dhq/vol/001/1/000006/000006.html">http://www.digitalhumanities.org/dhq/vol/001/1/000006/000006.html</a></p>
+<p>Zorich, D.M. 2008. <em>A Survey of Digital Humanities Centers in the United States. </em><a href="https://docs.google.com/viewer?url=http%3A%2F%2Fwww.clir.org%2Fpubs%2Freports%2Fpub143%2Fpub143.pdf">https://docs.google.com/viewer?url=http%3A%2F%2Fwww.clir.org%2Fpubs%2Freports%2Fpub143%2Fpub143.pdf</a> Washington D.C.: Council on Library and Information Resources.</p>
+<p>Discusses criteria for project selection by digital humanities centers (see Section 4.4.3) as well as means for measure project success (see: Section 4.4.4).</p>
+<h2>Appendix 11: Additional literature on digital scholarship</h2>
+<p><em>The Credibility of Electronic Publishing: A Report to the Humanities and Social Sciences.</em> Federation of Canada. 2001. Raymond Siemens, Project Coordinator.</p>
+<p>Executive Summary: <a href="http://web.viu.ca/hssfc/Final/Summary.htm">http://web.viu.ca/hssfc/Final/Summary.htm</a><br />
+Full text:<a href="http://web.viu.ca/hssfc/Final/Credibility.htm">http://web.viu.ca/hssfc/Final/Credibility.htm</a></p>
+<p>Fitzpatrick, Kathleen. 2011. <em>Planned Obsolescence. </em><a href="http://simon.ups.edu/record=b1807771~S0">http://simon.ups.edu/record=b1807771~S0</a></p>
+<p>Fitzpatrick, Kathleen. 2011. "The Humanities, Done Digitally." <em>Chronicle of Higher Education</em> 57, no. 36: B26.</p>
+<p>Heap, Tania, and Shailey Minocha. 2012. "An Empirically Grounded Framework to Guide Blogging for Digital Scholarship." <em>Research in Learning Technology</em> 20, 176-188.</p>
+<p>Kuhn, Virginia. 2013. "Embrace and Ambivalence." <em>Academe</em> 99, no. 1: 8-13.</p>
+<p>Littlejohn, A., H. Beetham, and L. McGill. 2012. "Learning at the digital frontier: a review of digital literacies in theory and practice." <em>Journal of Computer Assisted Learning</em> 28, no. 6: 547-556.</p>
+<p>Losoff, Barbara, and Harry E. Pence. 2010. "Digital Scholarship and Open Access." <em>Journal of Educational Technology Systems</em> 38, no. 2: 95-101.</p>
+<p>Magnan, Sally Sieloff. 2007. "Commentary: The Promise of Digital Scholarship in SLA Research and Language Pedagogy." <em>Language Learning &amp; Technology</em> 11, no. 3: 152-155.</p>
+<p>Maron, Nancy L. and K. Kirby Smith. 2008. <em>Current Models of Digital Scholarly Communication: Results of an Investigation Conducted by Ithaka for the Association of Research Libraries.</em> Washington D.C.: Association of Research Libraries.</p>
+<p>Pannacker, William. 2013. "Stop Calling It 'Digital Humanities'." <em>Chronicle Of Higher Education</em> 59, no. 24: A21-A22.</p>
+<p>Pannapacker, William. 2012. "No DH, No Interview." <em>Chronicle of Higher Education.</em> Vol. 58, Issue 42: A25-A26.</p>
+<p>Pannapacker, William. 2011. "Big-Tent Digital Humanities: a View From the Edge, Part 2." <em>Chronicle Of Higher Education</em> 58, no. 5: A32.</p>
+<p>Prescott, Andrew. 2011. “Consumers, creators or commentators?: Problems of audience and mission in the digital humanities.” <em>Arts and Humanities in Higher Education.</em>2012 11: 61. DOI: 10.1177/1474022211428215.</p>
+<p>Scanlon, Eileen. 2012. "Digital Futures: Changes in Scholarship, Open Educational Resources and the Inevitability of Interdisciplinarity." <em>Arts and Humanities In Higher Education: An International Journal Of Theory, Research And Practice</em> 11, no. 1-2: 177-184.</p>
+<p>Seaman, John T., and Margaret B. W. Graham. 2012. "Sustainability and the Scholarly Enterprise." <em>Journal of Scholarly Publishing</em> 43, no. 3: 257-293.</p>
+<p>Svensson, Patrik. 2012. “The digital humanities as a humanities project.” <em>Arts and Humanities in Higher Education </em>2012 11: 42 originally published online 1 December 2011. DOI: 10.1177/1474022211427367.</p>
+<p>Veletsianos, G. 2012. "Higher education scholars' participation and practices on Twitter." <em>Journal of Computer Assisted Learning</em> 28, no. 4: 336-349.</p>
+<p>Veletsianos, George, and Royce Kimmons. 2012. "Networked Participatory Scholarship: Emergent techno-cultural pressures toward open and digital scholarship in online networks." <em>Computers &amp; Education</em> 58, no. 2: 766-774.</p>
+<p><em>“Working Together or Apart: Promoting the Next Generation of Digital Scholarship. CLIR Publication No.145</em>." 2009. Washington, DC. Council on Library and Information Resources, and Washington, DC. National Endowment for the Humanities. <a href="https://docs.google.com/viewer?url=http%3A%2F%2Fwww.clir.org%2Fpubs%2Freports%2Fpub145%2Fpub145.pdf">https://docs.google.com/viewer?url=http%3A%2F%2Fwww.clir.org%2Fpubs%2Freports%2Fpub145%2Fpub145.pdf</a></p>
+<p>[1] For example, some know well the impact of Ernest Boyer’s 1990 <em>Scholarship Reconsidered: Priorities of the Professoriate</em>, andthe ways in which his definitions of the scholarship ofdiscovery, integration, application, and teaching have been debated and integrated into evaluation guidelines across the academy. For a concise summary, see <a href="http://en.wikipedia.org/wiki/Ernest_L._Boyer">http://en.wikipedia.org/wiki/Ernest_L._Boyer</a>.</p>
+<p>[2] See, for example, the Clearinghouse and National Review Board for the Scholarship of Engagement at <a href="http://schoe.coe.uga.edu/evaluation/evaluation_criteria.html">http://schoe.coe.uga.edu/evaluation/evaluation_criteria.html</a>.</p>
+<p>[3] I served as Director of Forensics, leading and coaching the college’s intercollegiate speech and debate program. We wrote and used departmental guidelines based on resources for forensics educators provided by the American Forensic Association; contact the author for a copy of current guidelines.</p>
+<p>[4] The department was then a combined Communication and Theatre Arts program. For an example of evaluation guidelines for the distinct types of teaching, research, and service involved in multiple positions in theatre, see Association of Theatre in Higher Education materials <a href="http://www.athe.org/?page=tp_guide&amp;terms=%22evaluation+and+guidelines%22">http://www.athe.org/?page=tp_guide&amp;terms=%22evaluation+and+guidelines%22</a>.</p>
+<p>[5] Michael Jensen, “The New Metrics of Scholarly Authority,” <em>The Chronicle Review – The Chronicle of Higher Education, </em>June 15, 2007.</p>
+<p>[6] William G. Thomas III, “The Promise of Digital Humanities and the Future of the Liberal Arts,” <a href="http://railroads.unl.edu/blog/?p=1094">http://railroads.unl.edu/blog/?p=1094</a>, posted October 26, 2013.</p>
+<p>[7] <a href="http://en.wikipedia.org/wiki/Digital_scholarship">http://en.wikipedia.org/wiki/Digital_scholarship</a>.</p>
+<p>[8] <a href="http://en.wikipedia.org/wiki/The_Digital_Humanities">http://en.wikipedia.org/wiki/The_Digital_Humanities</a>.</p>
+<p>[9] See for example: John T. Cacioppo, “Metrics of Science,” Association for Psychological Science, 2013, <a href="http://www.psychologicalscience.org/index.php/publications/observer/2008/january-08/metrics-of-science.html">http://www.psychologicalscience.org/index.php/publications/observer/2008/january-08/metrics-of-science.html</a>; a 2009 National Science Foundation workshop on scholarly evaluation metrics, <a href="http://informatics.indiana.edu/scholmet09/announcement.html">http://informatics.indiana.edu/scholmet09/announcement.html</a>; and a 2010 special issue of the journal <em>Nature</em>, <a href="http://www.nature.com/news/specials/metrics/index.html">http://www.nature.com/news/specials/metrics/index.html</a>.</p>
+<p>[10] See, for example, Alison Byerly, “Everything Old is New Again: The Digital Past and the Humanistic Future,” Modern Language Association Conference, January 2012, and William Pannapacker, “Stop Calling It ‘Digital Humanities’,” <em>Chronicle of Higher Education</em> 59, no. 24: A21-22.</p>
+<p>[11] Mark Sample, “Digital Humanities at MLA 2014,” at <a href="http://www.samplereality.com/2013/09/19/digital-humanities-at-MLA-2014/">http://www.samplereality.com/2013/09/19/digital-humanities-at-MLA-2014/</a>.</p>
+<p>[12] THATCamp (The Humanities And Technology Camp) is a user-generated <a href="http://en.wikipedia.org/wiki/Unconference">unconference</a> for technologists and <a href="http://en.wikipedia.org/wiki/Humanities">humanities</a> professionals, including university and college faculty, librarians and archivists, and museum staff; see <a href="http://en.wikipedia.org/wiki/THATCamp">http://en.wikipedia.org/wiki/THATCamp</a> or <a href="http://www.thatcamp.org">www.thatcamp.org</a>.</p>
+<p>[13] The author recognizes that faculty evaluation guidelines may not be visible beyond a campus intranet, so both welcomes correction of this data and need for additional survey work.</p>
+<p>[14] Sheila Cavanaugh, “Living in a Digital World: Rethinking Peer Review, Collaboration, and Open Access,” <em>Journal of Digital Humanities</em>, Vol 1, No. 4, Fall 2012), <a href="http://www.journalofdigitalhumanities.org">www.journalofdigitalhumanities.org</a>.</p>
+<p>[15] Eric Schnell, “Digital Scholarship and the Faculty Rewards System,” <a href="http://www.library.osu.edu">www.library.osu.edu</a>, April 29, 2013.</p>
+<p>[16] Two additional sets of campus guidelines from a decade prior are:  TLT Group. Sample guidelines: Duquesne University. 1996. <a href="http://www.tltgroup.org/resources/rduqten.html">http://www.tltgroup.org/resources/rduqten.html</a></p>
+<p>and University of Virginia. Evaluating Digital Scholarship, Promotion &amp; Tenure Cases. 2001. <a href="http://artsandsciences.virginia.edu/dean/facultyemployment/evaluating_digital_scholarship.html">http://artsandsciences.virginia.edu/dean/facultyemployment/evaluating_digital_scholarship.html</a></p>
+<p>[17] For a paper by University of Maine faculty members that “argues for redefining evaluation criteria for faculty working in new media research and makes specific recommendations for promotion and tenure committees in U.S. universities,” see: Ippolito, J., et al. 2009, “New Criteria for New Media” <em>Leonardo</em>, Vol. 42, No. 1, pp.71-75. <a href="http://www.mitpressjournals.org/doi/pdf/10.1162/leon.2009.42.1.71">http://www.mitpressjournals.org/doi/pdf/10.1162/leon.2009.42.1.71</a></p>
+<p>[18] “Closing the Evaluation Gap,” <em>Journal of Digital Humanities,</em>Vol. 1, No. 4, Fall 2012. <a href="http://journalofdigitalhumanities.org/1-4/">http://journalofdigitalhumanities.org/1-4/</a></p>
+<p>[19] See <a href="http://ceball.com/research/tenure-letter/">http://ceball.com/research/tenure-letter/</a></p>
+<p>[20] See <a href="http://journalofdigitalhumanities.org/1-4/explaining-digital-humanities-in-promotion-documents-by-katherine-harris/">http://journalofdigitalhumanities.org/1-4/explaining-digital-humanities-in-promotion-documents-by-katherine-harris/</a></p>
+<p>[21] Sydni Dunn, “Digital Humanists: If You Want Tenure, Do Double the Work,” <em>Chronicle of Higher Education</em>, 2014 January 6. <a href="https://chroniclevitae.com/news/249-digital-humanists-if-you-want-tenure-do-double-the-work/">https://chroniclevitae.com/news/249-digital-humanists-if-you-want-tenure-do-double-the-work/</a></p>
+<p>[22] Ayers, Edward L. “Does Digital Scholarship Have a Future?” <em>Educause Review. </em>July/August 2013<em>, </em>pp. 24-34. <a href="http://www.educause.edu/ero/article/does-digital-scholarship-have-future">http://www.educause.edu/ero/article/does-digital-scholarship-have-future</a></p>
+<p>[23] Several of the guidelines reference MLA as an important influence.</p>
+<p>[24]Written by the author based on other addenda in use in campus evaluations; a model for digital scholarship has not been used or adopted yet at Puget Sound.</p>
+<p>&nbsp;</p>

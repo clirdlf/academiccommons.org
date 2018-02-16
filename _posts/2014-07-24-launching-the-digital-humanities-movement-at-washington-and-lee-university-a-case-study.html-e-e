@@ -1,0 +1,226 @@
+---
+layout: post
+title: 'Launching the Digital Humanities Movement at Washington and Lee University:  A
+  Case Study'
+date: 2014-07-24 16:01:06.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blended Learning
+- 'Digital Collaboration and Blended/Hybrid Learning: 2014 Special Issue'
+- Digital Scholarship
+tags:
+- collaboration
+- digital humanities
+- information technologies
+- Jeff Barry
+- Julie Knudson
+- library
+- Paul Youngman
+- Sara Sprenkle
+- Special Issue
+- Washington and Lee University
+meta:
+  _edit_last: '22601'
+  accelerate_page_layout: default_layout
+author:
+  login: 8164ba8413978d82461815a292be2e0c
+  email: dklemonski@middlebury.edu
+  display_name: Daniel Klemonski
+  first_name: Daniel
+  last_name: Klemonski
+---
+<p><img class="alignright wp-image-199 size-medium" src="{{ site.baseurl }}/assets/images/Barry-Knudson-Youngman-Sprenkle-300x200.jpg" alt="Barry, Knudson, Youngman, Sprenkle" width="300" height="200" />By Jeff Barry, Associate Professor and Associate University Librarian, Julie Knudson, Director of Academic Technologies, Sara Sprenkle, Associate Professor of Computer Science, Paul Youngman, Associate Professor of German</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Abstract: </strong>This paper offers a case history of the development of digital humanities (DH) at Washington and Lee University. We will focus on how we informally and then formally implemented DH, especially the meshing of the various partner constituencies, the design of our program as it has evolved over time, and the technological environment within which we are supporting DH. We will conclude with an analysis and evaluation of our work in progress and detail our short term and long term future.</p>
+<p><strong>Keywords: </strong>digital humanities, collaboration, information technologies, library</p>
+<p><strong>Introduction</strong></p>
+<p>We faced a challenge at Washington and Lee University (W&amp;L) in the summer of 2012: how does one start a movement – in this case, a<a href="http://digitalhumanities.wlu.edu">movement in the digital humanities</a> (DH). The state of DH on campus at that time is best expressed by Suzanne Keen (then interim dean of the college, now dean):</p>
+<p style="padding-left: 60px">Everybody was working independently, and didn’t really even know about one another’s projects. I felt that if you said “Digital Humanities,” that relatively few W&amp;L faculty would have any idea what that even meant (Suzanne Keen, e-mail message to author, March 11, 2014).</p>
+<p>Her vision for the end state of a DH program on campus is compelling. She foresees DH permeating the curriculum widely and gaining broad acceptance among faculty, staff, and students. Moreover, she foresees liberal arts graduates who are information fluent, able to work with digital artifacts, and for whom working with large data sets is a matter of course. The difficulty we face is building a bridge from the current state of DH as Dean Keen describes it to her exciting vision.</p>
+<p><!--more--></p>
+<p>The primary challenge for digital humanities at a small liberal arts college is in adapting research-oriented digital practices as teaching strategies that enhance critical thinking among undergraduates. As one can see from the dean’s vision, DH at W&amp;L had to be about pedagogy given our focus on student learning. The difficulty with this focus is that pedagogy is not normally part of the digital humanities conversation. In its more common essence, DH is about a “product, a scholarly ‘output’ shared with the world” (Alexander and Davis 2012, 384). We needed to adapt this production emphasis on the “triumphantly finished digital product” to suit our undergraduate teaching purposes (Alexander and Davis 2012, 384). For example, where pedagogy is even discussed in DH, the emphasis is generally on teaching DH theory and research practices as opposed to using DH techniques in the undergraduate classroom. As Alexander and Davis so aptly put it, we needed to focus on “the skills of collaboration across disciplines and institutions, working with primary sources and archives, strategically selecting technologies [and tools] under financial constraints, and working within networks and connecting with local communities” (Alexander and Davis 2012, 384). The reason for this is simple: The DH moment is here. In fact, it arrived many years ago along with the so-called digital turn – the movement away from print to digitized and born-digital materials for academic research and publication. We no longer live in an age where information primarily conserves itself in the printed objects we call books and journals. DH, as Burdick points out, “is less a unified field than an array of convergent practices that explore a universe in which print is no longer the primary medium in which knowledge is produced and disseminated” (Burdick et al. 2012, 122). We at liberal arts campuses have been searching for our connection to the DH moment and its associated practices. Given our mission as a largely pedagogical institution, our connection resides primarily in the classroom and secondarily in our research programs.</p>
+<p style="padding-left: 60px"><strong>Our aim is that DH can work and even thrive on a liberal arts campus as a complement to our already strong pedagogical tradition.</strong></p>
+<p>DH is truly a critical component in modernizing approaches to humanities and social science teaching and research at W&amp;L and in the broader academy. Moreover, DH is a necessary aspect in our efforts to prepare liberal arts graduates for the modern workplace where text is no longer the dominant medium. As the College’s mission statement emphasizes, we seek to advance teaching, curriculum, and campus culture to meet the educational needs and aspirations of our students in a rapidly changing world, and DH is one way to satisfy this goal.</p>
+<p>In this case study, we describe our process in starting a DH movement at W&amp;L, focusing on “buy-in” from broad constituencies, on pedagogy as the driving force in our efforts, and on the support and infrastructure required to grow and sustain these efforts.</p>
+<p><strong>Informal and Formal Implementation</strong></p>
+<p>It is important to note that when it comes to the launching of DH on our campus there were two distinct phases – the informal and the formal. There were officially no partners in the informal phase: everyone met as equals and collaborators. Dean Suzanne Keen suggested a series of casual meetings off-campus in a happy hour setting focused on developing DH at W&amp;L. The diverse attendees included faculty from several academic departments who were working in isolation. Equally important, attendees were also from the University Library and from Information Technology Services (ITS).</p>
+<p>As Dean Keen puts it, she used a “bring-a-friend” approach in convening the first informal discussions. This method yielded key leaders as well as grassroots faculty supporters. In addition to having the dean present, it was essential to have the involvement of the chief technology officer and the university librarian. This support provided a solid foundation to both our informal and formal implementation stages. Other attendees included the director of the campus multimedia center, the director of academic technologies, and the senior academic technologist. In addition, key faculty support came from several members of the History Department, one from the Department of German and Russian, a classicist, and a computer scientist. After we hired a digital scholarship librarian, she immediately joined the group.</p>
+<p>Critical to our efforts was the dean’s vision to include a robust interdisciplinary and interdepartmental team. In her words, “It seemed clear to me from the outset that if anything were going to happen around DH at W&amp;L, it would only work if people wanted to collaborate with one another” (Suzanne Keen, e-mail message to author, March 11, 2014). This mixture of teaching faculty, library faculty, and ITS professionals has been and remains the strength of the entire enterprise inasmuch as it reflects the cross-disciplinary perspective and teamwork that is the heart of DH. Even though our experiment is still a work in progress, we can declare the mixture of partners a resounding success. All are dedicated to making DH thrive and all feel like important stakeholders in the process.</p>
+<p>Our desire at Washington and Lee is to put processes and practices into place that will allow our liberal arts institution to reemerge in a form that will produce graduates with the skills to compete in the modern workplace. In terms of process, we established a framework consisting of two committees. (See Table 1 for committee structure.) First, Dean Keen made the informal movement official by appointing the Digital Humanities Working Group (DHWG) as an ad hoc committee within the college with Paul Youngman from the Department of German and Russian Studies as chair and Sara Sprenkle from Computer Science as associate chair. The DHWG is primarily designed to encourage awareness of DH at W&amp;L. In terms of practices, this group assists developing scholarly and pedagogical projects, promoting collaboration as well as experimentation, and publicizing results of faculty and student work. It sets priorities and chooses recipients of incentive funding provided by the Office of the Dean of the College. The DHWG discusses and proposes curricular initiatives including the development of an introduction to DH course taught in spring 2014 by the co-chairs of the working group. By keeping the conversation about DH open, this group lays the groundwork for future teaching, research, and scholarship, including collaboration with other institutions. Many of the attendees from the informal meetings were given official appointments. Also, in extending our model of collaboration, we have the dean, CTO, and university librarian serving as <em>ex officio</em> members providing guidance and support as needed.</p>
+<p>The other committee that completes our framework is the Digital Humanities Action Team (DHAT): a resource for partnering with humanities and social science faculty in exploring digital approaches to teaching, learning, and scholarship. Guided by the DHWG, the DHAT is a joint initiative of ITS and the University Library and is staffed exclusively by these two units. While the primary focus is on the humanities and social sciences, the DHAT seeks to foster interdisciplinary collaborations across campus. Their core practices include evaluating digital methodologies and tools; collaborating with faculty and students on incorporating digital humanities into undergraduate courses; building expertise about digital humanities across the university; and assessing the effectiveness of these initiatives. The associate university librarian and the senior academic technologist chair the DHAT committee. (See Table 1 for committee structure.) While no single position at W&amp;L is devoted full-time to DH, the composite of expertise on the DHAT creates a sizable staffing infrastructure for supporting DH: the ten-member group would be an impressive number of hands-on professionals involved in DH even for a large research university.</p>
+<p><strong>Encouraging Faculty Participation</strong></p>
+<p>An often-repeated phrase on campus is “As we’ve defined DH here,” as a way of indicating the importance of undergraduate classroom learning in any discussion of DH. As Dean Keen explains, “We wanted our students to acquire skills associated with DH and experience new ways of thinking about research projects and course content” (Suzanne Keen, e-mail message to author, March 11, 2014). While the DHWG and the DHAT provide an institutional structure, additional mechanisms such as workshops and incentive grants are necessary to engage faculty with tools and practices.</p>
+<p>The DHWG scheduled a DH kickoff at the end of summer 2013 as part of the annual Fall Academy sessions. Beginning before the start of classes, Fall Academy is open to all faculty and staff and consists of two weeks of workshops, panel discussions, and information sessions on pedagogy, technology, and other topics, as well as orientation sessions for new employees. One day of Fall Academy 2013 was devoted to Digital Humanities topics and guest speaker Bethany Nowviskie, director of digital research and scholarship at the University of Virginia Library.</p>
+<p>During our Day of DH, Dean Keen issued a call to W&amp;L faculty to submit proposals for the first round of Digital Humanities Pedagogy Incentive grants. The grant included a $1,000 stipend and close support from the DHAT on using DH as a way of augmenting the teaching/learning experience. The DHWG awarded incentive grants funded by the dean of the college to four courses: Representing Queen Elizabeth (English); Hotel Orient (English); Campus Sex in the Digital Age (Anthropology); and Field Work in Poverty Studies (Poverty Studies).</p>
+<p>Faculty receiving incentive grants took various paths to incorporate DH into their courses. Representing Queen Elizabeth is a project-based course that examines the ways that the first Queen Elizabeth has been portrayed in literature and film. Students research, collect, and write commentaries on their findings via an online system. The result is an interactive timeline depicting the representations of Elizabeth over several centuries. Hotel Orient requires students to work in small groups to prepare an interactive website, centered on the concepts of “hotel” and “orient,” that engages with texts, films, and images. This project uses WordPress, SketchUp, and in-house mapping software. Campus Sex is a class created especially as a DH initiative that explores the impact of cell phone use on hooking up and dating in college. The project uses WordPress and Voyant Tools. Field Work in Poverty Studies utilizes digital mapping to illustrate local area low-income services, unaddressed needs, and possible solutions. Further descriptions of these projects are found at W&amp;L’s <a href="http://digitalhumanities.wlu.edu/">Generally Digital</a> website.</p>
+<p>We followed up the incentive grants with a Winter Academy 2013 daylong session devoted entirely to DH. The sessions included guest speakers Rebecca Frost Davis of St. Edward’s University and formerly of NITLE, and Valerie Barr of the NSF and Union College, as well as presentations on various tools. During the Winter 2014 semester, a series of well-attended lunch-time workshops provided an overview of Voyant Tools, our in-house mapping and timeline software, use of GIS in the liberal arts (taught by two GIS specialists from the Scholars’ Lab at the University of Virginia Library), and extracting text from images and PDFs via OCR. A simple tip for increasing workshop attendance is to provide food.</p>
+<p><strong>Key Technologies Used in DH at W&amp;L</strong></p>
+<p>In 2013 the DHAT investigated a range of tools suitable for use within undergraduate courses. The goals were to research the tools, learn to use the tools, then demonstrate uses to other DHAT members and prepare documentation, if necessary. The tools then were introduced to faculty who received DH incentive grants. Later, these tools were demonstrated to a broader faculty audience.</p>
+<p>The tool set initially identified for exploration included WordPress (and various plugins), Omeka (including Neatline), and a range of tools for text mining: Voyant, Google Ngrams, Python-based language analysis tools, and mapping and visualization tools similar to those provided by SHIVA at the University of Virginia (shiva.virginia.edu).</p>
+<p>The WordPress platform has become an important foundation underlying our efforts in DH. In a twist on the usual library/IT arrangement, the library maintains the backend of the WordPress system while ITS supports faculty and student use. Implemented in the winter of 2012 and piloted by several journalism courses in the spring of 2012, WordPress has rapidly gained popularity as a blogging and website platform on campus. Currently the service hosts over 90 sites and has over 570 users. Approximately sixteen sites are in use for Winter 2014 or in development for Spring 2014. WordPress is the platform of choice for course websites outside of the University’s Sakai learning management system. A key to its popularity is that WordPress provides an easily modifiable environment that avoids the necessity of creating one-off websites requiring custom programming. By contrast, an examination of Omeka found it unsuitable for our purposes at W&amp;L even though Omeka enjoys popularity at other institutions. While Omeka offers a clean interface and a well-structured way of managing data, the DHAT found difficulty in adapting it for undergraduate courses. We decided not to support Omeka until the multisite version of Omeka is released, which is scheduled for late 2014.</p>
+<p>Even before the formal founding of the DHWG and the DHAT in the fall of 2013, the Academic Technologies staff already had received several requests for a mapping application. Plain Google maps were not robust enough without additional coding (e.g., to allow multiple filtering) and also required careful coordination of various data from each participant’s Google account. Customized WordPress themes, which worked fairly well, lacked versatility and required too much ITS intervention to support. ITS decided to build an in-house mapping application. Working with interested faculty and Academic Technologies staff, the ITS senior technology architect, Jeff Knudson, created Mapplication based on an existing in-house web form builder in conjunction with the Google Maps API. Faculty can specify what information they want students to submit by creating an online survey form. Students then fill out a web form and submit the information to a central database that then is visualized on a Google Map. The location-based data uploaded to the map can include text, images, video, hyperlinks, and audio files. The map display supports features such as filtering, overlays, distance calculation, multiple input feeds, and data export. Students and faculty also can utilize the map as an iframe for embedding in another website or a WordPress blog. The Mapplication software was piloted in Fall 2013 with two professors – one in English and one in Classics – who found the tool useful. In Winter 2014, six professors as well as several departments and programs on campus used Mapplication.</p>
+<p>A companion to Mapplication is Timeline, an in-house application that uses the SIMILE Timeline code library (http://simile-widgets.org/timeline/). Features include multiple time scale bands, ability to use multiple data sources, magnification zones for expanding sections of the timeline, decorators to highlight portions of the timeline, stored views for jumping to specific points on the timeline, data source filters, event keyword search, and event legend. The data entry architecture for Timeline is the same as Mapplication’s via an existing in-house web form builder and supports customizable input fields. One professor has piloted Timeline in a Winter 2014 course and collaborated with Academic Technologies staff to help inform the decisions made about Timeline features. Future enhancements include a combined Mapplication and Timeline view in which a scrollable Timeline will act as a date filter for points on the map. An example of the Timeline tool in use is the <a href="http://managementtools3.wlu.edu/MapsAndTimelines/Timeline.aspx?TimelineID=20">timeline of the Digital Humanities movement at W&amp;L</a>.</p>
+<p>Text analysis is often found in DH projects, but many of the mining tools don’t lend themselves very well to an undergraduate environment. Voyant Tools (voyant-tools.org) is an online set of textual analysis tools that can perform various types of statistical analysis and visualization of words in a corpus of texts. Documents can be uploaded to the tool in a variety of formats, and resulting tables, graphs, and images can be linked to or printed out. The director of library technology investigated the tool and conducted workshops on possible uses. The senior academic technologist has worked with two professors and their students in Winter 2014 to integrate Voyant Tools into their classes.</p>
+<p>In Winter 2014 two humanities professors expressed a desire to incorporate concept mapping into their courses. The professors consulted with Academic Technologies staff members and the digital scholarship librarian and chose Prezi as the tool to pilot for this function. Prezi allows multiple collaborators to contribute to the same concept map, and the ease of adding concepts and links, rearranging and editing, flexible layouts, and no-cost price tag made Prezi a tool worth investigating. However, the zoom feature can cause a type of motion sickness for viewers and class concept maps can become unwieldy. We will investigate other tools for concept mapping over the summer of 2014.</p>
+<p>Currently, GIS use at W&amp;L is primarily in the sciences and Politics. Support for GIS is provided through a position in the University Library that specializes in both numerical data analysis and geospatial analysis. The DHWG hosted a workshop in March 2014, taught by GIS specialists from the Scholars’ Lab at the University of Virginia. The workshop provided an introduction to GIS in the humanities and will allow consideration of GIS as an avenue for further exploration in the humanities and social sciences.</p>
+<p>Video creation has been increasing on campus for several years, and its usage in DH courses is expanding as well. Applications such as Vine, VoiceThread, and iMovie involve a potentially collaborative interaction with technology that results in the creation of digital objects that can be shared and commented upon by others. Academic Technologies maintains a video editing suite in the library that allows students access to professional recording and editing equipment, and currently provides all support for video projects in courses.</p>
+<p><strong>Academic Technologies and Library Partnership</strong></p>
+<p>Staffing and workload distribution is a significant issue for any institution tackling DH. In the first eighteen months of the DH initiative at Washington and Lee, the University Library experienced a number of organizational changes including significant vacancies among library faculty. The library structure stabilized in late 2013 with a full complement of library faculty, including the hiring of three librarians in the second half of 2013 that bring significant technological expertise in working with digital content. The staffing changes enable the library to reassess its role in the DH movement on campus. A positive factor is that the library is now capable of taking on an increasing share of the workload relating to DH, which largely had been shouldered by ITS.</p>
+<p>Instrumental to the success of DH is the ITS-library collaboration. At W&amp;L the University Library and ITS are independent divisions unlike the merged ITS/library organizations that now exist at many liberal arts colleges. Each division brings its own professional experiences and expectations towards approaching DH. At times, these perspectives are in conflict regarding information architecture and platform. However, to adequately serve our faculty and students, both ITS and the library must find a common ground for understanding DH, establishing the technical infrastructure for digital initiatives, and formalizing the project management approach to ensure that faculty and students are successful in their DH endeavors. Succeeding in these matters requires a strong level of collaboration and communication between ITS and the library.</p>
+<p>As previously noted, the DHAT is the vehicle through which that collaboration is enabled. Indicative of the joint nature of DHAT is the fact that the group is co-chaired by a representative from ITS and the library. The original formation of DHAT was as an agile handful of people that could respond to the needs of faculty in incorporating DH into their courses. As the library staffing changes settled into place during 2013 – 2014, the membership of DHAT expanded as the library brought onboard a number of individuals with significant expertise in areas relating to DH. Concurrently, DHAT membership was extended to additional ITS professionals who brought valuable skills.</p>
+<p>One continuing challenge at W&amp;L will be figuring out how to share the workload among this talented group without letting the size of the group get in the way. As a call for another round of faculty incentive grants for the following academic year goes out and more faculty request support, DHAT is adopting a project manager approach in which one team member is assigned to coordinate the DH component of a specific course. The project manager duties will be spread among the team rather than centralized with one individual. Given the size of DHAT, there are enough individuals who can serve as project managers so that a technologist can focus more closely on one course rather than needing to juggle a set of DH-inflected courses. An effort is currently underway by the director of academic technologies to codify the scope and duties of a DH project manager, but it’s expected that a project manager will be paired with the faculty member in managing the project.</p>
+<p>Considering that many members of DHAT are new to the university and have not had the opportunity to solidify working relationships with one another, we are planning a summer institute for the team that will focus on building ITS-library collaboration by allowing team members to spend a significant period of time together outside their daily routines. The norms of once-a-month meetings and occasional hallway conversations do not provide enough substance for sustaining a joint initiative. Through the summer institute the team will explore various aspects of digital humanities with a particular focus on tools and methodologies that are applicable to the undergraduate classroom.</p>
+<p>While DH at Washington and Lee is defined as a pedagogical strategy, there still exists the need to support research projects that utilize DH practices. Though Washington and Lee is a liberal arts college, faculty are expected to produce scholarship. Supporting faculty research is a traditional part of library services, and the library is well positioned to handle DH aspects of research projects. The level of involvement in these endeavors will vary from project to project. We are also seeking opportunities that involve students as collaborative partners in DH research projects.</p>
+<p><strong>Enhancing Undergraduate Learning with Digital Humanities</strong></p>
+<p>The support structure for DH at a liberal arts institution must actively engage with the faculty in conceiving how these often complex DH approaches can be reformulated for the classroom where students do not have either the deep subject knowledge of the discipline or the confidence in tackling a new technology. Another challenge is conveying that DH is more than just teaching with technology. In the future, we plan even more pedagogy-focused workshops that explore how faculty are using tools, the difficulties encountered, the effectiveness of various tools, and how to improve student learning.</p>
+<p>Improving student learning, however, first requires defining the learning outcomes expected through DH. One can find an excellent set of learning outcomes and priorities in <em>Digital_Humanities</em> emphasizing “the ability to think critically with digital methods to formulate projects that have humanities questions at their core” (Burdick et al. 2012, 134). Indeed, the mode of critical thinking with digital methods must be incorporated within the mindset of faculty, IT professionals, and librarians to effectively teach with the digital humanities.</p>
+<p>Such thinking is the key to the future of digital humanities on this campus. Dean Keen offers an energetic vision:</p>
+<p style="padding-left: 60px">In ten years, digital humanities projects will be so diffused throughout the curriculum that they no longer look experimental; they gain broad acceptance as a legitimate mode of student work. Student transcripts contain links to their DH projects as part of demonstrated student learning outcomes. Our liberal arts grads possess not only information fluency, but the craft skills to make and manipulate digital artifacts. Parsing large data sets in easily visualized and nuanced ways becomes a normal skill of our humanities grads, along with writing and critical thinking (Suzanne Keen, e-mail message to author, March 11, 2014).</p>
+<p>The key for success of the digital humanities at a small liberal arts college is to focus on the learning outcomes. Identify the knowledge and skills that students should acquire through the DH assignments in a course, and think deeply about how students can transfer that digital learning to their other courses and their lives beyond graduation. In the end, the value of the digital humanities is to reinforce the critical thinking and lifelong learning skills that are the foundation of a liberal arts education.</p>
+<p><strong>Conclusions and Recommendations</strong></p>
+<p>Given that our program is still in the developmental phase, it is difficult to draw any sweeping conclusions about the effectiveness of DH at W&amp;L. We can, however, offer some recommendations and preliminary analysis on starting a movement on a small college campus. Step one is to identify the important constituencies. For faculty this can often be a blind spot. One cannot assume that the teaching faculty are the only critical group and the rest is just details, so to speak. While teaching faculty are central to the success of many ideas, there often is an entire support structure necessary, and this support structure must be brought in as equal partners. For DH specifically, one cannot even begin without cooperation from teaching faculty, library faculty, and ITS staff committing to the vision.</p>
+<p>Step two is to create “buy-in” among the different constituencies. There are many ways to set these expectations, but Dean Keen’s year-long informal gatherings were particularly effective as an ice breaking method for groups who do not always work closely together. They also allowed for some relaxed brainstorming that is difficult to foster in a more formal setting. When it comes to DH, for example, teaching faculty at some institutions are not always comfortable engaging with ITS staff. This can be especially true when it comes to humanities faculty, thus the ice breaking was an inspired step.</p>
+<p>Step three is to keep the university mission front and center. Small liberal arts colleges are teaching institutions. As long as your movement is related to the enhancement of that mission, it can take off. At Washington and Lee, pedagogy is the central focus of all DH efforts. Research programs are necessary and desirable, and some faculty have begun using DH methods in their research, but the focus is on the classroom.</p>
+<p>The last step is to entice teaching faculty. Humanities faculty and qualitatively oriented social scientists are not always comfortable with computing technologies. It is important that library and ITS collaborate to ease the integration of DH methodologies into courses across the curriculum in support of these initiatives. If a movement requires change, it helps if that change can be implemented as simply and easily as possible. If the change is complicated and difficult, there is little incentive for teaching faculty to adopt the desired change.</p>
+<p>Distributed under a <a href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license"><img src="{{ site.baseurl }}/assets/images/88x31.png" alt="Creative Commons License" /></a></p>
+<p><strong>Bibliography</strong></p>
+<p>Alexander, Bryan and Rebecca Frost Davis. “Should Liberal Arts Campuses do Digital Humanities? Process and Products in the Small College World,” In <em>Debates in the Digital Humanities, </em>Edited by Matthew K. Gold, 368-389. Minneapolis: University of Minnesota Press, 2012.</p>
+<p>Brier, Stephen. “Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities,” In <em>Debates in the Digital Humanities</em>, Edited by Matthew K. Gold, 390-412. Minneapolis: University of Minnesota Press, 2012.</p>
+<p>Burdick, Anne, Johanna Drucker, Peter Lunenfeld, Todd Presner and Jeffrey Schnapp. <em>Digital_Humanities. </em>Boston: MIT University Press, 2012.</p>
+<p>Hirsch, Brett D., ed. <em>Digital Humanities Pedagogy: Practices, Principles and Politics</em>. Open Book Publishers, 2012.</p>
+<p>Keen, Suzanne. e-mail message to Paul A.Youngman. March 11, 2014.<strong> </strong><strong> </strong></p>
+<p><strong>Table 1: Committee Structure</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>Representatives</strong></td>
+<td><strong>Digital Humanities Working Group</strong></td>
+<td><strong>Digital Humanities Action Team</strong></td>
+</tr>
+<tr>
+<td>Computer Science professor</td>
+<td bgcolor="#999999"><strong>associate chair</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Classics professor</td>
+<td bgcolor="#999999"></td>
+<td></td>
+</tr>
+<tr>
+<td>German and Russian professor</td>
+<td bgcolor="#999999"><strong>chair</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>History professor (2)</td>
+<td bgcolor="#999999"></td>
+<td></td>
+</tr>
+<tr>
+<td>Politics professor</td>
+<td bgcolor="#999999"></td>
+<td></td>
+</tr>
+<tr>
+<td>Director, Academic Technologies</td>
+<td bgcolor="#999999"></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Senior Academic Technologist</td>
+<td bgcolor="#999999"></td>
+<td bgcolor="#999999"><strong>co-chair</strong></td>
+</tr>
+<tr>
+<td>Senior Technology Architect</td>
+<td></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Technology Integration Specialist</td>
+<td></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Director, Multimedia Center</td>
+<td bgcolor="#999999"></td>
+<td></td>
+</tr>
+<tr>
+<td>Associate University Librarian</td>
+<td bgcolor="#999999"></td>
+<td bgcolor="#999999"><strong>co-chair</strong></td>
+</tr>
+<tr>
+<td>Data/Statistical Support Specialist</td>
+<td></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Digital Scholarship Librarian</td>
+<td bgcolor="#999999"></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Director, Library Technology</td>
+<td bgcolor="#999999"></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Humanities Librarian</td>
+<td bgcolor="#999999"></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Metadata Librarian</td>
+<td></td>
+<td bgcolor="#999999"></td>
+</tr>
+<tr>
+<td>Chief Technology Officer</td>
+<td bgcolor="#999999"><em>ex officio</em></td>
+<td></td>
+</tr>
+<tr>
+<td>Dean of the College of Arts and Sciences</td>
+<td bgcolor="#999999"><em>ex officio</em></td>
+<td></td>
+</tr>
+<tr>
+<td>University Librarian</td>
+<td bgcolor="#999999"><em>ex officio</em></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>About the authors</h2>
+<p><img class="alignleft size-thumbnail wp-image-343" src="{{ site.baseurl }}/assets/images/JeffBarry_Bio-150x150.jpg" alt="JeffBarry_Bio" width="150" height="150" />Jeff Barry is Associate University Librarian/Associate Professor and co-chair of the Digital Humanities Action Team at Washington and Lee University.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignleft size-thumbnail wp-image-341" src="{{ site.baseurl }}/assets/images/JulieKnudson_Bio-150x150.jpg" alt="JulieKnudson_Bio" width="150" height="150" />Julie M. Knudson is Director of Academic Technologies and a member of the Digital Humanities Working Group and Digital Humanities Action Team at Washington and Lee University.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignleft size-thumbnail wp-image-344" src="{{ site.baseurl }}/assets/images/sprenkles_Bio-150x150.jpg" alt="sprenkles_Bio" width="150" height="150" />Sara Sprenkle is Associate Professor of Computer Science and associate chair of the Digital Humanities Working Group at Washington and Lee University.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignleft size-thumbnail wp-image-342" src="{{ site.baseurl }}/assets/images/YoungmanPaul_Bio-150x150.jpg" alt="YoungmanPaul_Bio" width="150" height="150" />Paul A. Youngman is Professor of German and Chair of the Digital Humanities Working Group at Washington and Lee University.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
